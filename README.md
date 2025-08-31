@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Planning](https://img.shields.io/badge/Planning-172-7b61ff) ![Tool Use](https://img.shields.io/badge/Tool%20Use-10-4a90e2) ![RAG](https://img.shields.io/badge/RAG-39-3fb950) ![Execution](https://img.shields.io/badge/Execution-6-ffb000) ![Feedback](https://img.shields.io/badge/Feedback-4-f66a0a) ![Memory](https://img.shields.io/badge/Memory-62-a371f7) ![Multi-Agent](https://img.shields.io/badge/Multi-Agent-124-0fb) ![Apps&Benchs](https://img.shields.io/badge/Apps%26Benchs-10-999999)
+![Planning](https://img.shields.io/badge/Planning-172-7b61ff) ![Tool Use](https://img.shields.io/badge/Tool%20Use-10-4a90e2) ![RAG](https://img.shields.io/badge/RAG-39-3fb950) ![Execution](https://img.shields.io/badge/Execution-6-ffb000) ![Feedback](https://img.shields.io/badge/Feedback-4-f66a0a) ![Memory](https://img.shields.io/badge/Memory-62-a371f7) ![Multi-Agent](https://img.shields.io/badge/Multi%2DAgent-124-0fb) ![Apps&Benchs](https://img.shields.io/badge/Apps%26Benchs-10-999999)
 
 <br/>
 
