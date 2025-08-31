@@ -26,7 +26,6 @@
 - 🌐 [Applications & Benchmarks](#applications-and-benchmarks)
 
 
----
 
 ## Planning
 
@@ -2119,3 +2118,5 @@ Jiaru Zou, Ling Yang, Jingwen Gu, Jiahao Qiu, Ke Shen, Jingrui He, and Mengdi Wa
 Yunheng Zou, Austin H. Cheng, Abdulrahman Aldossary, Jiaru Bai, Shi Xuan Leong, Jorge A. Campos Gonzalez Angulo, Changhyeok Choi, Cher Tian Ser, Gary Tom, Andrew Wang, Zijian Zhang, Ilya Yakavets, Han Hao, Chris Crebolder, Varinia Bernales, and Alán Aspuru-Guzik. El agente: An autonomous agent for quantum chemistry. CoRR , abs/2505.02484, 2025. doi: 10.48550/ARXIV .2505.02484. URL https://doi.org/10. 48550/arXiv.2505.02484 . 42
 
 </details>
+
+
