@@ -10,8 +10,8 @@
 
 </div>
 
-A curated list mirroring the taxonomy in *From Thought to Action: A Survey on Agentic Reasoning Powered by Foundation Models* (2025).  
-Below: **jumpable TOC**, **tables for every category (all references)**, and a **Mermaid framework diagram**.
+<img width="1536" height="1024" alt="6319fe6f-11f6-4872-913f-5fef14d07783" src="https://github.com/user-attachments/assets/3d7e0069-b1d4-46c5-b411-93b25e4e4c67" />
+
 
 ---
 
@@ -25,55 +25,6 @@ Below: **jumpable TOC**, **tables for every category (all references)**, and a *
 - 🤝 [Multi-Agent Collaboration](#multi-agent-collaboration)
 - 🌐 [Applications & Benchmarks](#applications-and-benchmarks)
 
----
-
-## Framework Map
-
-```mermaid
-graph TD
-  A[Agentic Reasoning]
-  A --> B[Planning]
-  A --> C[Tool Use & Integration]
-  A --> D[Retrieval-Augmented Generation]
-  A --> E[Execution]
-  A --> F[Feedback & Reflection]
-  A --> G[Memory]
-  A --> H[Multi-Agent Collaboration]
-  A --> I[Applications & Benchmarks]
-
-  B --> B1[Workflow / SOPs]
-  B --> B2[Tree Search, MCTS, Beam]
-  B --> B3[PDDL, Code-as-Plan]
-  B --> B4[Decomposition]
-  B --> B5[External Aids, World Models]
-  B --> B6[Reward & Control]
-
-  C --> C1[In-Context Tools]
-  C --> C2[Post-Training Tools]
-  C --> C3[Orchestration]
-
-  D --> D1[In-Context RAG]
-  D --> D2[Post-Training RAG]
-  D --> D3[Structured RAG]
-
-  E --> E1[Reactive]
-  E --> E2[Hierarchical]
-  E --> E3[End-to-End]
-  E --> E4[Model-Based]
-
-  F --> F1[Self-Reflection & Retry]
-  F --> F2[Offline Fine-Tuning]
-  F --> F3[Minimalist Retry]
-
-  G --> G1[Passive to Active]
-  G --> G2[Memory-Augmented]
-  G --> G3[Reasoning-Guided]
-  G --> G4[Structured]
-
-  H --> H1[Static: Hierarchy, Pipeline, Roles]
-  H --> H2[Dynamic: Adaptive Graphs, RL]
-  H --> H3[LLM Orchestration]
-```
 
 ---
 
