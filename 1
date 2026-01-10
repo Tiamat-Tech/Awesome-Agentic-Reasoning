@@ -1,19 +1,24 @@
 # Awesome Agentic Reasoning Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository organizes research by thematic areas that integrate reasoning with action, including planning, tool use, search, self-evolution through memory and feedback, multi-agent systems, and real-world applications and benchmarks.
+A curated list of papers on **Agentic Reasoning for Large Language Models**. This repository organizes papers by topics related to planning, tool-use, search, self-evolution, multi-agent systems, and applications.
 
-> 📄 **Based on the survey**: *[Agentic Reasoning for Large Language Models: A Survey](TBD)*
-
-![Framework overview](figs/overview.png)
-
+> 📄 **Based on the survey**: *Agentic Reasoning for Large Language Models: A Survey*
 
 ## 📋 Table of Contents
 
 - [Awesome Agentic Reasoning Papers ](#awesome-agentic-reasoning-papers-)
   - [📋 Table of Contents](#-table-of-contents)
-  - [1. 🌟 Introduction](#1--introduction)
-  - [2. ⚡ From LLM Reasoning to Agentic Reasoning](#2--from-llm-reasoning-to-agentic-reasoning)
-  - [3. 🏗️ Foundational Agentic Reasoning](#3-️-foundational-agentic-reasoning)
+  - [📖 1. Introduction](#-1-introduction)
+    - [🧠 From Thinking to Acting: The Rise of Agentic Reasoning](#-from-thinking-to-acting-the-rise-of-agentic-reasoning)
+    - [🌟 The Paradigm Shift](#-the-paradigm-shift)
+    - [🎯 Survey Framework](#-survey-framework)
+    - [🚀 What This Survey Offers](#-what-this-survey-offers)
+    - [💡 Key Insights](#-key-insights)
+  - [🔀 2. From LLM Reasoning to Agentic Reasoning](#-2-from-llm-reasoning-to-agentic-reasoning)
+    - [Contrasting Capabilities](#contrasting-capabilities)
+    - [2.1 Positioning Our Survey](#21-positioning-our-survey)
+    - [2.2 Preliminaries](#22-preliminaries)
+  - [3. Foundational Agentic Reasoning](#3-foundational-agentic-reasoning)
     - [🗺️ 3.1 Planning Reasoning](#️-31-planning-reasoning)
       - [3.1.1 In-context Planning](#311-in-context-planning)
       - [3.1.2 Post-training Planning](#312-post-training-planning)
@@ -24,7 +29,7 @@ This repository organizes research by thematic areas that integrate reasoning wi
     - [🔍 3.3 Agentic Search](#-33-agentic-search)
       - [3.3.1 In-Context Search](#331-in-context-search)
       - [3.3.2 Post-Training Search](#332-post-training-search)
-  - [4. 🧬 Self-evolving Agentic Reasoning](#4--self-evolving-agentic-reasoning)
+  - [4. Self-evolving Agentic Reasoning](#4-self-evolving-agentic-reasoning)
     - [🔄 4.1 Agentic Feedback Mechanisms](#-41-agentic-feedback-mechanisms)
       - [4.1.1 Reflective Feedback](#411-reflective-feedback)
       - [4.1.2 Parametric Adaptation](#412-parametric-adaptation)
@@ -37,7 +42,7 @@ This repository organizes research by thematic areas that integrate reasoning wi
       - [4.3.1 Self-evolving Planning](#431-self-evolving-planning)
       - [4.3.2 Self-evolving Tool-use](#432-self-evolving-tool-use)
       - [4.3.3 Self-evolving Search](#433-self-evolving-search)
-  - [5. 👥 Collective Multi-agent Reasoning](#5--collective-multi-agent-reasoning)
+  - [5. Collective Multi-agent Reasoning](#5-collective-multi-agent-reasoning)
     - [🎭 5.1 Role Taxonomy of Multi-Agent Systems (MAS)](#-51-role-taxonomy-of-multi-agent-systems-mas)
       - [5.1.1 Generic Roles](#511-generic-roles)
       - [5.1.2 Domain-Specific Roles](#512-domain-specific-roles)
@@ -48,14 +53,14 @@ This repository organizes research by thematic areas that integrate reasoning wi
       - [5.3.1 From Single-Agent Evolution to Multi-Agent Evolution](#531-from-single-agent-evolution-to-multi-agent-evolution)
       - [5.3.2 Multi-agent Memory Management for Evolution](#532-multi-agent-memory-management-for-evolution)
       - [5.3.3 Training Multi-agent to Evolve](#533-training-multi-agent-to-evolve)
-  - [6. 🎨 Applications](#6--applications)
+  - [6. Applications](#6-applications)
     - [💻 6.1 Math Exploration \& Vibe Coding Agents](#-61-math-exploration--vibe-coding-agents)
     - [🔬 6.2 Scientific Discovery Agents](#-62-scientific-discovery-agents)
     - [🤖 6.3 Embodied Agents](#-63-embodied-agents)
     - [⚕️ 6.4 Healthcare \& Medicine Agents](#️-64-healthcare--medicine-agents)
     - [🌐 6.5 Autonomous Web Exploration \& Research Agents](#-65-autonomous-web-exploration--research-agents)
-  - [7. 📊 Benchmarks](#7--benchmarks)
-    - [⚙️ 7.1 Core Mechanisms of Agentic Reasoning](#️-71-core-mechanisms-of-agentic-reasoning)
+  - [7. Benchmarks](#7-benchmarks)
+    - [📊 7.1 Core Mechanisms of Agentic Reasoning](#-71-core-mechanisms-of-agentic-reasoning)
       - [7.1.1 Tool Use](#711-tool-use)
       - [7.1.2 Memory](#712-memory)
       - [7.1.3 Multi-Agent System](#713-multi-agent-system)
@@ -66,6 +71,13 @@ This repository organizes research by thematic areas that integrate reasoning wi
       - [7.2.4 Medical and Clinical Agents](#724-medical-and-clinical-agents)
       - [7.2.5 Web Agents](#725-web-agents)
       - [7.2.6 General Tool-Use Agents](#726-general-tool-use-agents)
+  - [8. Open Problems](#8-open-problems)
+    - [👤 8.1 User-centric Agentic Reasoning and Personalization](#-81-user-centric-agentic-reasoning-and-personalization)
+    - [🔭 8.2 Long-horizon Agentic Reasoning from Extended Interaction](#-82-long-horizon-agentic-reasoning-from-extended-interaction)
+    - [🗺️ 8.3 Agentic Reasoning with World Models](#️-83-agentic-reasoning-with-world-models)
+    - [🤖 8.4 Multi-agent Collaborative Reasoning and Training](#-84-multi-agent-collaborative-reasoning-and-training)
+    - [💡 8.5 Latent Agentic Reasoning](#-85-latent-agentic-reasoning)
+    - [⚖️ 8.6 Governance of Agentic Reasoning](#️-86-governance-of-agentic-reasoning)
   - [🤝 Contributing](#-contributing)
   - [Citation](#citation)
   - [License](#license)
@@ -73,51 +85,226 @@ This repository organizes research by thematic areas that integrate reasoning wi
 
 ---
 
-## 1. 🌟 Introduction
+## 📖 1. Introduction
 
-Bridging thought and action through autonomous agents that reason, act, and learn via continual interaction with their environments. The goal is to enhance agent capabilities by grounding reasoning in action.
+<div align="center">
 
-We organize agentic reasoning into three layers, each corresponding to a distinct reasoning paradigm under different *environmental dynamics*:
+### 🧠 From Thinking to Acting: The Rise of Agentic Reasoning
 
-🔹 **Foundational.** Core single-agent abilities (planning, tool-use, search) in stable environments
-
-🔹 **Self-Evolving.** Adaptation through feedback, memory, and learning in dynamic settings
-
-🔹 **Collective.** Multi-agent coordination, role specialization, and collaborative intelligence
-
-Across these layers, we further identify complementary reasoning paradigms defined by their *optimization settings*.
-
-🔸 **In-Context Reasoning.** Test-time scaling through structured orchestration and adaptive workflows
-
-🔸 **Post-Training Reasoning.** Behavior optimization via RL and supervised fine-tuning
+*Bridging thoughts and actions through autonomous agents that plan, act, and learn*
 
 ---
 
-## 2. ⚡ From LLM Reasoning to Agentic Reasoning
+</div>
 
+**Reasoning** is the cornerstone of intelligence—enabling inference, problem-solving, and decision-making. While large language models (LLMs) excel at reasoning in closed-world settings (mathematics, coding, benchmarks), they face fundamental challenges in **open-ended, dynamic real-world environments**.
 
-| Dimension | LLM Reasoning |  | Agentic Reasoning |
-|----------|---------------|--|-------------------|
-| **Paradigm** | passive | ↔ | interactive |
-|          | static input | ↔ | dynamic context |
-| **Computation** | single pass | ↔ | multi-step |
-|          | internal compute | ↔ | with feedback |
-| **Statefulness** | context window | ↔ | external memory |
-|          | no persistence | ↔ | state tracking |
-| **Learning** | offline pretraining | ↔ | continual improvement |
-|          | fixed knowledge | ↔ | self-evolving |
-| **Goal Orientation** | prompt-based | ↔ | explicit goals |
-|          | reactive | ↔ | planning |
+### 🌟 The Paradigm Shift
 
+The emergence of **agentic reasoning** represents a transformative leap: reframing LLMs as **autonomous agents** that don't just think—they **plan, act, and learn** through continual interaction with their environment.
+
+```mermaid
+graph LR
+    A[Traditional LLM Reasoning] -->|Paradigm Shift| B[Agentic Reasoning]
+    B --> C[Plan]
+    B --> D[Act]
+    B --> E[Learn]
+    C --> F[Adaptive Intelligence]
+    D --> F
+    E --> F
+```
+
+### 🎯 Survey Framework
+
+This survey provides a **systematic roadmap** by organizing agentic reasoning along **three complementary dimensions**:
+
+<table>
+<tr>
+<td width="33%" align="center">
+<h4>🏗️ Environmental Dynamics</h4>
+<b>3 Layers of Capability</b>
+</td>
+<td width="33%" align="center">
+<h4>⚙️ System Constraints</h4>
+<b>2 Optimization Settings</b>
+</td>
+<td width="33%" align="center">
+<h4>🎨 Real-World Impact</h4>
+<b>Applications & Benchmarks</b>
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+🔹 **Foundational** - Core single-agent abilities (planning, tool-use, search) in stable environments
+
+🔹 **Self-Evolving** - Adaptation through feedback, memory, and learning in dynamic settings  
+
+🔹 **Collective** - Multi-agent coordination, role specialization, and collaborative intelligence
+
+</td>
+<td valign="top">
+
+🔸 **In-Context Reasoning** - Test-time scaling through structured orchestration and adaptive workflows
+
+🔸 **Post-Training Reasoning** - Behavior optimization via RL and supervised fine-tuning
+
+</td>
+<td valign="top">
+
+🔬 Scientific Discovery
+
+🤖 Robotics & Embodied AI
+
+⚕️ Healthcare & Medicine
+
+🔍 Autonomous Research
+
+💻 Mathematical Reasoning
+
+</td>
+</tr>
+</table>
+
+### 🚀 What This Survey Offers
+
+<details>
+<summary><b>📚 Comprehensive Taxonomy</b></summary>
+
+- Unified framework organizing 300+ papers across planning, tool-use, search, memory, and multi-agent systems
+- Clear distinction between in-context and post-training optimization approaches
+- Systematic coverage from foundational capabilities to advanced multi-agent collaboration
+
+</details>
+
+<details>
+<summary><b>🔬 Domain-Specific Insights</b></summary>
+
+- Deep dive into how agentic reasoning is instantiated across diverse domains
+- Analysis of evaluation benchmarks spanning core mechanisms and real-world applications
+- Case studies demonstrating reasoning mechanisms in action
+
+</details>
+
+<details>
+<summary><b>🔮 Future Directions</b></summary>
+
+- Identification of open challenges in personalization, long-horizon interaction, and world modeling
+- Discussion of scalable multi-agent training and governance frameworks
+- Roadmap for deploying agentic systems in production environments
+
+</details>
+
+### 💡 Key Insights
+
+> **Agentic reasoning doesn't just extend LLM capabilities—it fundamentally transforms them from passive responders to active problem-solvers that continuously learn and adapt through interaction.**
+
+This survey bridges the gap between:
+- 🧠 **Thoughts** (reasoning & planning) ↔️ 🎬 **Actions** (tool-use & execution)
+- 🔬 **Theory** (methods & frameworks) ↔️ 🏭 **Practice** (applications & deployment)
+- 🤖 **Individual** agents ↔️ 👥 **Collective** intelligence
 
 ---
 
-## 3. 🏗️ Foundational Agentic Reasoning
+<div align="center">
+
+**Ready to explore how agents think, act, and evolve?** 
+
+*Let's dive into the three layers of agentic reasoning below* ⬇️
+
+</div>
+
+---
+
+## 🔀 2. From LLM Reasoning to Agentic Reasoning
+
+### Contrasting Capabilities
+
+<table>
+<thead>
+<tr>
+<th width="20%" align="center"><b>Dimension</b></th>
+<th width="35%" align="center">🤖 <b>LLM Reasoning</b></th>
+<th width="10%" align="center"></th>
+<th width="35%" align="center">🎯 <b>Agentic Reasoning</b></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" rowspan="2"><b>Paradigm</b></td>
+<td align="center">Passive</td>
+<td align="center">↔️</td>
+<td align="center">Interactive</td>
+</tr>
+<tr>
+<td align="center">Static Input</td>
+<td align="center">↔️</td>
+<td align="center">Dynamic Context</td>
+</tr>
+<tr>
+<td align="center" rowspan="2"><b>Computation</b></td>
+<td align="center">Single Pass</td>
+<td align="center">↔️</td>
+<td align="center">Multi-Step</td>
+</tr>
+<tr>
+<td align="center">Internal Compute</td>
+<td align="center">↔️</td>
+<td align="center">With Feedback</td>
+</tr>
+<tr>
+<td align="center" rowspan="2"><b>Statefulness</b></td>
+<td align="center">Context Window</td>
+<td align="center">↔️</td>
+<td align="center">External Memory</td>
+</tr>
+<tr>
+<td align="center">No Persistence</td>
+<td align="center">↔️</td>
+<td align="center">State Tracking</td>
+</tr>
+<tr>
+<td align="center" rowspan="2"><b>Learning</b></td>
+<td align="center">Offline Pretraining</td>
+<td align="center">↔️</td>
+<td align="center">Continual Improvement</td>
+</tr>
+<tr>
+<td align="center">Fixed Knowledge</td>
+<td align="center">↔️</td>
+<td align="center">Self-Evolving</td>
+</tr>
+<tr>
+<td align="center" rowspan="2"><b>Goal Orientation</b></td>
+<td align="center">Prompt-Based</td>
+<td align="center">↔️</td>
+<td align="center">Explicit Goal</td>
+</tr>
+<tr>
+<td align="center">Reactive</td>
+<td align="center">↔️</td>
+<td align="center">Planning</td>
+</tr>
+</tbody>
+</table>
+
+### 2.1 Positioning Our Survey
+
+| Paper | Venue | Link |
+|-------|-------|------|
+| Paper Title | Venue Year | [Paper]() |
+
+### 2.2 Preliminaries
+
+| Paper | Venue | Link |
+|-------|-------|------|
+| Paper Title | Venue Year | [Paper]() |
+
+---
+
+## 3. Foundational Agentic Reasoning
 
 ### 🗺️ 3.1 Planning Reasoning
-
-![plan](figs/planning.png)
-
 
 #### 3.1.1 In-context Planning
 
@@ -132,9 +319,6 @@ Across these layers, we further identify complementary reasoning paradigms defin
 | Paper Title | Venue Year | [Paper]() [Code]() |
 
 ### 🛠️ 3.2 Tool-Use Optimization
-
-![tool](figs/tool_use.png)
-
 
 #### 3.2.1 In-Context Tool-Integration
 
@@ -156,9 +340,6 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ### 🔍 3.3 Agentic Search
 
-![search](figs/search.png)
-
-
 #### 3.3.1 In-Context Search
 
 | Paper | Venue | Link |
@@ -173,7 +354,7 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ---
 
-## 4. 🧬 Self-evolving Agentic Reasoning
+## 4. Self-evolving Agentic Reasoning
 
 ### 🔄 4.1 Agentic Feedback Mechanisms
 
@@ -237,7 +418,7 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ---
 
-## 5. 👥 Collective Multi-agent Reasoning
+## 5. Collective Multi-agent Reasoning
 
 ### 🎭 5.1 Role Taxonomy of Multi-Agent Systems (MAS)
 
@@ -289,7 +470,7 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ---
 
-## 6. 🎨 Applications
+## 6. Applications
 
 ### 💻 6.1 Math Exploration & Vibe Coding Agents
 
@@ -323,9 +504,9 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ---
 
-## 7. 📊 Benchmarks
+## 7. Benchmarks
 
-### ⚙️ 7.1 Core Mechanisms of Agentic Reasoning
+### 📊 7.1 Core Mechanisms of Agentic Reasoning
 
 #### 7.1.1 Tool Use
 
@@ -385,24 +566,66 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ---
 
-## 🤝 Contributing
-This collection is an ongoing effort. We are actively expanding and refining its coverage, and welcome contributions from the community. You can:
+## 8. Open Problems
 
-- Submit a pull request to add papers or resources
-- Open an issue to suggest additional papers or resources
-- Email us at twei10@illinois.edu
+### 👤 8.1 User-centric Agentic Reasoning and Personalization
+
+| Paper | Venue | Link |
+|-------|-------|------|
+| Paper Title | Venue Year | [Paper]() |
+
+### 🔭 8.2 Long-horizon Agentic Reasoning from Extended Interaction
+
+| Paper | Venue | Link |
+|-------|-------|------|
+| Paper Title | Venue Year | [Paper]() |
+
+### 🗺️ 8.3 Agentic Reasoning with World Models
+
+| Paper | Venue | Link |
+|-------|-------|------|
+| Paper Title | Venue Year | [Paper]() |
+
+### 🤖 8.4 Multi-agent Collaborative Reasoning and Training
+
+| Paper | Venue | Link |
+|-------|-------|------|
+| Paper Title | Venue Year | [Paper]() |
+
+### 💡 8.5 Latent Agentic Reasoning
+
+| Paper | Venue | Link |
+|-------|-------|------|
+| Paper Title | Venue Year | [Paper]() |
+
+### ⚖️ 8.6 Governance of Agentic Reasoning
+
+| Paper | Venue | Link |
+|-------|-------|------|
+| Paper Title | Venue Year | [Paper]() |
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions to expand our collection. You can:
+
+* Submit a pull request to add papers or resources
+* Open an issue to suggest additional papers or resources
+* Email us at twei10@illinois.edu
 
 We regularly update the repository to include new research.
+
 ## Citation
 
-If you find this repository or paper useful, please consider citing the survey paper:
+If you find this repository useful, please consider citing the survey paper:
 
 ```bibtex
-@article{wei2026agent,
-  title={Agentic Reasoning for Large Language Models},
-  author={Tianxin Wei, Ting-Wei Li, Zhining Liu, Xuying Ning, Ze Yang, Jiaru Zou, Zhichen Zeng, Ruizhong Qiu, Xiao Lin, Dongqi Fu, Zihao Li, Mengting Ai, Duo Zhou, Wenxuan Bao, Yunzhe Li, Gaotang Li, Cheng Qian, Yu Wang, Xiangru Tang, Yin Xiao, Liri Fang, Hui Liu, Xianfeng Tang, Yuji Zhang, Chi Wang, Jiaxuan You, Heng Ji, Hanghang Tong, Jingrui He},
-  journal={arXiv preprint},
-  year={2026}
+@article{agentic-reasoning-survey,
+  title={Agentic Reasoning for Large Language Models: A Survey},
+  author={},
+  journal={},
+  year={2025}
 }
 ```
 
