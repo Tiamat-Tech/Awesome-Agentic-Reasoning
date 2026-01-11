@@ -435,4 +435,4 @@ This repository is licensed under the MIT License.
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/awesome-agentic-reasoning&type=Date)](https://star-history.com/#yourusername/awesome-agentic-reasoning&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=weitianxin/Awesome-Agentic-Reasoning&type=Date)](https://star-history.com/#weitianxin/Awesome-Agentic-Reasoning&Date)
