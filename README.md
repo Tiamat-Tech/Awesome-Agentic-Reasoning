@@ -233,7 +233,7 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ### 🚀 4.3 Evolving Foundational Agentic Capabilities
 
-![mem](figs/evolving.png)
+![mem](figs/evolve.png)
 
 #### 4.3.1 Self-evolving Planning
 
