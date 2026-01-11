@@ -1,4 +1,13 @@
-# Awesome Agentic Reasoning Papers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Agentic Reasoning Papers
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2501.xxxxx)
+[![GitHub stars](https://img.shields.io/github/stars/weitianxin/Awesome-Agentic-Reasoning?style=social)](https://github.com/weitianxin/Awesome-Agentic-Reasoning/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/weitianxin/Awesome-Agentic-Reasoning?style=social)](https://github.com/weitianxin/Awesome-Agentic-Reasoning/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/weitianxin/Awesome-Agentic-Reasoning/blob/main/CONTRIBUTING.md)
+![Last Commit](https://img.shields.io/github/last-commit/weitianxin/Awesome-Agentic-Reasoning)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=weitianxin.Awesome-Agentic-Reasoning)
 
 This repository organizes research by thematic areas that integrate reasoning with action, including planning, tool use, search, self-evolution through memory and feedback, multi-agent systems, and real-world applications and benchmarks.
 
@@ -9,7 +18,7 @@ This repository organizes research by thematic areas that integrate reasoning wi
 
 ## 📋 Table of Contents
 
-- [Awesome Agentic Reasoning Papers ](#awesome-agentic-reasoning-papers-)
+- [Awesome Agentic Reasoning Papers](#awesome-agentic-reasoning-papers)
   - [📋 Table of Contents](#-table-of-contents)
   - [1. 🌟 Introduction](#1--introduction)
   - [2. ⚡ From LLM Reasoning to Agentic Reasoning](#2--from-llm-reasoning-to-agentic-reasoning)
@@ -121,15 +130,16 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 #### 3.1.1 In-context Planning
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 3.1.2 Post-training Planning
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### 🛠️ 3.2 Tool-Use Optimization
 
@@ -138,21 +148,21 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 #### 3.2.1 In-Context Tool-Integration
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 3.2.2 Post-training Tool-Integration
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 3.2.3 Orchestration-based Tool-Integration
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### 🔍 3.3 Agentic Search
 
@@ -161,15 +171,15 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 #### 3.3.1 In-Context Search
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 3.3.2 Post-Training Search
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ---
 
@@ -182,21 +192,21 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 #### 4.1.1 Reflective Feedback
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 4.1.2 Parametric Adaptation
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 4.1.3 Validator-Driven Feedback
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### 🧠 4.2 Agentic Memory
 
@@ -205,21 +215,21 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 #### 4.2.1 Agentic Use of Memory
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 4.2.2 Structured Memory Representations
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 4.2.3 Post-training Memory Control
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### 🚀 4.3 Evolving Foundational Agentic Capabilities
 
@@ -227,21 +237,21 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 #### 4.3.1 Self-evolving Planning
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 4.3.2 Self-evolving Tool-use
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 4.3.3 Self-evolving Search
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ---
 
@@ -253,15 +263,15 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 #### 5.1.1 Generic Roles
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 5.1.2 Domain-Specific Roles
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### 🤝 5.2 Collaboration and Division of Labor
 
@@ -270,15 +280,15 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 #### 5.2.1 In-context Collaboration
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 5.2.2 Post-training Collaboration
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### 🌱 5.3 Multi-Agent Evolution
 
@@ -286,21 +296,21 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 #### 5.3.1 From Single-Agent Evolution to Multi-Agent Evolution
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 5.3.2 Multi-agent Memory Management for Evolution
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 #### 5.3.3 Training Multi-agent to Evolve
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ---
 
@@ -311,33 +321,33 @@ Across these layers, we further identify complementary reasoning paradigms defin
 
 ### 💻 6.1 Math Exploration & Vibe Coding Agents
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### 🔬 6.2 Scientific Discovery Agents
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### 🤖 6.3 Embodied Agents
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### ⚕️ 6.4 Healthcare & Medicine Agents
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ### 🌐 6.5 Autonomous Web Exploration & Research Agents
 
-| Paper | Venue | Link |
-|-------|-------|------|
-| Paper Title | Venue Year | [Paper]() [Code]() |
+| ID | Paper | Venue | Link |
+|-------|-------|-------|------|
+| ID | Paper Title | Venue Year | [Paper]() |
 
 ---
 
