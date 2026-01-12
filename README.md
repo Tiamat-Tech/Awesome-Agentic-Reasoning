@@ -103,14 +103,14 @@ If you find this repository or paper useful, please consider citing the survey p
 
 ---
 
-## 3. 🏗️ Foundational Agentic Reasoning
+## 🏗️ Foundational Agentic Reasoning
 
-### 🗺️ 3.1 Planning Reasoning
+### 🗺️ Planning Reasoning
 
 ![plan](figs/planning.png)
 
 
-#### 3.1.1 In-context Planning
+#### In-context Planning
 
 #### Workflow Design
 
@@ -235,7 +235,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Tool-Planner: Task Planning with Clusters](https://arxiv.org/abs/2406.03807) | ArXiv 2024 |
 | [RetroInText: A Multimodal LLM Framework for Retrosynthetic Planning](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3Db2fbf1c9bc) | ICLR 2025 |
 
-#### 3.1.2 Post-training Planning
+#### Post-training Planning
 
 | Paper | Venue |
 | --- | --- |
@@ -256,12 +256,12 @@ If you find this repository or paper useful, please consider citing the survey p
 
 
 
-### 🛠️ 3.2 Tool-Use Optimization
+### 🛠️ Tool-Use Optimization
 
 ![tool](figs/tool_use.png)
 
 
-#### 3.2.1 In-Context Tool-Integration
+#### In-Context Tool-Integration
 
 
 ##### Interleaving Reasoning and Tool Use
@@ -285,7 +285,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2db8ce969b000fe0b3fb172490c33ce8-Abstract-Conference.html) | NeurIPS 2024 |
 
 
-#### 3.2.2 Post-training Tool-Integration
+#### Post-training Tool-Integration
 
 
 ##### Bootstrapping of Tool Use via SFT
@@ -328,7 +328,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) | ArXiv 2025 |
 | [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular Reasoning](https://arxiv.org/abs/2510.06217) | ArXiv 2025 |
 
-#### 3.2.3 Orchestration-based Tool-Integration
+#### Orchestration-based Tool-Integration
 
 ##### Agentic Pipelines for Tool Orchestration
 
@@ -351,12 +351,12 @@ If you find this repository or paper useful, please consider citing the survey p
 | [ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3DBf8k3M6gqE) | ICLR 2024 |
 | [ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval](https://aclanthology.org/2024.lrec-main.1413/) | COLING 2024 |
 
-### 🔍 3.3 Agentic Search
+### 🔍 Agentic Search
 
 ![search](figs/search.png)
 
 
-#### 3.3.1 In-Context Search
+#### In-Context Search
 
 ##### Interleaving Reasoning and Search
 
@@ -379,7 +379,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [GeAR: Graph-Enhanced Agent for Retrieval-Augmented Generation](https://arxiv.org/abs/2412.18431) | ArXiv 2024 |
 | [Learning to Retrieve and Reason on Knowledge Graph through Active Self-Reflection](https://arxiv.org/abs/2502.14932) | ArXiv 2025 |
 
-#### 3.3.2 Post-Training Search
+#### Post-Training Search
 
 
 ##### SFT-Based Agentic Search
@@ -407,14 +407,14 @@ If you find this repository or paper useful, please consider citing the survey p
 
 ---
 
-## 4. 🧬 Self-evolving Agentic Reasoning
+## 🧬 Self-evolving Agentic Reasoning
 
-### 🔄 4.1 Agentic Feedback Mechanisms
+### 🔄 Agentic Feedback Mechanisms
 
 ![feed](figs/feedback.png)
 
 
-#### 4.1.1 Reflective Feedback
+#### Reflective Feedback
 
 | Paper | Venue |
 | --- | --- |
@@ -431,7 +431,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) | ArXiv 2023 |
 | [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) | ArXiv 2023 |
 
-#### 4.1.2 Parametric Adaptation
+#### Parametric Adaptation
 
 
 | Paper | Venue |
@@ -446,7 +446,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) | ArXiv 2022 |
 | [ReflectEvo: Improving Meta Introspection of Small LLMs by Learning Self-Reflection](https://aclanthology.org/2025.findings-acl.871/) | ACL (Findings) 2025 |
 
-#### 4.1.3 Validator-Driven Feedback
+#### Validator-Driven Feedback
 
 | Paper | Venue |
 | --- | --- |
@@ -459,12 +459,12 @@ If you find this repository or paper useful, please consider citing the survey p
 | [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) | ICML 2023 |
 | [Reflect, Retry, Reward: Self-Improving LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.24726) | ArXiv 2025 |
 
-### 🧠 4.2 Agentic Memory
+### 🧠 Agentic Memory
 
 ![mem](figs/memory.png)
 
 
-#### 4.2.1 Agentic Use of Memory
+#### Agentic Use of Memory
 
 
 ##### Conversational Memory and Factual Memory
@@ -505,7 +505,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Seeing, listening, remembering, and reasoning: A multimodal agent with long-term memory](https://arxiv.org/abs/2508.09736) | ArXiv 2025 |
 | [Agent-ScanKit: Unraveling Memory and Reasoning of Multimodal Agents via Sensitivity Perturbations](https://arxiv.org/abs/2510.00496) | ArXiv 2025 |
 
-#### 4.2.2 Structured Memory Representations
+#### Structured Memory Representations
 
 | Paper | Venue |
 | --- | --- |
@@ -520,7 +520,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | ArXiv 2024 |
 | [Dynamic Cheatsheet: Test-time learning with adaptive memory](https://arxiv.org/abs/2504.07952) | ArXiv 2025 |
 
-#### 4.2.3 Post-training Memory Control
+#### Post-training Memory Control
 
 | Paper | Venue |
 | --- | --- |
@@ -531,11 +531,11 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2510.12635) | ArXiv 2025 |
 | [Agent Learning via Early Experience](https://arxiv.org/abs/2510.08558) | ArXiv 2025 |
 
-### 🚀 4.3 Evolving Foundational Agentic Capabilities
+### 🚀 Evolving Foundational Agentic Capabilities
 
 ![mem](figs/evolve.png)
 
-#### 4.3.1 Self-evolving Planning
+#### Self-evolving Planning
 
 | Paper | Venue |
 | --- | --- |
@@ -555,7 +555,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning](https://arxiv.org/abs/2504.20073) | ArXiv 2025 |
 | [DYSTIL: Dynamic Strategy Induction with Large Language Models for Reinforcement Learning](https://arxiv.org/abs/2505.03209) | ArXiv 2025 |
 
-#### 4.3.2 Self-evolving Tool-use
+#### Self-evolving Tool-use
 
 | Paper | Venue |
 | --- | --- |
@@ -564,7 +564,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models](https://aclanthology.org/2023.findings-emnlp.462/) | EMNLP 2023 |
 | [LLM Agents Making Agent Tools](https://arxiv.org/abs/2502.11705) | ArXiv 2025 |
 
-#### 4.3.3 Self-evolving Search
+#### Self-evolving Search
 
 | Paper | Venue |
 | --- | --- |
@@ -589,16 +589,16 @@ If you find this repository or paper useful, please consider citing the survey p
 
 ---
 
-## 5. 👥 Collective Multi-agent Reasoning
+## 👥 Collective Multi-agent Reasoning
 
 ![mem](figs/mas.png)
 
-### 🤝 5.2 Collaboration and Division of Labor
+### 🤝 Collaboration and Division of Labor
 
 ![collab](figs/multi-agent-collab.png)
 
 
-#### 5.2.1 In-context Collaboration
+#### In-context Collaboration
 
 
 ##### Manually Crafted Pipelines
@@ -639,7 +639,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Large Language Models as Theory of Mind Aware Generative Agents with Counterfactual Reflection](https://arxiv.org/abs/2501.15355) | ArXiv 2025 |
 | [BeliefNest: A Joint Action Simulator for Embodied Agents with Theory of Mind](https://arxiv.org/abs/2505.12321) | ArXiv 2025 |
 
-#### 5.2.2 Post-training Collaboration
+#### Post-training Collaboration
 
 ##### Multi-agent Prompt Optimization
 
@@ -686,11 +686,11 @@ If you find this repository or paper useful, please consider citing the survey p
 | [M3HF: Multi-Agent Reinforcement Learning from Multi-Phase Human Feedback of Mixed Quality](https://arxiv.org/abs/2503.02077) | ArXiv 2025 |
 | [O-MAPL: Offline Multi-Agent Preference Learning](https://arxiv.org/abs/2501.18944) | ArXiv 2025 |
 
-### 🌱 5.3 Multi-Agent Evolution
+### 🌱 Multi-Agent Evolution
 
 ![mmem](figs/multi-agent memory.png)
 
-#### 5.3.1 From Single-Agent Evolution to Multi-Agent Evolution
+#### From Single-Agent Evolution to Multi-Agent Evolution
 
 ##### Intra-test-time Evolution
 
@@ -735,7 +735,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Testing Advanced Driver Assistance Systems Using Multi-Objective Search and Neural Networks](https://dl.acm.org/doi/10.1145/2970276.2970311) | ASE 2016 |
 | [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639) | ArXiv 2025 |
 
-#### 5.3.2 Multi-agent Memory Management for Evolution
+#### Multi-agent Memory Management for Evolution
 
 | Paper | Venue |
 | --- | --- |
@@ -751,7 +751,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Lyfe Agents: Generative agents for low-cost real-time social interactions](https://arxiv.org/abs/2310.02172) | ArXiv 2023 |
 | [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) | ArXiv 2025 |
 
-#### 5.3.3 Training Multi-agent to Evolve
+#### Training Multi-agent to Evolve
 
 | Paper | Venue |
 | --- | --- |
@@ -767,12 +767,12 @@ If you find this repository or paper useful, please consider citing the survey p
 
 ---
 
-## 6. 🎨 Applications
+## 🎨 Applications
 
 ![app](figs/application.png)
 
 
-### 💻 6.1 Math Exploration & Vibe Coding Agents
+### 💻 Math Exploration & Vibe Coding Agents
 
 #### Foundational Agentic Reasoning
 
@@ -844,7 +844,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering](https://arxiv.org/abs/2502.06994) | ICML 2025 |
 | [Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation (CANDOR)](https://arxiv.org/abs/2506.02943) | ArXiv 2025 |
 
-### 🔬 6.2 Scientific Discovery Agents
+### 🔬 Scientific Discovery Agents
 
 Here are the extracted citation tables grouped by their respective sections.
 
@@ -907,7 +907,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Toward a team of ai-made scientists for scientific discovery from gene expression data](https://arxiv.org/abs/2402.12391) | ArXiv 2024 |
 | [The virtual lab: Ai agents design new sars-cov-2 nanobodies with experimental validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1) | bioRxiv 2024 |
 
-### 🤖 6.3 Embodied Agents
+### 🤖 Embodied Agents
 
 #### Foundational Agentic Reasoning
 
@@ -987,7 +987,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [VIKI-R: A VLM-Based Reinforcement Learning Approach for Heterogeneous Multi-Agent Cooperation](https://arxiv.org/abs/2502.06450) | ArXiv 2025 |
 | [RoCo: Dialectic Multi-Robot Collaboration with Large Language Models](https://arxiv.org/abs/2307.04738) | ArXiv 2024 |
 
-### 🏥 6.4 Healthcare & Medicine Agents
+### 🏥 Healthcare & Medicine Agents
 
 #### Foundational agentic reasoning
 
@@ -1057,7 +1057,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [RAG-Enhanced Collaborative LLM Agents for Drug Discovery](https://arxiv.org/abs/2501.07842) | ArXiv 2025 |
 | [GMAI-VL-R1: Harnessing Reinforcement Learning for Multi-Modal Medical Reasoning](https://arxiv.org/abs/2502.03260) | ArXiv 2025 |
 
-### 🌐 6.5 Autonomous Web Exploration & Research Agents
+### 🌐 Autonomous Web Exploration & Research Agents
 
 #### Foundational agentic reasoning
 
@@ -1212,15 +1212,15 @@ Here are the extracted citation tables grouped by their respective sections.
 
 ---
 
-## 7. 📊 Benchmarks
+## 📊 Benchmarks
 
 ![bench](figs/benchmark.png)
 
 
-### ⚙️ 7.1 Core Mechanisms of Agentic Reasoning
+### ⚙️ Core Mechanisms of Agentic Reasoning
 
 
-#### 7.1.1 Tool Use
+#### Tool Use
 
 
 ##### Single-Turn Tool Use
@@ -1245,7 +1245,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [UltraTool: A Fine-Grained Tool Learning Benchmark for Large Language Models](https://arxiv.org/abs/2402.04629) | ACL 2024 |
 | [MTU-Bench: A Multi-granularity Benchmark for Multi-turn Tool-use](https://openreview.net/forum?id=z5uVAKwmjf) | ICLR 2025 |
 
-#### 7.1.2 Memory
+#### Memory
 
 ##### Long-Horizon Episodic Memory
 
@@ -1273,7 +1273,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857) | ArXiv 2025 |
 
 
-#### 7.1.3 Multi-Agent System
+#### Multi-Agent System
 
 ##### Game-based reinforcement learning evaluation
 
@@ -1317,11 +1317,11 @@ Here are the extracted citation tables grouped by their respective sections.
 
 
 
-### 🎯 7.2 Applications of Agentic Reasoning
+### 🎯 Applications of Agentic Reasoning
 
 
 
-#### 7.2.1 Embodied Agents
+#### Embodied Agents
 
 | Paper | Venue |
 | --- | --- |
@@ -1335,7 +1335,7 @@ Here are the extracted citation tables grouped by their respective sections.
 
 
 
-#### 7.2.2 Scientific Discovery Agents
+#### Scientific Discovery Agents
 
 | Paper | Venue |
 | --- | --- |
@@ -1348,7 +1348,7 @@ Here are the extracted citation tables grouped by their respective sections.
 
 
 
-#### 7.2.3 Autonomous Research Agents
+#### Autonomous Research Agents
 
 | Paper | Venue |
 | --- | --- |
@@ -1365,7 +1365,7 @@ Here are the extracted citation tables grouped by their respective sections.
 
 
 
-#### 7.2.4 Medical and Clinical Agents
+#### Medical and Clinical Agents
 
 | Paper | Venue |
 | --- | --- |
@@ -1377,7 +1377,7 @@ Here are the extracted citation tables grouped by their respective sections.
 
 
 
-#### 7.2.5 Web Agents
+#### Web Agents
 
 | Paper | Venue |
 | --- | --- |
@@ -1392,7 +1392,7 @@ Here are the extracted citation tables grouped by their respective sections.
 
 
 
-#### 7.2.6 General Tool-Use Agents
+#### General Tool-Use Agents
 
 | Paper | Venue |
 | --- | --- |
