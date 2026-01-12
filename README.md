@@ -51,8 +51,6 @@ This repository organizes research by thematic areas that integrate reasoning wi
     - [Medical and Clinical Agents](#medical-and-clinical-agents)
     - [Web Agents](#web-agents)
     - [General Tool-Use Agents](#general-tool-use-agents)
-- [License](#license)
-
 
 ---
 
