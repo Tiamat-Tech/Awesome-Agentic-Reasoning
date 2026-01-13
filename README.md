@@ -1223,23 +1223,23 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Venue |
 | --- | --- |
-| [ToolQA: A Dataset for LLM Question Answering with External Tools](https://www.google.com/search?q=https://proceedings.neurips.cc/paper_files/paper/2023/file/49a99736932400b848c772be4b067a91-Paper-Datasets_and_Benchmarks.pdf) | NeurIPS 2023 |
+| [ToolQA: A Dataset for LLM Question Answering with External Tools](https://openreview.net/forum?id=pV1xV2RK6I) | NeurIPS 2023 |
 | [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) | ArXiv 2023 |
 | [ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs](https://arxiv.org/abs/2307.16789) | ICLR 2024 |
 | [MetaTool: A Benchmark for Controlling Special-purpose Large Language Models](https://arxiv.org/abs/2310.03128) | ICLR 2024 |
 | [T-Eval: Evaluating the Tool Utilization Capability of Large Language Models Step by Step](https://arxiv.org/abs/2312.14033) | ACL 2024 |
 | [GTA: A Benchmark for General Tool Agents](https://arxiv.org/abs/2407.08713) | NeurIPS 2024 |
-| [ToolRet: A Large-Scale Retrieval Benchmark for Tool Learning](https://arxiv.org/abs/2503.01763) | ArXiv 2025 |
+| [Retrieval Models Aren't Tool-Savvy: Benchmarking Tool Retrieval for Large Language Models](https://arxiv.org/abs/2503.01763) | ArXiv 2025 |
 
 ##### Multi-Turn Tool Use
 
 | Paper | Venue |
 | --- | --- |
 | [ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases](https://arxiv.org/abs/2306.05301) | ArXiv 2023 |
-| [SambaNova-ToolBench: A Benchmark for Tool Manipulation with Large Language Models](https://arxiv.org/abs/2305.16504) | ArXiv 2023 |
+| [On the Tool Manipulation Capability of Open-source Large Language Models](https://arxiv.org/abs/2305.16504) | ArXiv 2023 |
 | [API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs](https://aclanthology.org/2023.emnlp-main.187/) | EMNLP 2023 |
-| [UltraTool: A Fine-Grained Tool Learning Benchmark for Large Language Models](https://arxiv.org/abs/2402.04629) | ACL 2024 |
-| [MTU-Bench: A Multi-granularity Benchmark for Multi-turn Tool-use](https://openreview.net/forum?id=z5uVAKwmjf) | ICLR 2025 |
+| [Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios](https://arxiv.org/abs/2401.17167) | ACL 2024 |
+| [MTU-Bench: A Multi-granularity Tool-Use Benchmark for Large Language Models](https://openreview.net/forum?id=6guG2OlXsr) | ICLR 2025 |
 
 #### Memory
 
@@ -1247,25 +1247,25 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Venue |
 | --- | --- |
-| [PerLTQA: A Persona-based Long-term Memory Benchmark for RAG](https://arxiv.org/abs/2409.11739) | ArXiv 2024 |
+| [PerLTQA: A Persona-based Long-term Memory Benchmark for RAG](https://arxiv.org/abs/2402.16288) | ArXiv 2024 |
 | [ELITR-Bench: A Meeting Assistant Benchmark for Long-Context LLMs](https://arxiv.org/abs/2403.20262) | ArXiv 2024 |
-| [Multi-IF: A Benchmark for Multi-turn Instruction Following](https://arxiv.org/abs/2405.19793) | ArXiv 2024 |
-| [MultiChallenge: A Novel Benchmark for Long-term Memory in Multi-turn Dialogues](https://arxiv.org/abs/2502.13880) | ArXiv 2025 |
-| [TurnBench-MS: A Benchmark for Multi-turn Symbolic Reasoning](https://arxiv.org/abs/2502.14321) | ArXiv 2025 |
-| [StoryBench: A Benchmark for Story Generation with Long-term Memory](https://arxiv.org/abs/2506.13356) | ArXiv 2025 |
+| [Multi-IF: A Benchmark for Multi-turn Instruction Following](https://arxiv.org/abs/2410.15553) | ArXiv 2024 |
+| [MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs](https://arxiv.org/abs/2501.17399v1) | ArXiv 2025 |
+| [TurnBench-MS: A Benchmark for Evaluating Multi-Turn, Multi-Step Reasoning in Large Language Models](https://arxiv.org/abs/2506.01341) | ArXiv 2025 |
+| [StoryBench: A Dynamic Benchmark for Evaluating Long-Term Memory with Multi Turns](https://arxiv.org/abs/2506.13356) | ArXiv 2025 |
 | [MemBench: Long-Context LLMs are not Enough](https://arxiv.org/abs/2501.12745) | ArXiv 2025 |
-| [MMRC: A Multimodal Memory Benchmark for Long-Context LLMs](https://arxiv.org/abs/2502.17110) | ArXiv 2025 |
+| [MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation](https://arxiv.org/abs/2502.11903) | ArXiv 2025 |
 
 ##### Multi-session Recall
 
 | Paper | Venue |
 | --- | --- |
 | [Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753) | ArXiv 2024 |
-| [MemSim: A User Simulator for Evaluating Memory Tracking in Long-term Conversations](https://arxiv.org/abs/2405.16872) | ArXiv 2024 |
+| [MemSim: A Bayesian Simulator for Evaluating Memory of LLM-based Personal Assistants](https://arxiv.org/abs/2409.20163) | ArXiv 2024 |
 | [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813) | ArXiv 2024 |
-| [RealTalk: A Large-Scale Corpus of Real-World Conversational Data](https://arxiv.org/abs/2502.04690) | ArXiv 2025 |
-| [Evaluating Agentic Memory through Multi-session Interaction](https://arxiv.org/abs/2502.12110) | ArXiv 2025 |
-| [Mem-Gallery: A Multimodal Long-term Memory Benchmark for LLM Agents](https://arxiv.org/abs/2601.03515) | ArXiv 2026 |
+| [REALTALK: A 21-Day Real-World Dataset for Long-Term Conversation](https://arxiv.org/abs/2502.13270) | ArXiv 2025 |
+| [Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions](https://arxiv.org/abs/2507.05257) | ArXiv 2025 |
+| [Mem-Gallery: Benchmarking Multimodal Long-Term Conversational Memory for MLLM Agents](https://arxiv.org/abs/2601.03515) | ArXiv 2026 |
 | [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857) | ArXiv 2025 |
 
 
@@ -1278,8 +1278,8 @@ Here are the extracted citation tables grouped by their respective sections.
 | [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/abs/1712.00600) | AAAI 2018 |
 | [Pommerman: A Multi-Agent Playground](https://arxiv.org/abs/1809.07124) | ArXiv 2018 |
 | [The StarCraft Multi-Agent Challenge](https://arxiv.org/abs/1902.04043) | NeurIPS 2019 |
-| [MineLand: A Multi-Agent Minecraft Benchmark for Collective Intelligence](https://arxiv.org/abs/2401.10646) | ArXiv 2024 |
-| [TeamCraft: A Benchmark for Multi-Modal Multi-Agent Collaboration in Minecraft](https://arxiv.org/abs/2406.01014) | ArXiv 2024 |
+| [MineLand: Simulating Large-Scale Multi-Agent Interactions with Limited Multimodal Senses and Physical Needs](https://arxiv.org/abs/2403.19267) | ArXiv 2024 |
+| [TeamCraft: A Benchmark for Multi-Modal Multi-Agent Systems in Minecraft](https://arxiv.org/abs/2412.05255) | ArXiv 2024 |
 | [Scalable Evaluation of Multi-Agent Reinforcement Learning with Melting Pot](https://arxiv.org/abs/2107.06857) | ICML 2021 |
 | [BenchMARL: Benchmarking Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2312.01472) | ArXiv 2023 |
 | [Arena: A General Evaluation Platform and Building Toolkit for Multi-Agent Intelligence](https://arxiv.org/abs/1905.08085) | AAAI 2020 |
@@ -1290,24 +1290,24 @@ Here are the extracted citation tables grouped by their respective sections.
 | --- | --- |
 | [SMARTS: Scalable Multi-Agent Reinforcement Learning Training School for Autonomous Driving](https://arxiv.org/abs/2010.09776) | CoRL 2020 |
 | [Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world](https://arxiv.org/abs/2206.09889) | NeurIPS 2022 |
-| [Versatile Multi-Agent Reinforcement Learning for Business Inventory Management](https://arxiv.org/abs/2306.05929) | ArXiv 2023 |
-| [IMP-MARL: a Suite of Environments for Infrastructure Management Planning with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2306.11553) | NeurIPS 2023 |
-| [POGEMA: Partially Observable Grid Environment for Multiple Agents](https://arxiv.org/abs/2407.13032) | IJCAI 2024 |
-| [IntersectionZoo: A Benchmark for Democratizing RL in Real-World Eco-Driving](https://arxiv.org/abs/2407.16733) | NeurIPS 2024 |
-| [REALM: A Benchmark for Reasoning and Logic in Multi-Agent Systems](https://arxiv.org/abs/2502.18836v2) | ArXiv 2025 |
+| [A Versatile Multi-Agent Reinforcement Learning Benchmark for Inventory Management](https://arxiv.org/abs/2306.07542) | ArXiv 2023 |
+| [IMP-MARL: a Suite of Environments for Infrastructure Management Planning with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2306.11551) | NeurIPS 2023 |
+| [POGEMA: Partially Observable Grid Environment for Multiple Agents](https://arxiv.org/abs/2206.10944) | Arxiv 2022 |
+| [IntersectionZoo: Eco-driving for Benchmarking Multi-Agent Contextual Reinforcement Learning](https://arxiv.org/abs/2410.15221) | NeurIPS 2024 |
+| [REALM-Bench: A Benchmark for Evaluating Multi-Agent Systems on Real-world, Dynamic Planning and Scheduling Tasks](https://arxiv.org/abs/2502.18836v2) | ArXiv 2025 |
 
 #### Language, Communication, and Social Reasoning
 
 | Paper | Venue |
 | --- | --- |
-| [Evaluating Multi-Agent Coordination Abilities in Large Language Models](https://arxiv.org/abs/2310.03901) | ArXiv 2023 |
+| [LLM-Coordination: Evaluating and Analyzing Multi-agent Coordination Abilities in Large Language Models](https://arxiv.org/abs/2310.03903) | ArXiv 2023 |
 | [AvalonBench: Evaluating LLMs Playing the Game of Avalon](https://arxiv.org/abs/2310.05036) | ArXiv 2023 |
 | [Welfare Diplomacy: Benchmarking Language Model Cooperation](https://arxiv.org/abs/2310.08901) | ArXiv 2023 |
-| [Magic: Investigating Large Language Models as Self-directed Agents](https://arxiv.org/abs/2310.04353) | COLM 2024 |
-| [BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems](https://arxiv.org/abs/2408.15978) | ArXiv 2024 |
-| [COMMA: A Benchmark for Inter-Agent Communication in Multi-Agent Systems](https://arxiv.org/abs/2402.17110) | ArXiv 2024 |
+| [MAgIC: Investigation of Large Language Model Powered Multi-Agent in Cognition, Adaptability, Rationality and Collaboration](https://arxiv.org/abs/2311.08562) | 	EMNLP 2024 |
+| [BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems](https://arxiv.org/abs/2408.15971) | ArXiv 2024 |
+| [COMMA: A Benchmark for Inter-Agent Communication in Multi-Agent Systems](https://arxiv.org/abs/2410.07553) | ArXiv 2024 |
 | [IntellAgent: A Benchmark for Evaluating Conversational Agents in Realistic Scenarios](https://arxiv.org/abs/2501.11067v1) | ArXiv 2025 |
-| [MultiAgentBench: A Benchmark for Multi-Agent Collaboration](https://arxiv.org/abs/2503.01935) | ArXiv 2025 |
+| [MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents](https://arxiv.org/abs/2503.01935) | ArXiv 2025 |
 
 
 
@@ -1324,10 +1324,10 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks](https://arxiv.org/abs/2505.24876) | ArXiv 2025 |
 | [BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games](https://arxiv.org/abs/2411.13543) | NeurIPS 2024 |
 | [ALFWorld: Aligning Text and Embodied Environments for Interactive Learning](https://arxiv.org/abs/2010.03768) | ICLR 2021 |
-| [AndroidArena: A High-Fidelity Environment for Android-based Autonomous Agents](https://arxiv.org/abs/2405.10682) | ArXiv 2024 |
+| [Understanding the Weakness of Large Language Model Agents within a Complex Android Environment](https://arxiv.org/abs/2402.06596) | ArXiv 2024 |
 | [MindAgent: Emergent Gaming Interaction](https://arxiv.org/abs/2309.09971) | ArXiv 2023 |
 | [Playing repeated games with Large Language Models](https://arxiv.org/abs/2305.16867) | ArXiv 2023 |
-| [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.05787) | NeurIPS 2024 |
+| [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972) | NeurIPS 2024 |
 
 
 
@@ -1337,9 +1337,9 @@ Here are the extracted citation tables grouped by their respective sections.
 | --- | --- |
 | [DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents](https://arxiv.org/abs/2406.06769) | NeurIPS 2024 |
 | [ScienceWorld: Is your Agent Smarter than a 5th Grader?](https://arxiv.org/abs/2203.07540) | EMNLP 2022 |
-| [ScienceAgentBench: Toward Scientific Discovery with Language Models](https://arxiv.org/abs/2310.07343) | NeurIPS 2024 |
+| [ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery](https://arxiv.org/abs/2410.05080) | NeurIPS 2024 |
 | [The AI Scientist: Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) | ArXiv 2024 |
-| [LAB-Bench: Designing Agents for Biology Research](https://arxiv.org/abs/2407.10826) | ArXiv 2024 |
+| [LAB-Bench: Measuring Capabilities of Language Models for Biology Research](https://arxiv.org/abs/2407.10362) | ArXiv 2024 |
 | [MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation](https://arxiv.org/abs/2310.03302) | ArXiv 2023 |
 
 
@@ -1352,10 +1352,10 @@ Here are the extracted citation tables grouped by their respective sections.
 | [WorkArena++: Towards Agents that Act Like Employees](https://arxiv.org/abs/2407.05291) | ArXiv 2024 |
 | [OfficeBench: A Benchmark for Office Tool Agents](https://arxiv.org/abs/2407.02685) | ArXiv 2024 |
 | [PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change](https://arxiv.org/abs/2206.10498) | NeurIPS 2022 |
-| [FlowBench: Benchmarking LLMs on Flow-based Task Planning](https://arxiv.org/abs/2406.11057) | ArXiv 2024 |
-| [ACPBench: A Benchmark for Evaluating Assistant-Collaborator-Planner Agents](https://arxiv.org/abs/2410.15423) | ArXiv 2024 |
+| [FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents](https://arxiv.org/abs/2406.14884) | ArXiv 2024 |
+| [ACPBench: Reasoning about Action, Change, and Planning](https://arxiv.org/abs/2410.05669) | ArXiv 2024 |
 | [TRAIL: Trace Reasoning and Agentic Issue Localization](https://arxiv.org/abs/2505.08638) | ArXiv 2025 |
-| [CLIN: A Continual Learning Benchmark for Interactions](https://arxiv.org/abs/2310.02322) | NeurIPS 2023 |
+| [CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization](https://arxiv.org/abs/2310.10134) | NeurIPS 2023 |
 | [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934) | ArXiv 2024 |
 | [InfoDeepSeek: Benchmarking Agentic Information Seeking for Retrieval-Augmented Generation](https://arxiv.org/abs/2505.15872) | ArXiv 2025 |
 
@@ -1369,7 +1369,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [MedAgentBench: A Virtual EHR Environment to Benchmark Medical LLM Agents](https://www.researchgate.net/publication/395098333_MedAgentBench_A_Virtual_EHR_Environment_to_Benchmark_Medical_LLM_Agents) | NEJM AI 2025 |
 | [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | ArXiv 2024 |
 | [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537) | ArXiv 2023 |
-| [GuardAgent: Safeguarding Medical Privacy with AI Agents](https://arxiv.org/abs/2406.12345) | ArXiv 2024 |
+| [GuardAgent: Safeguard LLM Agents by a Guard Agent via Knowledge-Enabled Reasoning](https://arxiv.org/abs/2406.09187) | ArXiv 2024 |
 
 
 
@@ -1381,7 +1381,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks](https://arxiv.org/abs/2401.13649) | NeurIPS 2024 |
 | [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919) | ACL 2024 |
 | [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) | NeurIPS 2023 |
-| [WebCanvas: Benchmarking Web Agents in Online Canvas](https://arxiv.org/abs/2406.12300) | NeurIPS 2024 |
+| [WebCanvas: Benchmarking Web Agents in Online Canvas](https://arxiv.org/abs/2406.12373) | NeurIPS 2024 |
 | [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) | CVPR 2024 |
 | [LASER: LLM Agent with State-Space Exploration for Web Navigation](https://arxiv.org/abs/2309.08172) | NeurIPS 2023 |
 | [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Agent for Automated Web Navigation](https://arxiv.org/abs/2404.03648) | ArXiv 2024 |
@@ -1393,12 +1393,12 @@ Here are the extracted citation tables grouped by their respective sections.
 | Paper | Venue |
 | --- | --- |
 | [GTA: A Benchmark for General Tool Agents](https://arxiv.org/abs/2407.08713) | NeurIPS 2024 |
-| [NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls](https://arxiv.org/abs/2405.15830) | ArXiv 2024 |
-| [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.10312) | ICML 2024 |
+| [NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls](https://arxiv.org/abs/2409.03797) | ArXiv 2024 |
+| [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030) | ICML 2024 |
 | [RestGPT: Connecting Large Language Models with Real-World RESTful APIs](https://arxiv.org/abs/2306.06624) | EMNLP 2023 |
 | [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366) | ArXiv 2025 |
 | [Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.01441) | ArXiv 2025 |
-| [ActionReasoningBench: Reasoning about Actions with and without Ramification Constraints](https://arxiv.org/abs/2411.00247) | ArXiv 2024 |
+| [ActionReasoningBench: Reasoning about Actions with and without Ramification Constraints](https://arxiv.org/abs/2406.04046) | ArXiv 2024 |
 | [R-Judge: Benchmarking Safety-Critical Decision Making for LLM Agents](https://arxiv.org/abs/2401.10019) | ArXiv 2024 |
 
 
