@@ -461,8 +461,7 @@ If you find this repository or paper useful, please consider citing the survey p
 
 #### Agentic Use of Memory
 
-
-##### Conversational Memory and Factual Memory
+##### Factual Memory
 
 | Paper | Venue |
 | --- | --- |
@@ -480,27 +479,30 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309) | ArXiv 2024 |
 | [Reflective Multi-Agent Collaboration based on Large Language Models](https://api.semanticscholar.org/CorpusID:276318441) | NeurIPS 2024 |
 | [FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design](https://doi.org/10.1609/aaaiss.v3i1.31290) | AAAI Spring Symposium 2024 |
-| [A-mem: Agentic memory for llm agents](https://arxiv.org/abs/2502.12110) | ArXiv 2025 |
+| [A-Mem: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | ArXiv 2025 |
+| [Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956) | ArXiv 2025 |
+| [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957) | ArXiv 2025 |
+| [MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models](https://arxiv.org/abs/2505.22101) | ArXiv 2025 |
+| [LightMem: Lightweight Long-term Memory for LLM Agents](https://arxiv.org/abs/2506.01353) | ArXiv 2025 |
+| [Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science](https://arxiv.org/abs/2508.03341) | ArXiv 2025 |
+| [Mem-alpha: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911) | ArXiv 2025 |
+| [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828) | ArXiv 2025 |
 
-##### Reasoning Memory and Experience Reuse
+##### Experience Memory
 
 | Paper | Venue |
 | --- | --- |
 | [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | ArXiv 2024 |
 | [Sleep-time Compute: Beyond Inference Scaling at Test-time](https://arxiv.org/abs/2504.13171) | ArXiv 2025 |
-| [Dynamic Cheatsheet: Test-time learning with adaptive memory](https://arxiv.org/abs/2504.07952) | ArXiv 2025 |
+| [Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory](https://arxiv.org/abs/2504.07952) | ArXiv 2025 |
 | [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618) | ArXiv 2025 |
 | [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140) | ArXiv 2025 |
 | [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857) | ArXiv 2025 |
+| [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957) | ArXiv 2025 |
+| [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885) | ArXiv 2026 |
+| [MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192) | ArXiv 2026 |
 
-##### Multimodal Extensions
-
-| Paper | Venue |
-| --- | --- |
-| [Seeing, listening, remembering, and reasoning: A multimodal agent with long-term memory](https://arxiv.org/abs/2508.09736) | ArXiv 2025 |
-| [Agent-ScanKit: Unraveling Memory and Reasoning of Multimodal Agents via Sensitivity Perturbations](https://arxiv.org/abs/2510.00496) | ArXiv 2025 |
-
-#### Structured Memory Representations
+#### Structured Use of Memory
 
 | Paper | Venue |
 | --- | --- |
@@ -508,12 +510,12 @@ If you find this repository or paper useful, please consider citing the survey p
 | [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130) | ArXiv 2024 |
 | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) | ArXiv 2025 |
 | [Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956) | ArXiv 2025 |
-| [MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models](https://arxiv.org/abs/2505.22101) | ArXiv 2025 |
+| [From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs](https://arxiv.org/abs/2410.14052) | ArXiv 2024 |
 | [AutoFlow: Automated Workflow Generation for Large Language Model Agents](https://arxiv.org/abs/2407.12821) | ArXiv 2024 |
-| [AFlow: Automating Agentic Workflow Generation](https://openreview.net/forum?id=z5uVAKwmjf) | ICLR 2025 |
-| [FlowMind: Automatic Workflow Generation with LLMs](https://arxiv.org/abs/2304.14671) | ICAIF 2023 |
-| [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | ArXiv 2024 |
-| [Dynamic Cheatsheet: Test-time learning with adaptive memory](https://arxiv.org/abs/2504.07952) | ArXiv 2025 |
+| [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) | ICLR 2025 |
+| [FlowMind: Automatic Workflow Generation with LLMs](https://arxiv.org/abs/2404.13050) | ArXiv 2024 |
+| [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615) | NeurIPS 2024 |
+| [Reasoning with Language Model is Planning with World Model (RAP)](https://arxiv.org/abs/2305.14992) | EMNLP 2023 |
 
 #### Post-training Memory Control
 
@@ -525,6 +527,8 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Mem-alpha: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911) | ArXiv 2025 |
 | [Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2510.12635) | ArXiv 2025 |
 | [Agent Learning via Early Experience](https://arxiv.org/abs/2510.08558) | ArXiv 2025 |
+| [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885) | ArXiv 2026 |
+| [MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192) | ArXiv 2026 |
 
 ### 🚀 Evolving Foundational Agentic Capabilities
 
