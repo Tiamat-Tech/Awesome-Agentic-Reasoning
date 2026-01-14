@@ -108,38 +108,37 @@ If you find this repository or paper useful, please consider citing the survey p
 
 #### In-context Planning
 
-#### Workflow Design
+##### Workflow Design
 
 | Paper | Venue |
 | --- | --- |
 | [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/abs/2304.11477) | ArXiv 2023 |
-| [PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change](https://arxiv.org/abs/2206.10498) | NeurIPS 2024 |
-| [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323) | NeurIPS 2023 |
-| [LLM-Reasoners: New Evaluation Approaches for Large Language Models](https://arxiv.org/abs/2404.05663) | ArXiv 2024 |
+| [PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change](https://arxiv.org/abs/2206.10498) | NeurIPS 2023 DB Track |
+| [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323) | ArXiv 2023 |
+| [LLM-Reasoners: New Evaluation Approaches for Large Language Models](https://arxiv.org/abs/2404.05221) | ArXiv 2024 |
 | [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625) | ICLR 2023 |
 | [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091) | ACL 2023 |
-| [Algorithm of Thoughts: Enhancing LLM Reasoning Capabilities via Algorithmic Reasoning](https://arxiv.org/abs/2308.10379) | ArXiv 2023 |
-| [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) | NeurIPS 2023 |
+| [Algorithm of Thoughts: Enhancing LLM Reasoning Capabilities via Algorithmic Reasoning](https://arxiv.org/abs/2308.10379) | ICML 2024 |
+| [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) | ArXiv 2023 |
 | [Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents](https://arxiv.org/abs/2305.02412) | ArXiv 2023 |
-| [PERIA: A Unified Multimodal Workflow](https://arxiv.org/abs/2404.16836) | ArXiv 2024 |
+| [PERIA: A Unified Multimodal Workflow](https://arxiv.org/abs/2511.14210) | ArXiv 2024 |
 | [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](https://arxiv.org/abs/2503.09572) | ArXiv 2025 |
 | [CodePlan: Repository-level Coding using LLMs and Planning](https://arxiv.org/abs/2309.12499) | FSE 2024 |
 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | ICLR 2023 |
 | [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) | NeurIPS 2023 |
 | [Wilbur: Adaptive In-Context Learning for Robust and Accurate Web Agents](https://arxiv.org/abs/2404.05902) | ArXiv 2024 |
 | [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.10312) | ICML 2024 |
-| [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) | NeurIPS 2024 |
-| [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 |
-| [CodeNav: Beyond Tool-Use to Using Real-World Codebases with LLM Agents](https://arxiv.org/abs/2402.13463) | ICLR 2024 |
+| [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) | ArXiv 2023 |
+| [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | ArXiv 2023 |
+| [CodeNav: Beyond Tool-Use to Using Real-World Codebases with LLM Agents](https://arxiv.org/abs/2402.13463) | ACL 2024 |
 | [MARCO: A Multi-Agent System for Optimizing HPC Code Generation](https://arxiv.org/abs/2505.03906) | ArXiv 2025 |
-| [Enhancing LLM Reasoning with Multi-Path Collaborative Reactive and Reflection Agents](https://arxiv.org/abs/2501.00430) | ArXiv 2024 |
+| [Enhancing LLM Reasoning with Multi-Path Collaborative Reactive and Reflection Agents](https://arxiv.org/abs/2501.00430) | ArXiv 2025 |
 | [Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents](https://arxiv.org/abs/2505.09970) | ArXiv 2025 |
-| [REST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent](https://arxiv.org/abs/2311.07000) | ArXiv 2023 |
-| [Self-Planning Code Generation with Large Language Models](https://arxiv.org/abs/2306.02907) | TOSEM 2024 |
-| [Real-Time Conversational Agent with Adaptive Planning](https://www.google.com/search?q=https://arxiv.org/abs/2400.00000) | ArXiv 2024 |
-| [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429) | CoRL 2023 |
+| [REST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent](https://arxiv.org/abs/2312.10003) | ArXiv 2023 |
+| [Self-Planning Code Generation with Large Language Models](https://arxiv.org/abs/2303.06689) | TOSEM 2024 |
+| [LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action](https://arxiv.org/abs/2207.04429) | CoRL 2022 |
 
-#### Tree Search / Algorithm Simulation
+##### Tree Search / Algorithm Simulation
 
 | Paper | Venue |
 | --- | --- |
@@ -181,7 +180,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) | CoRL 2022 |
 | [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608) | CoRL 2022 |
 
-#### Process Formalization
+##### Process Formalization
 
 | Paper | Venue |
 | --- | --- |
@@ -192,7 +191,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Planning Anything with Rigor: General-Purpose Zero-Shot Planning](https://arxiv.org/abs/2410.12112) | ArXiv 2024 |
 | [From an LLM Swarm to a PDDL-empowered Hive](https://arxiv.org/abs/2412.12839) | ArXiv 2024 |
 
-#### Decoupling / Decomposition
+##### Decoupling / Decomposition
 
 | Paper | Venue |
 | --- | --- |
@@ -208,7 +207,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [PlanAgent: A Multi-modal Large Language Agent for Vehicle Motion Planning](https://arxiv.org/abs/2406.01587) | ArXiv 2024 |
 | [Long-Horizon Planning for Multi-Agent Robots](https://neurips.cc/) | NeurIPS 2024 |
 
-#### External Aid / Tool Use
+##### External Aid / Tool Use
 
 | Paper | Venue |
 | --- | --- |
