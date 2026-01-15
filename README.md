@@ -291,9 +291,9 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 |
 | [Understanding the Effects of RLHF on LLM Generalisation and Diversity](https://arxiv.org/abs/2310.06452) | ArXiv 2023 |
 | [Preserving Diversity in Supervised Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.16673) | ArXiv 2024 |
-| [Attributing Mode Collapse in the Fine-Tuning of Large Language Models](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3D...) | ICLR Workshop 2024 |
+| [Attributing Mode Collapse in the Fine-Tuning of Large Language Models](https://arxiv.org/abs/2410.05559) | ICLR Workshop 2024 |
 | [Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning](https://arxiv.org/abs/2505.16270) | ArXiv 2025 |
-| [Boosting Tool Use of Large Language Models via Iterative Reinforced Fine-Tuning](https://www.google.com/search?q=https://arxiv.org/abs/2501.00000) | ArXiv 2025 |
+| [Boosting Tool Use of Large Language Models via Iterative Reinforced Fine-Tuning](https://arxiv.org/html/2501.09766v1) | ArXiv 2025 |
 | [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) | ArXiv 2025 |
 | [Demystifying Reinforcement Learning in Agentic Reasoning](https://arxiv.org/abs/2510.11701) | ArXiv 2025 |
 
@@ -303,7 +303,6 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](https://arxiv.org/abs/2502.18449) | ArXiv 2025 |
 | [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search](https://arxiv.org/abs/2410.20285) | ArXiv 2024 |
-| [ReSearch: Learning to Search for Long-Form Query Answering](https://www.google.com/search?q=https://arxiv.org/abs/2505.00000) | ArXiv 2025 |
 | [RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents](https://arxiv.org/abs/2507.22844) | ArXiv 2025 |
 | [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516) | ArXiv 2025 |
 | [AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](https://arxiv.org/abs/2512.13278) | ArXiv 2025 |
@@ -336,7 +335,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [ToolExpNet: Optimizing Multi-Tool Selection in LLMs with Similarity and Dependency-Aware Experience Networks](https://aclanthology.org/2025.findings-acl.811/) | ACL (Findings) 2025 |
 | [T^2Agent: A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search](https://arxiv.org/abs/2505.19768) | ArXiv 2025 |
-| [ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3DBf8k3M6gqE) | ICLR 2024 |
+| [ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search](https://arxiv.org/abs/2310.13227) | ArXiv 2023 |
 | [ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval](https://aclanthology.org/2024.lrec-main.1413/) | COLING 2024 |
 
 ### 🔍 Agentic Search
