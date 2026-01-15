@@ -407,12 +407,11 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 |
 | [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651) | NeurIPS 2023 |
-| [Enable Language Models to Implicitly Learn Self-Improvement From Data](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3D...) | ICLR 2024 |
+| [Enable Language Models to Implicitly Learn Self-Improvement From Data](https://arxiv.org/abs/2310.00898) | ICLR 2024 |
 | [A Survey of Self-Evolving Agents: What, When, How, and Where to Evolve](https://arxiv.org/abs/2507.21046) | TMLR 2025 |
 | [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) | NeurIPS 2023 |
 | [Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://arxiv.org/abs/2308.09687) | AAAI 2024 |
 | [Zero-Shot Verification-Guided Chain of Thoughts](https://arxiv.org/abs/2501.13122) | ArXiv 2025 |
-| [ASCoT: Agentic Semantic CoT](https://www.google.com/search?q=https://arxiv.org/abs/2504.00000) | ArXiv 2025 |
 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | ICLR 2023 |
 | [WebGPT: Browser-assisted Question-Answering with Human Feedback](https://arxiv.org/abs/2112.09332) | ArXiv 2021 |
 | [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) | ArXiv 2023 |
@@ -427,7 +426,6 @@ If you find this repository or paper useful, please consider citing the survey p
 | [ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent](https://arxiv.org/abs/2312.10003) | ArXiv 2023 |
 | [Re-ReST: Reflection-Reinforced Self-Training for Language Agents](https://arxiv.org/abs/2406.01495) | ArXiv 2024 |
 | [Distilling Step-by-Step: Outperforming Larger LMs with Less Data](https://aclanthology.org/2023.acl-long.557/) | ACL 2023 |
-| [Self-Distillation Aligns LLMs with Their Own Reflexion](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3D9k5wD7b5X2) | ICLR 2024 |
 | [Deep Reinforcement Learning from Human Preferences](https://arxiv.org/abs/1706.03741) | NeurIPS 2017 |
 | [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | NeurIPS 2023 |
 | [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) | ArXiv 2022 |
@@ -439,7 +437,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [ReZero: Enhancing LLM search ability by trying one-more-time](https://arxiv.org/abs/2504.11001) | ArXiv 2025 |
 | [Are Retrials All You Need? Enhancing Large Language Model Reasoning Without Verbalized Feedback](https://arxiv.org/abs/2504.12951) | ArXiv 2025 |
-| [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://arxiv.org/abs/2207.01780) | NeurIPS 2022 |
+| [CodeRL: Mastering Code Generation through Pretrained Models and Deep Reinforcement Learning](https://arxiv.org/abs/2207.01780) | ArXiv 2022 |
 | [LEVER: Learning to Verify Language-to-Code Generation with Execution](https://arxiv.org/abs/2302.08468) | ICML 2023 |
 | [SWE-bench: Can Language Models Resolve Real-world Github Issues?](https://arxiv.org/abs/2310.06770) | ICLR 2024 |
 | [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) | CoRL 2022 |
@@ -453,7 +451,8 @@ If you find this repository or paper useful, please consider citing the survey p
 
 #### Agentic Use of Memory
 
-##### Factual Memory
+
+##### Conversational Memory and Factual Memory
 
 | Paper | Venue |
 | --- | --- |
@@ -463,7 +462,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [LlamaIndex](https://github.com/jerryjliu/llama_index) | Software 2022 |
 | [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) | ArXiv 2023 |
 | [RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322) | ArXiv 2023 |
-| [SCM: Enhancing Large Language Model with Self-Controlled Memory Framework](https://api.semanticscholar.org/CorpusID:258331553) | ArXiv 2023 |
+| [SCM: Enhancing Large Language Model with Self-Controlled Memory Framework](https://arxiv.org/abs/2304.13343) | ArXiv 2023 |
 | [Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753) | ArXiv 2024 |
 | [LongMemEval: Benchmarking Chat Assistants on Long-Term Interactive Memory](https://arxiv.org/abs/2410.10813) | ArXiv 2024 |
 | [SELFGOAL: Your Language Agents Already Know How to Achieve High-level Goals](https://aclanthology.org/2025.naacl-long.36/) | NAACL 2025 |
@@ -471,30 +470,27 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Large Language Models Can Self-Improve At Web Agent Tasks](https://arxiv.org/abs/2405.20309) | ArXiv 2024 |
 | [Reflective Multi-Agent Collaboration based on Large Language Models](https://api.semanticscholar.org/CorpusID:276318441) | NeurIPS 2024 |
 | [FinMem: A Performance-Enhanced LLM Trading Agent with Layered Memory and Character Design](https://doi.org/10.1609/aaaiss.v3i1.31290) | AAAI Spring Symposium 2024 |
-| [A-Mem: Agentic Memory for LLM Agents](https://arxiv.org/abs/2502.12110) | ArXiv 2025 |
-| [Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956) | ArXiv 2025 |
-| [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957) | ArXiv 2025 |
-| [MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models](https://arxiv.org/abs/2505.22101) | ArXiv 2025 |
-| [LightMem: Lightweight Long-term Memory for LLM Agents](https://arxiv.org/abs/2506.01353) | ArXiv 2025 |
-| [Nemori: Self-Organizing Agent Memory Inspired by Cognitive Science](https://arxiv.org/abs/2508.03341) | ArXiv 2025 |
-| [Mem-alpha: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911) | ArXiv 2025 |
-| [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828) | ArXiv 2025 |
+| [A-mem: Agentic memory for llm agents](https://arxiv.org/abs/2502.12110) | ArXiv 2025 |
 
-##### Experience Memory
+##### Reasoning Memory and Experience Reuse
 
 | Paper | Venue |
 | --- | --- |
 | [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | ArXiv 2024 |
 | [Sleep-time Compute: Beyond Inference Scaling at Test-time](https://arxiv.org/abs/2504.13171) | ArXiv 2025 |
-| [Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory](https://arxiv.org/abs/2504.07952) | ArXiv 2025 |
+| [Dynamic Cheatsheet: Test-time learning with adaptive memory](https://arxiv.org/abs/2504.07952) | ArXiv 2025 |
 | [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618) | ArXiv 2025 |
 | [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140) | ArXiv 2025 |
 | [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857) | ArXiv 2025 |
-| [MIRIX: Multi-Agent Memory System for LLM-Based Agents](https://arxiv.org/abs/2507.07957) | ArXiv 2025 |
-| [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885) | ArXiv 2026 |
-| [MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192) | ArXiv 2026 |
 
-#### Structured Use of Memory
+##### Multimodal Extensions
+
+| Paper | Venue |
+| --- | --- |
+| [Seeing, listening, remembering, and reasoning: A multimodal agent with long-term memory](https://arxiv.org/abs/2508.09736) | ArXiv 2025 |
+| [Agent-ScanKit: Unraveling Memory and Reasoning of Multimodal Agents via Sensitivity Perturbations](https://arxiv.org/abs/2510.00496) | ArXiv 2025 |
+
+#### Structured Memory Representations
 
 | Paper | Venue |
 | --- | --- |
@@ -502,12 +498,12 @@ If you find this repository or paper useful, please consider citing the survey p
 | [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130) | ArXiv 2024 |
 | [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) | ArXiv 2025 |
 | [Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956) | ArXiv 2025 |
-| [From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs](https://arxiv.org/abs/2410.14052) | ArXiv 2024 |
+| [MemOS: An Operating System for Memory-Augmented Generation (MAG) in Large Language Models](https://arxiv.org/abs/2505.22101) | ArXiv 2025 |
 | [AutoFlow: Automated Workflow Generation for Large Language Model Agents](https://arxiv.org/abs/2407.12821) | ArXiv 2024 |
-| [AFlow: Automating Agentic Workflow Generation](https://arxiv.org/abs/2410.10762) | ICLR 2025 |
-| [FlowMind: Automatic Workflow Generation with LLMs](https://arxiv.org/abs/2404.13050) | ArXiv 2024 |
-| [Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks](https://arxiv.org/abs/2408.03615) | NeurIPS 2024 |
-| [Reasoning with Language Model is Planning with World Model (RAP)](https://arxiv.org/abs/2305.14992) | EMNLP 2023 |
+| [AFlow: Automating Agentic Workflow Generation](https://openreview.net/forum?id=z5uVAKwmjf) | ICLR 2025 |
+| [FlowMind: Automatic Workflow Generation with LLMs](https://arxiv.org/abs/2304.14671) | ICAIF 2023 |
+| [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | ArXiv 2024 |
+| [Dynamic Cheatsheet: Test-time learning with adaptive memory](https://arxiv.org/abs/2504.07952) | ArXiv 2025 |
 
 #### Post-training Memory Control
 
@@ -519,8 +515,6 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Mem-alpha: Learning Memory Construction via Reinforcement Learning](https://arxiv.org/abs/2509.25911) | ArXiv 2025 |
 | [Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2510.12635) | ArXiv 2025 |
 | [Agent Learning via Early Experience](https://arxiv.org/abs/2510.08558) | ArXiv 2025 |
-| [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885) | ArXiv 2026 |
-| [MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory](https://arxiv.org/abs/2601.03192) | ArXiv 2026 |
 
 ### 🚀 Evolving Foundational Agentic Capabilities
 
@@ -531,7 +525,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Venue |
 | --- | --- |
 | [Self-challenging language model agents](https://arxiv.org/abs/2506.01716) | ArXiv 2025 |
-| [Self-rewarding language models](https://icml.cc/virtual/2024/poster/34665) | ICML 2024 |
+| [Self-rewarding language models](https://arxiv.org/abs/2401.10020) | ICML 2024 |
 | [Self Rewarding Self Improving](https://arxiv.org/abs/2505.08827) | ArXiv 2025 |
 | [Self: Self-evolution with language feedback](https://arxiv.org/abs/2310.00533) | ArXiv 2023 |
 | [Training language models to self-correct via reinforcement learning](https://arxiv.org/abs/2409.12917) | ArXiv 2024 |
@@ -540,7 +534,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [AutoRule: Converting Reasoning Traces to Reward Rules](https://arxiv.org/abs/2504.00007) | ArXiv 2025 |
 | [AgentGen: Generating Interactive Environments for Agents](https://arxiv.org/abs/2402.11263) | ArXiv 2024 |
 | [Reflexion: Language agents with verbal reinforcement learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 |
-| [Adaplanner: Adaptive planning from feedback with language models](https://www.google.com/search?q=https://proceedings.neurips.cc/paper_files/paper/2023/file/b6d601550c4767222530269092055655-Paper-Conference.pdf) | NeurIPS 2023 |
+| [Adaplanner: Adaptive planning from feedback with language models](https://openreview.net/forum?id=rnKgbKmelt) | NeurIPS 2023 |
 | [Self-refine: Iterative refinement with self-feedback](https://arxiv.org/abs/2303.17651) | NeurIPS 2023 |
 | [A self-improving coding agent](https://arxiv.org/abs/2504.15228) | ArXiv 2025 |
 | [Ragen: Understanding self-evolution in llm agents via multi-turn reinforcement learning](https://arxiv.org/abs/2504.20073) | ArXiv 2025 |
