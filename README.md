@@ -773,7 +773,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030) | ICML 2024 |
 | [Knowledge-Aware Code Generation with Large Language Models](https://arxiv.org/abs/2401.15940) | ICPC 2024 |
 | [CodePlan: Repository-level Coding using LLMs and Planning](https://arxiv.org/abs/2309.12499) | FSE 2024 |
-| [Multi-stage guided code generation for Large Language Models](https://www.google.com/search?q=https://doi.org/10.1016/j.engappai.2024.109491) | Eng. App. AI 2025 |
+| [Multi-stage guided code generation for Large Language Models](https://doi.org/10.1016/j.engappai.2024.109491) | Eng. App. AI 2025 |
 | [CodeTree: Agent-Guided Tree Search for Code Generation with Large Language Models](https://arxiv.org/abs/2411.04329) | ArXiv 2024 |
 | [Tree-of-Code: A Self-Growing Tree Framework for End-to-End Code Generation and Execution in Complex Tasks](https://aclanthology.org/2025.findings-acl.509/) | ACL 2025 |
 | [DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal](https://arxiv.org/abs/2503.14269) | ArXiv 2025 |
@@ -803,7 +803,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Evaluating Language Models for Mathematics through Interactions](https://www.pnas.org/doi/10.1073/pnas.2318124121) | PNAS 2024 |
 | [Self-Edit: Fault-Aware Code Editor for Code Generation](https://aclanthology.org/2023.acl-long.43/) | ACL 2023 |
 | [Is Self-Repair a Silver Bullet for Code Generation?](https://arxiv.org/abs/2306.09896) | ArXiv 2024 |
-| [LeDeX: Learning to Debug with Execution Feedback](https://www.google.com/search?q=https://proceedings.neurips.cc/paper_files/paper/2024/hash/3f282a...) | NeurIPS 2024 |
+| [LeDeX: Learning to Debug with Execution Feedback](https://proceedings.neurips.cc/paper_files/paper/2024/file/3ea832724870c700f0a03c665572e2a9-Paper-Conference.pdf) | NeurIPS 2024 |
 | [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651) | NeurIPS 2023 |
 | [A Self-Iteration Code Generation Method Based on Large Language Models](https://ieeexplore.ieee.org/document/10476069) | ICPADS 2023 |
 | [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128) | ICLR 2024 |
@@ -817,7 +817,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [AgentCoder: Multi-Agent-Based Code Generation with Iterative Testing and Optimisation](https://arxiv.org/abs/2312.13010) | ArXiv 2023 |
 | [A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement](https://arxiv.org/abs/2409.05001) | ASE 2024 |
-| [SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents](https://ieeexplore.ieee.org/document/10638538) | ICSE 2025 |
+| [SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents](https://ieeexplore.ieee.org/abstract/document/11029771) | ICSE 2025 |
 | [Self-Organized Agents: A LLM Multi-Agent Framework Toward Ultra Large-Scale Code Generation](https://arxiv.org/abs/2404.02183) | ArXiv 2024 |
 | [MapCoder: Multi-Agent Code Generation for Competitive Problem Solving](https://arxiv.org/abs/2405.11403) | ArXiv 2024 |
 | [AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing](https://arxiv.org/abs/2409.10737) | ArXiv 2024 |
@@ -838,23 +838,23 @@ Here are the extracted citation tables grouped by their respective sections.
 | Paper | Venue |
 | --- | --- |
 | [ProtAgents: protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://www.google.com/search?q=https://doi.org/10.1039/d4dd00039k) | Digital Discovery 2024 |
-| [Agent-based learning of materials datasets from the scientific literature](https://doi.org/10.1039/d4dd00080c) | Digital Discovery 2024 |
+| [Agent-based learning of materials datasets from the scientific literature](https://doi.org/10.1039/D4DD00252K) | Digital Discovery 2024 |
 | [React: Synergizing reasoning and acting in language models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
-| [Biomni: A General-Purpose Biomedical AI Agent](https://www.google.com/search?q=https://www.biorxiv.org/content/10.1101/2025.05.01.636412v1) | bioRxiv 2025 |
+| [Biomni: A General-Purpose Biomedical AI Agent](https://www.biorxiv.org/content/10.1101/2025.05.01.636412v1) | bioRxiv 2025 |
 | [Sciagent: Tool-augmented language models for scientific reasoning](https://arxiv.org/abs/2402.11451) | ArXiv 2024 |
 | [Chemcrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) | ArXiv 2023 |
-| [Cactus: Chemistry agent connecting tool usage to science](https://www.google.com/search?q=https://pubs.acs.org/doi/10.1021/acsomega.4c06277) | ACS Omega 2024 |
+| [Cactus: Chemistry agent connecting tool usage to science](https://pubs.acs.org/doi/10.1021/acsomega.4c06277) | ACS Omega 2024 |
 | [Chemtoolagent: The impact of tools on language agents for chemistry problem solving](https://arxiv.org/abs/2411.07228) | ArXiv 2024 |
 | [ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning](https://arxiv.org/abs/2506.07551) | ArXiv 2025 |
 | [TxAgent: An AI agent for therapeutic reasoning across a universe of tools](https://arxiv.org/abs/2503.10970) | ArXiv 2025 |
-| [Agentmd: Empowering language agents for risk prediction with large-scale clinical tool learning](https://www.google.com/search?q=https://doi.org/10.1038/s41467-025-56272-1) | Nature Communications 2025 |
+| [Agentmd: Empowering language agents for risk prediction with large-scale clinical tool learning](https://arxiv.org/abs/2402.13225) | Nature Communications 2025 |
 | [Paperqa: Retrieval-augmented generative agent for scientific research](https://arxiv.org/abs/2312.07559) | ArXiv 2023 |
 | [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740) | ArXiv 2024 |
 | [LLaMP: Large language model made powerful for high-fidelity materials knowledge retrieval and distillation](https://arxiv.org/abs/2401.17244) | ArXiv 2024 |
 | [Honeycomb: A flexible llm-based agent system for materials science](https://arxiv.org/abs/2409.00135) | ArXiv 2024 |
 | [Crispr-gpt: An llm agent for automated design of gene-editing experiments](https://arxiv.org/abs/2404.18021) | ArXiv 2024 |
 | [Pharmagents: Building a virtual pharma with large language model agents](https://arxiv.org/abs/2503.22164) | ArXiv 2025 |
-| [ORGANA: A robotic assistant for automated chemistry experimentation and characterization](https://www.google.com/search?q=https://doi.org/10.1016/j.matt.2024.12.001) | Matter 2025 |
+| [ORGANA: A robotic assistant for automated chemistry experimentation and characterization](https://doi.org/10.1016/j.matt.2024.12.001) | Matter 2025 |
 | [AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence](https://arxiv.org/abs/2407.10022) | ArXiv 2024 |
 | [Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation](https://arxiv.org/abs/2311.10776) | ArXiv 2024 |
 | [Llm and simulation as bilevel optimizers: A new paradigm to advance physical scientific discovery](https://arxiv.org/abs/2405.09783) | ArXiv 2024 |
@@ -903,7 +903,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021) | NeurIPS 2023 |
 | [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://www.google.com/search?q=https://arxiv.org/abs/2408.06877) | ECCV 2024 |
 | [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/abs/2302.01560) | NeurIPS 2023 |
-| [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | NeurIPS 2024 |
+| [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | CoRL 2024 |
 | [Fast ECoT: Fast Embodied Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2501.12745) | ArXiv 2025 |
 | [Cosmos-Reason1: Physical Commonsense with Multimodal Chain of Thought Reasoning](https://arxiv.org/abs/2501.03062) | ArXiv 2025 |
 | [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2501.12574) | ArXiv 2025 |
@@ -927,7 +927,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [LLM-Planner: Few-Shot Grounded High-Level Planning for Embodied Agents with Large Language Models](https://arxiv.org/abs/2212.04088) | ICCV 2023 |
 | [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021) | NeurIPS 2023 |
 | [L3MVN: Leveraging Large Language Models for Visual Target Navigation](https://arxiv.org/abs/2304.05501) | ArXiv 2023 |
-| [SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments](https://arxiv.org/abs/2309.04077) | CoRL 2023 |
+| [SayNav: Grounding Large Language Models for Dynamic Planning to Navigation in New Environments](https://arxiv.org/abs/2309.04077) | ICAPS 2023 |
 | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://proceedings.mlr.press/v229/rana23a.html) | CoRL 2023 |
 | [ReMEmbR: Building and Reasoning with Long-Horizon Spatio-Temporal Memory for Embodied Agents](https://arxiv.org/abs/2501.07421) | ArXiv 2025 |
 | [Embodied-RAG: General Non-parametric Embodied Memory for Retrieval-Augmented Generation](https://arxiv.org/abs/2409.18244) | ArXiv 2024 |
@@ -941,9 +941,9 @@ Here are the extracted citation tables grouped by their respective sections.
 | --- | --- |
 | [LLM-Empowered Embodied Agent with Memory-Augmented Planning](https://arxiv.org/abs/2412.18260) | ArXiv 2024 |
 | [Optimus-1: Hybrid Multimodal Memory Empowered Agents for Long-Horizon Tasks in Minecraft](https://www.google.com/search?q=https://arxiv.org/abs/2408.06371) | ArXiv 2024 |
-| [Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models](https://arxiv.org/abs/2310.15127) | NeurIPS 2023 |
+| [Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models](https://arxiv.org/abs/2310.15127) | EMNLP 2023 |
 | [Endowing Embodied Agents with Spatial Intelligence by Brain-Inspired Memory](https://arxiv.org/abs/2501.08253) | ArXiv 2025 |
-| [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://www.google.com/search?q=https://arxiv.org/abs/2408.06877) | ECCV 2024 |
+| [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://arxiv.org/abs/2408.06877) | ArXiv 2024 |
 | [ELLA: Embodied Social Agents with Long-Term Multimodal Memory](https://arxiv.org/abs/2502.13119) | ArXiv 2025 |
 | [Chat with the Environment: Interactive Multimodal Perception using Large Language Models](https://arxiv.org/abs/2303.08268) | IROS 2023 |
 | [Strangers to Assistants: Fast Desire Alignment for Embodied Agents via Minimal Feedback](https://arxiv.org/abs/2502.04690) | ArXiv 2025 |
@@ -978,7 +978,7 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Venue |
 | --- | --- |
-| [Autonomous artificial intelligence agents for clinical decision making in oncology](https://www.google.com/search?q=https://doi.org/10.1038/s41591-024-03019-3) | Nature Medicine 2024 |
+| [Autonomous artificial intelligence agents for clinical decision making in oncology](https://www.nature.com/articles/s43018-025-00991-6) | Nature Medicine 2024 |
 | [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | ArXiv 2024 |
 | [PathFinder: Multimodal Multi-Agent Medical Diagnosis Framework](https://arxiv.org/abs/2501.12933) | ArXiv 2025 |
 | [MedAgent-Pro: Evidence-Based Multimodal Medical Agent for Complex Reasoning](https://arxiv.org/abs/2502.13843) | ArXiv 2025 |
@@ -988,7 +988,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616) | ArXiv 2025 |
 | [MedOrch: Medical Diagnosis through Tool-Augmented Agent Orchestration](https://arxiv.org/abs/2502.14088) | ArXiv 2025 |
 | [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970) | ArXiv 2025 |
-| [AgentMD: Empowering language agents for risk prediction with large-scale clinical tool learning](https://www.google.com/search?q=https://doi.org/10.1038/s41746-024-01369-0) | npj Digital Medicine 2024 |
+| [AgentMD: Empowering language agents for risk prediction with large-scale clinical tool learning](https://www.nature.com/articles/s41467-025-64430-x) | Nature Communications 2025 |
 | [Large language model agents can use tools to perform clinical calculations](https://doi.org/10.1038/s41746-025-01475-8) | NPJ Digital Medicine 2025 |
 | [MeNTi: Bridging Medical Calculator and Large Language Models for Clinical Calculation](https://arxiv.org/abs/2501.03719) | ArXiv 2025 |
 | [MMedAgent: Learning to Use Medical Tools with Multi-modal Agents](https://arxiv.org/abs/2402.12649) | ArXiv 2024 |
@@ -1072,7 +1072,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [PAE: Autonomous Skill Discovery for Foundation Model Internet Agents](https://arxiv.org/abs/2411.10705) | ArXiv 2024 |
 | [WebSeer: Reflective Reinforcement Learning for Web Agents](https://arxiv.org/abs/2505.01188) | ArXiv 2025 |
 | [ZeroSearch: Incentivize the Search Capability of LLMs Without Searching](https://arxiv.org/abs/2505.04588) | ArXiv 2025 |
-| [StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization](https://www.google.com/search?q=https://arxiv.org/abs/2505.06825) | ArXiv 2025 |
+| [StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization](https://arxiv.org/abs/2505.06825) | ArXiv 2025 |
 | [How to Train Your LLM Web Agent: A Statistical Diagnosis](https://arxiv.org/abs/2507.04103) | ArXiv 2025 |
 | [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456) | ArXiv 2024 |
 | [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164) | ArXiv 2024 |
