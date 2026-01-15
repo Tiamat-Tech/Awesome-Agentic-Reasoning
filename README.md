@@ -179,8 +179,8 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Venue |
 | --- | --- |
 | [Leveraging Pre-trained Large Language Models to Construct World Models](https://arxiv.org/abs/2305.14909) | NeurIPS 2023 |
-| [Leveraging Environment Interaction for Automated PDDL Translation](https://neurips.cc/) | NeurIPS 2024 |
-| [Thought of Search: Planning with Language Models](https://neurips.cc/) | NeurIPS 2024 |
+| [Leveraging Environment Interaction for Automated PDDL Translation](https://arxiv.org/abs/2407.12979) | NeurIPS 2024 |
+| [Thought of Search: Planning with Language Models](https://arxiv.org/abs/2404.11833) | NeurIPS 2024 |
 | [CodePlan: Repository-level Coding using LLMs and Planning](https://arxiv.org/abs/2309.12499) | FSE 2024 |
 | [Planning Anything with Rigor: General-Purpose Zero-Shot Planning](https://arxiv.org/abs/2410.12112) | ArXiv 2024 |
 | [From an LLM Swarm to a PDDL-empowered Hive](https://arxiv.org/abs/2412.12839) | ArXiv 2024 |
@@ -190,31 +190,31 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Venue |
 | --- | --- |
 | [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323) | NeurIPS 2023 |
-| [DiffuserLite: Towards Real-time Diffusion Planning](https://neurips.cc/) | NeurIPS 2024 |
-| [Goal-Space Planning with Subgoal Models](https://jmlr.org/) | JMLR 2024 |
+| [DiffuserLite: Towards Real-time Diffusion Planning](https://arxiv.org/abs/2401.15443) | ArXiv 2024 |
+| [Goal-Space Planning with Subgoal Models](https://www.jmlr.org/papers/volume25/24-0040/24-0040.pdf) | JMLR 2024 |
 | [Agent-Oriented Planning in Multi-Agent Systems](https://arxiv.org/abs/2410.02189) | ArXiv 2024 |
 | [GoPlan: Goal-Conditioned Offline Reinforcement Learning](https://arxiv.org/abs/2310.20025) | ArXiv 2023 |
-| [RetroInText: A Multimodal LLM Framework for Retrosynthetic Planning](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3Db2fbf1c9bc) | ICLR 2025 |
+| [RetroInText: A Multimodal LLM Framework for Retrosynthetic Planning](https://openreview.net/forum?id=J6e4hurEKd) | ICLR 2025 |
 | [HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking](https://arxiv.org/abs/2505.02322) | ArXiv 2025 |
 | [VisualPredicator: Learning Abstract World Models](https://arxiv.org/abs/2410.23156) | ArXiv 2024 |
 | [Beyond Autoregression: Discrete Diffusion for Complex Reasoning](https://arxiv.org/abs/2410.14157) | ArXiv 2024 |
 | [PlanAgent: A Multi-modal Large Language Agent for Vehicle Motion Planning](https://arxiv.org/abs/2406.01587) | ArXiv 2024 |
-| [Long-Horizon Planning for Multi-Agent Robots](https://neurips.cc/) | NeurIPS 2024 |
+| [Long-Horizon Planning for Multi-Agent Robots](https://arxiv.org/abs/2407.10031) | ArXiv 2024 |
 
 ##### External Aid / Tool Use
 
 | Paper | Venue |
 | --- | --- |
-| [Plan-on-Graph: Self-Correcting Adaptive Planning on Knowledge Graphs](https://neurips.cc/) | NeurIPS 2024 |
+| [Plan-on-Graph: Self-Correcting Adaptive Planning on Knowledge Graphs](https://arxiv.org/abs/2410.23875) | NeurIPS 2024 |
 | [Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG](https://arxiv.org/abs/2504.04578) | ArXiv 2025 |
 | [TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching](https://arxiv.org/abs/2505.00562) | ArXiv 2025 |
-| [FlexPlanner: Flexible 3D Floorplanning via Deep RL](https://neurips.cc/) | NeurIPS 2024 |
+| [FlexPlanner: Flexible 3D Floorplanning via Deep Reinforcement Learning in Hybrid Action Space with Multi-Modality Representation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/585e9cf25585612ac27b535457116513-Abstract-Conference.html) | NeurIPS 2024 |
 | [Exploratory Retrieval-Augmented Planning](https://neurips.cc/) | NeurIPS 2024 |
 | [Benchmarking Multimodal RAG with Dynamic VQA](https://arxiv.org/abs/2411.02937) | ArXiv 2024 |
 | [RAG over Tables: Hierarchical Memory Index](https://arxiv.org/abs/2504.01346) | 2025 |
 | [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992) | NeurIPS 2023 |
 | [Leveraging Pre-trained LLMs to Construct World Models](https://arxiv.org/abs/2305.14909) | NeurIPS 2023 |
-| [Agent Planning with World Knowledge Model](https://neurips.cc/) | NeurIPS 2024 |
+| [Agent Planning with World Knowledge Model](https://arxiv.org/abs/2405.14205) | NeurIPS 2024 |
 | [BehaviorGPT: Smart Agent Simulation for Autonomous Driving](https://neurips.cc/) | NeurIPS 2024 |
 | [Dino-WM: World Models on Pre-trained Visual Features](https://arxiv.org/abs/2411.04983) | ArXiv 2024 |
 | [FLIP: Flow-Centric Generative Planning](https://arxiv.org/abs/2412.08261) | ArXiv 2024 |
@@ -232,17 +232,16 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Reflect-then-Plan: Offline Model-Based Planning](https://arxiv.org/abs/2506.06261) | ArXiv 2025 |
 | [Rational Decision-Making Agent with Internalized Utility Judgment](https://arxiv.org/abs/2308.12519) | ArXiv 2023 |
 | [Scaling Autonomous Agents via Automatic Reward Modeling](https://arxiv.org/abs/2502.12130) | ArXiv 2025 |
-| [Strategic Planning: A Top-Down Approach to Option Generation](https://icml.cc/) | ICML 2025 |
+| [Strategic Planning: A Top-Down Approach to Option Generation](https://openreview.net/forum?id=xkgQWEj9F2&noteId=mt0BbGT077) | ICML 2025 |
 | [Non-Myopic Generation of Language Models for Reasoning](https://arxiv.org/abs/2410.17195) | ArXiv 2024 |
 | [Physics-Informed Temporal Difference Metric Learning](https://arxiv.org/abs/2505.05691) | ArXiv 2025 |
 | [Generalizable Motion Planning via Operator Learning](https://arxiv.org/abs/2410.17547) | ArXiv 2024 |
 | [ToolOrchestra: Elevating Intelligence via Efficient Model](https://arxiv.org/abs/2511.21689) | 2025 |
 | [Latent Diffusion Planning for Imitation Learning](https://arxiv.org/abs/2504.16925) | ArXiv 2025 |
-| [SafeDiffuser: Safe Planning with Diffusion Probabilistic Models](https://www.google.com/search?q=https://arxiv.org/abs/2306.00000) | ICLR 2023 |
+| [SafeDiffuser: Safe Planning with Diffusion Probabilistic Models](https://openreview.net/forum?id=ig2wk7kK9J) | ICLR 2023 |
 | [ContraDiff: Planning Towards High Return States](https://openreview.net/forum?id=XMOaOigOQo) | ICLR 2025 |
-| [Amortized Planning with Large-Scale Transformers](https://neurips.cc/) | NeurIPS 2024 |
+| [Amortized Planning with Large-Scale Transformers](https://arxiv.org/abs/2402.04494) | NeurIPS 2024 |
 | [GoPlan: Goal-Conditioned Offline Reinforcement Learning](https://arxiv.org/abs/2310.20025) | ArXiv 2023 |
-
 
 
 ### 🛠️ Tool-Use Optimization
