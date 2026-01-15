@@ -144,22 +144,18 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) | NeurIPS 2023 |
 | [Tree Search for Language Model Agents](https://www.google.com/search?q=https://arxiv.org/abs/2400.00000) | ArXiv 2024 |
-| [Large Language Model Guided Tree Search for Program Synthesis](https://arxiv.org/abs/2305.03742) | ArXiv 2023 |
-| [Tree-Planner: Efficient Planning with Large Language Models](https://www.google.com/search?q=https://arxiv.org/abs/2400.00000) | ArXiv 2024 |
+| [Tree-Planner: Efficient Planning with Large Language Models](https://arxiv.org/abs/2310.08582) | ICLR 2024 |
 | [Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283) | ArXiv 2024 |
-| [LLM-A*: Large Language Model Guided A* Search](https://www.google.com/search?q=https://arxiv.org/abs/2401.00000) | ArXiv 2024 |
+| [LLM-A*: Large Language Model Guided A* Search](https://arxiv.org/html/2407.02511v1) | ArXiv 2024 |
 | [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923) | ArXiv 2024 |
 | [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992) | NeurIPS 2023 |
-| [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://www.google.com/search?q=https://arxiv.org/abs/2400.00000) | ArXiv 2024 |
-| [Monte Carlo Tree Search with Large Language Models](https://www.google.com/search?q=https://arxiv.org/abs/2310.00000) | ArXiv 2023 |
-| [Prompt-Based Monte-Carlo Tree Search for Goal-Oriented Dialogue](https://www.google.com/search?q=https://arxiv.org/abs/2305.00000) | ArXiv 2023 |
+| [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199) | ArXiv 2024 |
+| [Monte Carlo Tree Search with Large Language Models](https://arxiv.org/abs/2405.00451) | ArXiv 2023 |
+| [Prompt-Based Monte-Carlo Tree Search for Goal-Oriented Dialogue](https://arxiv.org/abs/2305.13660) | ArXiv 2023 |
 | [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126) | ICLR 2024 |
 | [Everything of Thoughts: Defying the Laws of Pen and Paper](https://arxiv.org/abs/2311.04254) | ArXiv 2023 |
 | [Tree-of-Thought Prompting](https://www.google.com/search?q=https://arxiv.org/abs/2305.00000) | ArXiv 2024 |
-| [Latent Space Planning with Large Language Models](https://www.google.com/search?q=https://arxiv.org/abs/2400.00000) | ArXiv 2024 |
-| [AlphaZero-Like Tree Search for LLM Reasoning](https://www.google.com/search?q=https://arxiv.org/abs/2309.00000) | ArXiv 2023 |
-| [Monte Carlo Tree Search for Multi-Turn LLM Reasoning](https://www.google.com/search?q=https://arxiv.org/abs/2505.00000) | ArXiv 2025 |
-| [Mastering Text-Based Games via Tree Search](https://www.google.com/search?q=https://arxiv.org/abs/2400.00000) | ArXiv 2024 |
+| [AlphaZero-Like Tree Search for LLM Reasoning](https://arxiv.org/abs/2309.17179) | ArXiv 2023 |
 | [Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs](https://arxiv.org/abs/2503.11586) | ArXiv 2025 |
 | [Self-Evaluation Guided Beam Search for Reasoning](https://arxiv.org/abs/2305.00633) | NeurIPS 2023 |
 | [Pathfinder: Guided Search over Multi-Step Reasoning Paths](https://arxiv.org/abs/2312.05180) | ArXiv 2023 |
@@ -174,9 +170,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution](https://arxiv.org/abs/2504.16563) | ArXiv 2025 |
 | [Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents](https://arxiv.org/abs/2505.19761) | ArXiv 2025 |
 | [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search](https://arxiv.org/abs/2410.20285) | ICLR 2025 |
-| [LLM-Based Planning for Robotics](https://www.google.com/search?q=https://arxiv.org/abs/2400.00000) | ArXiv 2024 |
-| [Robot Planning with Large Language Models](https://www.google.com/search?q=https://arxiv.org/abs/2300.00000) | ArXiv 2023 |
-| [BTGenBot: Behavior Tree Generation for Robot Control](https://www.google.com/search?q=https://arxiv.org/abs/2400.00000) | ArXiv 2024 |
+| [BTGenBot: Behavior Tree Generation for Robot Control](https://arxiv.org/abs/2403.12761) | ArXiv 2024 |
 | [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) | CoRL 2022 |
 | [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608) | CoRL 2022 |
 
