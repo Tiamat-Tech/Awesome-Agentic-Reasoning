@@ -489,7 +489,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | --- | --- |
 | [RepoGraph: Enhancing AI Software Engineering with Repository-level Code Graph](https://arxiv.org/abs/2410.14684) | 2024 |
 | [From Local to Global: A Graph RAG Approach to Query-Focused Summarization](https://arxiv.org/abs/2404.16130) | 2024 |
-| [Mem0: The Memory Layer for AI Agents](https://github.com/mem0ai/mem0) | 2025 |
+| [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](https://arxiv.org/abs/2504.19413) | 2025 |
 | [Zep: A Temporal Knowledge Graph Architecture for Agent Memory](https://arxiv.org/abs/2501.13956) | 2025 |
 | [From Isolated Conversations to Hierarchical Schemas: Dynamic Tree Memory Representation for LLMs](https://arxiv.org/abs/2410.14052) | 2024 |
 | [AutoFlow: Automated Workflow Generation for Large Language Model Agents](https://arxiv.org/abs/2407.12821) | 2024 |
@@ -780,7 +780,6 @@ If you find this repository or paper useful, please consider citing the survey p
 | [An In-Context Learning Agent for Formal Theorem-Proving](https://arxiv.org/abs/2310.04353) | COLM 2024 |
 | [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/abs/2412.16075) | 2024 |
 | [Generative Modelling for Mathematical Discovery](https://arxiv.org/abs/2503.11061) | 2025 |
-| [AI Achieves Silver-Medal Standard Solving International Mathematical Olympiad Problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level) | Google DeepMind 2024 |
 | [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) | NeurIPS 2023 |
 | [ToolCoder: Teach Code Generation Models to use API search tools](https://arxiv.org/abs/2305.04032) | 2023 |
 | [ToolGen: Unified Tool Retrieval and Calling via Generation](https://arxiv.org/abs/2410.03439) | ICLR 2025 |
@@ -1038,7 +1037,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | Paper | Year |
 | --- | --- |
 | [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227) | 2025 |
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | GitHub 2023 |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 2023 |
 | [Accelerating Scientific Research Through a Multi-LLM Framework](https://arxiv.org/abs/2502.07960) | 2025 |
 | [InternAgent: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification](https://arxiv.org/abs/2505.16938) | 2025 |
 | [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) | 2021 |
@@ -1126,7 +1125,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation](https://arxiv.org/abs/2410.13757) | 2024 |
 | [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733) | 2025 |
 | [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227) | 2025 |
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | GitHub 2023 |
+| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 2023 |
 | [Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents](https://arxiv.org/abs/2410.13185) | 2024 |
 | [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) | 2025 |
 | [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199) | 2024 |
