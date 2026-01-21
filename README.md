@@ -1047,147 +1047,132 @@ Here are the extracted citation tables grouped by their respective sections.
 | --- | --- |
 | [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227) | 2025 |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | GitHub 2023 |
-| [Chain of Ideas: Revolutionizing Research with AI-Driven Hypothesis Generation](https://arxiv.org/abs/2410.16010) | 2024 |
-| [IRIS: A Tree-Search Agent for Complex Knowledge-Intensive Tasks](https://arxiv.org/abs/2501.12933) | 2025 |
-| [Accelerating Scientific Research Through a Multi-LLM Framework (ARIA)](https://arxiv.org/abs/2502.07960) | 2025 |
-| [NovelSeek: When Agent Becomes the Scientist](https://arxiv.org/abs/2505.16938) | 2025 |
+| [Accelerating Scientific Research Through a Multi-LLM Framework](https://arxiv.org/abs/2502.07960) | 2025 |
+| [InternAgent: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification](https://arxiv.org/abs/2505.16938) | 2025 |
 | [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) | 2021 |
 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | NeurIPS 2020 |
 | [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://arxiv.org/abs/2401.01614) | ICML 2024 |
-| [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Agent for Automated Web Navigation](https://arxiv.org/abs/2404.03648) | 2024 |
+| [AutoWebGLM: A Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) | 2024 |
 | [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199) | 2024 |
-| [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://arxiv.org/abs/2509.06501) | 2025 |
-| [WebSailor: Uncertainty-Driven Post-Training for Web Agents](https://arxiv.org/abs/2501.03606) | 2025 |
 | [WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning](https://arxiv.org/abs/2411.02337) | 2024 |
 | [WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning](https://arxiv.org/abs/2505.16421) | 2025 |
-| [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160) | 2025 |
 | [Navigating WebAI: Training Agents to Complete Web Tasks with Large Language Models and Reinforcement Learning](https://arxiv.org/abs/2405.00516) | 2024 |
-| [Pangu DeepDiver: Adaptive Search Intensity Scaling via Open-Web Reinforcement Learning](https://arxiv.org/abs/2505.24332) | 2025 |
+| [DeepDiver: Adaptive Search Intensity Scaling via Open-Web Reinforcement Learning](https://arxiv.org/abs/2505.24332) | 2025 |
 | [EvolveSearch: An Iterative Self-Evolving Search Agent](https://arxiv.org/abs/2505.22501) | 2025 |
-| [WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model](https://arxiv.org/abs/2502.10126) | 2025 |
+| [WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model](https://aclanthology.org/2025.emnlp-main.454/) | 2025 |
 | [ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL](https://arxiv.org/abs/2402.19446) | ICLR 2025 |
-| [PAE: Autonomous Skill Discovery for Foundation Model Internet Agents](https://arxiv.org/abs/2411.10705) | 2024 |
-| [WebSeer: Reflective Reinforcement Learning for Web Agents](https://arxiv.org/abs/2505.01188) | 2025 |
+| [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/abs/2412.13194) | 2024 |
+| [WebSeer: Training Deeper Search Agents through Reinforcement Learning with Self-Reflection](https://arxiv.org/abs/2510.18798) | 2025 |
 | [ZeroSearch: Incentivize the Search Capability of LLMs Without Searching](https://arxiv.org/abs/2505.04588) | 2025 |
-| [StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization](https://arxiv.org/abs/2505.06825) | 2025 |
+| [StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization](https://arxiv.org/abs/2505.15107) | 2025 |
 | [How to Train Your LLM Web Agent: A Statistical Diagnosis](https://arxiv.org/abs/2507.04103) | 2025 |
-| [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456) | 2024 |
 | [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164) | 2024 |
-| [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/abs/2501.04164) | 2025 |
-| [MobA: A Two-Level Agent System for Efficient Mobile Task Automation](https://arxiv.org/abs/2410.13757) | 2024 |
+| [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/abs/2501.04575) | 2025 |
+| [MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation](https://arxiv.org/abs/2410.13757) | 2024 |
 | [PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC](https://arxiv.org/abs/2502.14282) | 2025 |
-| [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218) | 2024 |
-| [OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning](https://arxiv.org/abs/2410.18963) | 2024 |
 | [UItron: Foundational GUI Agent with Advanced Perception and Planning](https://arxiv.org/abs/2508.21767) | 2025 |
-| [ARPO: Aligning GUI Agents via Preference Optimization](https://arxiv.org/abs/2501.02675) | 2025 |
+| [ARPO:End-to-End Policy Optimization for GUI Agents with Experience Replay](https://arxiv.org/abs/2505.16282) | 2025 |
 | [ComputerRL: Scaling End-to-End Online Reinforcement Learning for Computer Use Agents](https://arxiv.org/abs/2508.14040) | 2025 |
 | [UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning](https://arxiv.org/abs/2503.21620) | 2025 |
 | [GUI-R1: A Generalist R1-Style Vision-Language Action Model For GUI Agents](https://arxiv.org/abs/2504.10458) | 2025 |
 | [InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners](https://arxiv.org/abs/2504.14239) | 2025 |
 | [UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning](https://arxiv.org/abs/2509.11543) | 2025 |
 | [GUI-Bee: Align GUI Action Grounding to Novel Environments via Autonomous Exploration](https://aclanthology.org/2025.emnlp-main.1688/) | EMNLP 2025 |
-| [Learning GUI Grounding with Spatial Reasoning from Visual Feedback (SE-GUI)](https://arxiv.org/abs/2509.21552) | 2025 |
-| [UIShift: Enhancing VLM-based GUI Agents through Self-supervised Reinforcement Learning](https://arxiv.org/abs/2505.12493) | 2025 |
-| [UI-AGILE: Advancing GUI Agents With Effective Reinforcement Learning](https://arxiv.org/abs/2507.22025) | 2025 |
+| [Learning GUI Grounding with Spatial Reasoning from Visual Feedback](https://arxiv.org/abs/2509.21552) | 2025 |
+| [GUI-Shift: Enhancing VLM-Based GUI Agents through Self-supervised Reinforcement Learning](https://arxiv.org/abs/2505.12493) | 2025 |
+| [UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding](https://arxiv.org/abs/2507.22025) | 2025 |
 | [ZeroGUI: Automating Online GUI Learning at Zero Human Cost](https://arxiv.org/abs/2505.23762) | 2025 |
 | [AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning](https://arxiv.org/abs/2506.01391) | 2025 |
-| [AutoGLM: Autonomous GUI Agent](https://arxiv.org/abs/2411.00820) | 2024 |
+| [AutoGLM: Autonomous Foundation Agents for GUIs](https://arxiv.org/abs/2411.00820) | 2024 |
 | [Mobile-Agent-v3: Fundamental Agents for GUI Automation](https://arxiv.org/abs/2508.15144) | 2025 |
 | [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919) | ACL 2024 |
-| [BrowserAgent: A Generalist Agent for Web Navigation](https://arxiv.org/abs/2502.10092) | 2025 |
-| [WALT: Watch And Learn Tool-use for Web Agents](https://arxiv.org/abs/2501.15783) | 2025 |
-| [WebDancer: Towards Automated Web Information Seeking with Large Language Model Agents](https://arxiv.org/abs/2502.01026) | 2025 |
-| [WebShaper: Synthesizing Information-Seeking Web Agents](https://arxiv.org/abs/2507.15061) | 2025 |
+| [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666v2) | 2025 |
+| [WALT: Web Agents that Learn Tools](https://arxiv.org/abs/2510.01524) | 2025 |
+| [WebDancer: Towards Automated Web Information Seeking with Large Language Model Agents](https://arxiv.org/abs/2505.22648) | 2025 |
+| [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/abs/2507.15061) | 2025 |
 | [AutoDroid: LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) | MobiCom 2024 |
-| [MobileExperts: Orchestrating Tool-Capable Specialists for Mobile Automation](https://arxiv.org/abs/2411.00622) | 2024 |
+| [MobileExperts: Orchestrating Tool-Capable Specialists for Mobile Automation](https://arxiv.org/abs/2407.03913) | 2024 |
 | [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603) | 2024 |
 | [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456) | 2024 |
 | [OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning](https://arxiv.org/abs/2410.18963) | 2024 |
 | [OS-ATLAS: A Foundation Action Model for Generalist GUI Agents](https://arxiv.org/abs/2410.23218) | 2024 |
 | [SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents](https://arxiv.org/abs/2401.10935) | 2024 |
 | [Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools](https://arxiv.org/abs/2502.04644) | 2025 |
-| [WebThinker: Empowering Large Reasoning Models for Deep Web Exploration](https://arxiv.org/abs/2502.10093) | 2025 |
-| [PaperQA: Retrieval-Augmented Generative Agent for Scientific Research](https://arxiv.org/abs/2312.07559) | 2023 |
-| [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740) | 2024 |
-| [Scideator: Human-AI Collaborative Scientific Idea Generation](https://arxiv.org/abs/2501.15783) | 2025 |
-| [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160) | 2025 |
 | [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227) | 2025 |
 | [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Model Agents](https://arxiv.org/abs/2408.14033) | 2024 |
-| [Dolphin: A Code-Centric Autonomous Research Agent](https://arxiv.org/abs/2501.15783) | 2025 |
+| [Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](https://arxiv.org/abs/2501.03916v3) | 2025 |
 | [The AI Scientist: Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) | 2024 |
 | [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) | 2025 |
-| [NovelSeek: When Agent Becomes the Scientist](https://arxiv.org/abs/2505.16938) | 2025 |
+| [InternAgent: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification](https://arxiv.org/abs/2505.16938v3) | 2025 |
 | [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://arxiv.org/abs/2509.06501) | 2025 |
-| [WebSailor: Uncertainty-Driven Post-Training for Web Agents](https://arxiv.org/abs/2501.03606) | 2025 |
-| [RaDA: Retrieval-augmented Task Decomposition and Action Generation](https://arxiv.org/abs/2411.00820) | 2024 |
+| [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/abs/2507.02592) | 2025 |
+| [RaDA: Retrieval-augmented Web Agent Planning with LLMs](https://aclanthology.org/2024.findings-acl.802/) | 2024 |
 | [Synapse: Trajectory-as-Exemplar Prompting for Computer Control](https://openreview.net/forum?id=Pc8AU1aF5e) | ICLR 2024 |
 | [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805) | 2025 |
-| [MobileGPT: A Mobile Assistant with Human-like App Memory](https://arxiv.org/abs/2311.16528) | 2023 |
-| [Retrieval-augmented GUI Agents with Generative Guidelines (RAG-GUI)](https://arxiv.org/abs/2509.24183) | 2025 |
-| [WebThinker: Empowering Large Reasoning Models for Deep Web Exploration](https://arxiv.org/abs/2502.10093) | 2025 |
+| [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://arxiv.org/abs/2312.03003v3) | 2023 |
+| [Retrieval-augmented GUI Agents with Generative Guidelines](https://arxiv.org/abs/2509.24183) | 2025 |
+| [WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/abs/2504.21776) | 2025 |
 | [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160) | 2025 |
 | [PaperQA: Retrieval-Augmented Generative Agent for Scientific Research](https://arxiv.org/abs/2312.07559) | 2023 |
 | [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740) | 2024 |
-| [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | GitHub 2023 |
-| [Chain of Ideas: Revolutionizing Research with AI-Driven Hypothesis Generation](https://arxiv.org/abs/2410.16010) | 2024 |
-| [Scideator: Human-AI Collaborative Scientific Idea Generation](https://arxiv.org/abs/2501.15783) | 2025 |
+| [Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents](https://arxiv.org/abs/2410.13185) | 2024 |
+| [Scideator: Human-LLM Scientific Idea Generation Grounded in Research-Paper Facet Recombination](https://arxiv.org/abs/2409.14634v5) | 2024 |
 
 #### Self-evolving agentic reasoning
 
 | Paper | Year |
 | --- | --- |
 | [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) | 2024 |
-| [ICAL: In-Context Abstraction Learning for Vision-Language Agents](https://arxiv.org/abs/2406.14596) | 2024 |
-| [BrowserAgent: A Generalist Agent for Web Navigation](https://arxiv.org/abs/2502.10092) | 2025 |
-| [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Agent for Automated Web Navigation](https://arxiv.org/abs/2404.03648) | 2024 |
-| [AgentOccam: A Simple Yet Strong Baseline for Text-Based Web Agents](https://arxiv.org/abs/2406.12658) | 2024 |
+| [VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought](https://arxiv.org/abs/2406.14596v6) | 2024 |
+| [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666v2) | 2025 |
+| [AutoWebGLM: A Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) | 2024 |
+| [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](https://arxiv.org/abs/2406.12658) | 2024 |
 | [LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications](https://arxiv.org/abs/2503.02950) | 2025 |
-| [WebDancer: Towards Automated Web Information Seeking with Large Language Model Agents](https://arxiv.org/abs/2502.01026) | 2025 |
-| [WebShaper: Synthesizing Information-Seeking Web Agents](https://arxiv.org/abs/2507.15061) | 2025 |
-| [MobileGPT: A Mobile Assistant with Human-like App Memory](https://arxiv.org/abs/2311.16528) | 2023 |
-| [MobA: A Two-Level Agent System for Efficient Mobile Task Automation](https://arxiv.org/abs/2410.13757) | 2024 |
+| [WebDancer: Towards Automated Web Information Seeking with Large Language Model Agents](https://arxiv.org/abs/2505.22648) | 2025 |
+| [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/abs/2507.15061) | 2025 |
+| [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://arxiv.org/abs/2312.03003v3) | 2023 |
+| [MobA: Multifaceted Memory-Enhanced Adaptive Planning for Efficient Mobile Task Automation](https://arxiv.org/abs/2410.13757) | 2024 |
 | [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733) | 2025 |
 | [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227) | 2025 |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | GitHub 2023 |
-| [Chain of Ideas: Revolutionizing Research with AI-Driven Hypothesis Generation](https://arxiv.org/abs/2410.16010) | 2024 |
+| [Chain of Ideas: Revolutionizing Research Via Novel Idea Development with LLM Agents](https://arxiv.org/abs/2410.13185) | 2024 |
 | [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) | 2025 |
 | [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199) | 2024 |
-| [ReAP: Reflection-Based Memory For Web navigation Agents](https://arxiv.org/abs/2506.02158) | 2025 |
+| [Reflection-Based Memory For Web navigation Agents](https://arxiv.org/abs/2506.02158) | 2025 |
 | [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://arxiv.org/abs/2407.13032) | 2024 |
-| [Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance](https://arxiv.org/abs/2509.21072) | 2025 |
+| [Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution](https://arxiv.org/abs/2509.21072) | 2025 |
 | [WINELL: Wikipedia Never-Ending Updating with LLM Agents](https://arxiv.org/abs/2508.03728) | 2025 |
-| [WebSeer: Reflective Reinforcement Learning for Web Agents](https://arxiv.org/abs/2505.01188) | 2025 |
-| [Zero-Shot GUI Automation via Self-Correction](https://arxiv.org/abs/2311.16528) | 2023 |
-| [Empowering Multimodal GUI Models with Self-Reflection Behavior (GUI-Reflection)](https://arxiv.org/abs/2506.08012) | 2025 |
+| [WebSeer: Training Deeper Search Agents through Reinforcement Learning with Self-Reflection](https://arxiv.org/abs/2510.18798) | 2025 |
+| [GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](https://arxiv.org/abs/2506.08012) | 2025 |
 | [History-Aware Reasoning for GUI Agents](https://arxiv.org/abs/2511.09127) | 2025 |
 | [MobileUse: A GUI Agent with Hierarchical Reflection for Autonomous Mobile Operation](https://arxiv.org/abs/2507.16853) | 2025 |
-| [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/abs/2501.04164) | 2025 |
+| [InfiGUIAgent: A Multimodal Generalist GUI Agent with Native Reasoning and Reflection](https://arxiv.org/abs/2501.04575) | 2025 |
 | [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733) | 2025 |
 | [CycleResearcher: Improving Automated Research via Automated Review](https://arxiv.org/abs/2411.00816) | 2024 |
 | [MLR-Copilot: Autonomous Machine Learning Research based on Large Language Model Agents](https://arxiv.org/abs/2408.14033) | 2024 |
-| [Dolphin: A Code-Centric Autonomous Research Agent](https://arxiv.org/abs/2501.15783) | 2025 |
+| [Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](https://arxiv.org/abs/2501.03916v3) | 2025 |
 | [DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments](https://arxiv.org/abs/2504.03160) | 2025 |
 
 #### Collective multi-agent reasoning
 
 | Paper | Year |
 | --- | --- |
-| [WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution](https://arxiv.org/abs/2408.15978) | 2024 |
+| [WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration](https://arxiv.org/abs/2408.15978) | 2024 |
 | [WINELL: Wikipedia Never-Ending Updating with LLM Agents](https://arxiv.org/abs/2508.03728) | 2025 |
-| [Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance](https://arxiv.org/abs/2509.21072) | 2025 |
-| [PAE: Autonomous Skill Discovery for Foundation Model Internet Agents](https://arxiv.org/abs/2411.10705) | 2024 |
+| [Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web Reconnaissance, Tool Generation, and Task Execution](https://arxiv.org/abs/2509.21072) | 2025 |
+| [Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents](https://arxiv.org/abs/2412.13194) | 2024 |
 | [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://arxiv.org/abs/2407.13032) | 2024 |
 | [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](https://arxiv.org/abs/2503.09572) | 2025 |
 | [Agentic Web: Weaving the Next Web with AI Agents](https://arxiv.org/abs/2507.21206) | 2025 |
 | [CoLA: Collaborative Low-Rank Adaptation](https://arxiv.org/abs/2505.15471) | 2025 |
-| [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation, Operation and Correction](https://arxiv.org/abs/2406.01014) | ACL 2024 |
+| [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014) | ACL 2024 |
 | [Mobile-Agent-E: Self-Evolving Mobile Assistant for Complex Tasks](https://arxiv.org/abs/2501.11733) | 2025 |
-| [Mobile-Agent-V: Learning Mobile Device Operation Through Video-Guided Multi-Agent Collaboration](https://arxiv.org/abs/2502.17110) | 2025 |
-| [MobileExperts: Orchestrating Tool-Capable Specialists for Mobile Automation](https://arxiv.org/abs/2411.00622) | 2024 |
-| [SWIRL: Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/abs/2504.04736) | 2025 |
+| [Mobile-Agent-V: A Video-Guided Approach for Effortless and Efficient Operational Knowledge Injection in Mobile Automation](https://arxiv.org/abs/2502.17110) | 2025 |
+| [MobileExperts: Orchestrating Tool-Capable Specialists for Mobile Automation](https://arxiv.org/abs/2407.03913) | 2024 |
+| [Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use](https://arxiv.org/abs/2504.04736) | 2025 |
 | [PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC](https://arxiv.org/abs/2502.14282) | 2025 |
 | [AgentRxiv: Towards Collaborative Autonomous Research](https://arxiv.org/abs/2503.18102) | 2025 |
-| [Accelerating Scientific Research Through a Multi-LLM Framework (ARIA)](https://arxiv.org/abs/2502.07960) | 2025 |
+| [Accelerating Scientific Research Through a Multi-LLM Framework](https://arxiv.org/abs/2502.07960) | 2025 |
 | [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/abs/2205.11916) | NeurIPS 2022 |
 | [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/abs/2304.05332) | Nature 2023 |
 | [Toward a Team of AI-made Scientists for Scientific Discovery from Gene Expression Data](https://arxiv.org/abs/2402.12391) | 2024 |
