@@ -167,8 +167,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking](https://arxiv.org/abs/2505.02322) | 2025 |
 | [Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling](https://arxiv.org/abs/2412.15305) | ACL 2025 |
 | [Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution](https://arxiv.org/abs/2504.16563) | 2025 |
-| [Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning
-](https://arxiv.org/abs/2505.19761) | 2025 |
+| [Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning](https://arxiv.org/abs/2505.19761) | 2025 |
 | [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement](https://arxiv.org/abs/2410.20285) | ICLR 2025 |
 | [BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs](https://arxiv.org/abs/2403.12761) | 2024 |
 | [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) | CoRL 2022 |
@@ -785,12 +784,12 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) | NeurIPS 2023 |
 | [ToolCoder: Teach Code Generation Models to use API search tools](https://arxiv.org/abs/2305.04032) | 2023 |
 | [ToolGen: Unified Tool Retrieval and Calling via Generation](https://arxiv.org/abs/2410.03439) | ICLR 2025 |
-| [CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges](https://aclanthology.org/2024.acl-long.739/) | ACL 2024 |
+| [CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges](https://aclanthology.org/2024.acl-long.737/) | ACL 2024 |
 | [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/abs/2411.07112) | ICSE 2025 |
 | [CodeTool: Enhancing Programmatic Tool Invocation of LLMs via Process Supervision](https://arxiv.org/abs/2503.20840) | 2025 |
 | [RepoHyper: Better Context Retrieval is All You Need for Repository-Level Code Completion](https://arxiv.org/abs/2403.06095) | 2024 |
 | [CodeNav: Beyond Tool-Use to Using Real-World Codebases with LLM Agents](https://arxiv.org/abs/2406.12276) | ICLR 2024 |
-| [Optimizing Code Runtime Performance Through Context-Aware Retrieval-Augmented Generation](https://ieeexplore.ieee.org/document/10638538) | ICPC 2025 |
+| [Optimizing Code Runtime Performance Through Context-Aware Retrieval-Augmented Generation](https://arxiv.org/abs/2501.16692) | ICPC 2025 |
 | [Knowledge Graph Based Repository-Level Code Generation](https://conf.researchr.org/details/icse-2025/llm4code-2025-papers/26/Knowledge-Graph-Based-Repository-Level-Code-Generation-Virtual-Talk-) | LLM4Code 2025 |
 | [cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree](https://arxiv.org/abs/2506.15655) | 2025 |
 
@@ -816,16 +815,16 @@ If you find this repository or paper useful, please consider citing the survey p
 | [AgentCoder: Multi-Agent-Based Code Generation with Iterative Testing and Optimisation](https://arxiv.org/abs/2312.13010) | 2023 |
 | [A Pair Programming Framework for Code Generation via Multi-Plan Exploration and Feedback-Driven Refinement](https://arxiv.org/abs/2409.05001) | ASE 2024 |
 | [SOEN-101: Code Generation by Emulating Software Process Models Using Large Language Model Agents](https://ieeexplore.ieee.org/abstract/document/11029771) | ICSE 2025 |
-| [Self-Organized Agents: A LLM Multi-Agent Framework Toward Ultra Large-Scale Code Generation](https://arxiv.org/abs/2404.02183) | 2024 |
+| [Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization](https://arxiv.org/abs/2404.02183) | 2024 |
 | [MapCoder: Multi-Agent Code Generation for Competitive Problem Solving](https://arxiv.org/abs/2405.11403) | 2024 |
 | [AutoSafeCoder: A Multi-Agent Framework for Securing LLM Code Generation through Static Analysis and Fuzz Testing](https://arxiv.org/abs/2409.10737) | 2024 |
 | [QualityFlow: An Agentic Workflow for Program Synthesis Controlled by LLM Quality Checks](https://arxiv.org/abs/2501.17167) | 2025 |
 | [SEW: Self-Evolving Agentic Workflows for Automated Code Generation](https://arxiv.org/abs/2505.18646) | 2025 |
-| [Self-Evolving Multi-Agent Collaboration Networks for Software Development (EvoMAC)](https://arxiv.org/abs/2410.16946) | 2024 |
+| [Self-Evolving Multi-Agent Collaboration Networks for Software Development](https://arxiv.org/abs/2410.16946) | 2024 |
 | [Lingma SWE-GPT: An Open Development-Process-Centric Language Model for Automated Software Improvement](https://arxiv.org/abs/2411.00622) | 2024 |
 | [CodeCoR: An LLM-based Self-Reflective Multi-Agent Framework for Code Generation](https://arxiv.org/abs/2501.07811) | 2025 |
 | [SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering](https://arxiv.org/abs/2502.06994) | ICML 2025 |
-| [Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation (CANDOR)](https://arxiv.org/abs/2506.02943) | 2025 |
+| [Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943) | 2025 |
 
 ### 🔬 Scientific Discovery Agents
 
@@ -835,48 +834,45 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Year |
 | --- | --- |
-| [ProtAgents: protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://arxiv.org/abs/2402.04268) | Digital Discovery 2024 |
+| [ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://arxiv.org/abs/2402.04268) | Digital Discovery 2024 |
 | [Agent-based learning of materials datasets from the scientific literature](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00252k) | Digital Discovery 2024 |
-| [React: Synergizing reasoning and acting in language models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
+| [ReAct: Synergizing Reasoning and Acting in Language Models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
 | [Biomni: A General-Purpose Biomedical AI Agent](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1.full.pdf) | bioRxiv 2025 |
-| [Sciagent: Tool-augmented language models for scientific reasoning](https://arxiv.org/abs/2402.11451) | 2024 |
+| [SciAgent: Tool-augmented Language Models for Scientific Reasoning](https://arxiv.org/abs/2402.11451) | 2024 |
 | [Chemcrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) | 2023 |
-| [Cactus: Chemistry agent connecting tool usage to science](https://arxiv.org/abs/2405.00972) | ACS Omega 2024 |
-| [Chemtoolagent: The impact of tools on language agents for chemistry problem solving](https://arxiv.org/abs/2411.07228) | 2024 |
+| [CACTUS: Chemistry Agent Connecting Tool-Usage to Science](https://arxiv.org/abs/2405.00972) | ACS Omega 2024 |
+| [ChemToolAgent: The Impact of Tools on Language Agents for Chemistry Problem Solving](https://arxiv.org/abs/2411.07228) | 2024 |
 | [CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning](https://arxiv.org/abs/2506.07551) | 2025 |
-| [TxAgent: An AI agent for therapeutic reasoning across a universe of tools](https://arxiv.org/abs/2503.10970) | 2025 |
-| [Agentmd: Empowering language agents for risk prediction with large-scale clinical tool learning](https://arxiv.org/abs/2402.13225) | Nature Communications 2025 |
-| [Paperqa: Retrieval-augmented generative agent for scientific research](https://arxiv.org/abs/2312.07559) | 2023 |
-| [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740) | 2024 |
-| [LLaMP: Large language model made powerful for high-fidelity materials knowledge retrieval and distillation](https://arxiv.org/abs/2401.17244) | 2024 |
-| [Honeycomb: A flexible llm-based agent system for materials science](https://arxiv.org/abs/2409.00135) | 2024 |
-| [Crispr-gpt: An llm agent for automated design of gene-editing experiments](https://arxiv.org/abs/2404.18021) | 2024 |
-| [Pharmagents: Building a virtual pharma with large language model agents](https://arxiv.org/abs/2503.22164) | 2025 |
+| [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970) | 2025 |
+| [AgentMD: Empowering language agents for risk prediction with large-scale clinical tool learning](https://www.nature.com/articles/s41467-025-64430-x) | Nature Communications 2025 |
+| [LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation](https://arxiv.org/abs/2401.17244) | 2024 |
+| [HoneyComb: A Flexible LLM-Based Agent System for Materials Science](https://arxiv.org/abs/2409.00135) | 2024 |
+| [CRISPR-GPT for Agentic Automation of Gene-editing Experiments](https://arxiv.org/abs/2404.18021) | 2024 |
+| [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164) | 2025 |
 | [ORGANA: A robotic assistant for automated chemistry experimentation and characterization](https://www.sciencedirect.com/science/article/abs/pii/S2590238524005423) | Matter 2025 |
 | [AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence](https://arxiv.org/abs/2407.10022) | 2024 |
-| [Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation](https://arxiv.org/abs/2311.10776) | 2024 |
-| [Llm and simulation as bilevel optimizers: A new paradigm to advance physical scientific discovery](https://arxiv.org/abs/2405.09783) | 2024 |
+| [Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis](https://arxiv.org/abs/2311.10776) | 2024 |
+| [LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery](https://arxiv.org/abs/2405.09783) | 2024 |
 | [CellAgent: LLM-Driven Multi-Agent Framework for Natural Language-Based Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2024.05.13.593861v4) | BioRxiv 2024 |
-| [Biodiscoveryagent: An ai agent for designing genetic perturbation experiments](https://arxiv.org/abs/2405.17631) | 2024 |
-| [Drugagent: Explainable drug repurposing agent with large language model-based reasoning](https://arxiv.org/abs/2408.13378) | 2024 |
+| [BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments](https://arxiv.org/abs/2405.17631) | 2024 |
+| [DrugAgent: Multi-Agent Large Language Model-Based Reasoning for Drug-Target Interaction Prediction](https://arxiv.org/abs/2408.13378) | 2024 |
 | [Accelerating Scientific Research Through a Multi-LLM Framework](https://arxiv.org/abs/2502.07960) | 2025 |
-| [The ai scientist-v2: Workshop-level automated scientific discovery via agentic tree search](https://arxiv.org/abs/2504.08066) | 2025 |
-| [Large language models are zero shot hypothesis proposers](https://arxiv.org/abs/2311.05965) | 2023 |
-| [Paperqa: Retrieval-augmented generative agent for scientific research](https://arxiv.org/abs/2312.07559) | 2023 |
+| [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) | 2025 |
+| [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/abs/2311.05965) | 2023 |
+| [PaperQA: Retrieval-Augmented Generative Agent for Scientific Research](https://arxiv.org/abs/2312.07559) | 2023 |
 | [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740) | 2024 |
-| [LLaMP: Large language model made powerful for high-fidelity materials knowledge retrieval and distillation](https://arxiv.org/abs/2401.17244) | 2024 |
-| [React: Synergizing reasoning and acting in language models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
+| [LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation](https://arxiv.org/abs/2401.17244) | 2024 |
 
 #### Self-evolving Agentic Reasoning
 
 | Paper | Year |
 | --- | --- |
-| [Chemagent: Self-updating library in large language models improves chemical reasoning](https://arxiv.org/abs/2501.06590) | 2025 |
+| [ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning](https://arxiv.org/abs/2501.06590) | 2025 |
 | [Accelerated Inorganic Materials Design with Generative AI Agents](https://arxiv.org/abs/2504.00741) | 2025 |
-| [Llm and simulation as bilevel optimizers: A new paradigm to advance physical scientific discovery](https://arxiv.org/abs/2405.09783) | 2024 |
-| [ChemReasoner: Heuristic search over a large language model's knowledge space using quantum-chemical feedback](https://arxiv.org/abs/2402.10980) | 2024 |
-| [Llmatdesign: Autonomous materials discovery with large language models](https://arxiv.org/abs/2406.13163) | 2024 |
-| [Hypothesis generation for materials discovery and design using goal-driven and constraint-guided llm agents](https://arxiv.org/abs/2501.13299) | 2025 |
+| [LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery](https://arxiv.org/abs/2405.09783) | 2024 |
+| [ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback](https://arxiv.org/abs/2402.10980) | 2024 |
+| [LLMatDesign: Autonomous Materials Discovery with Large Language Models](https://arxiv.org/abs/2406.13163) | 2024 |
+| [Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents](https://arxiv.org/abs/2501.13299) | 2025 |
 
 #### Collective multi-agent reasoning
 
