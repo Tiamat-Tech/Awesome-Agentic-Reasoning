@@ -114,23 +114,23 @@ If you find this repository or paper useful, please consider citing the survey p
 | [LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/abs/2304.11477) | 2023 |
 | [PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change](https://arxiv.org/abs/2206.10498) | NeurIPS 2023 DB Track |
 | [ReWOO: Decoupling Reasoning from Observations for Efficient Augmented Language Models](https://arxiv.org/abs/2305.18323) | 2023 |
-| [LLM-Reasoners: New Evaluation Approaches for Large Language Models](https://arxiv.org/abs/2404.05221) | 2024 |
+| [LLM Reasoners: New Evaluation, Library, and Analysis of Step-by-Step Reasoning with Large Language Models](https://arxiv.org/abs/2404.05221) | 2024 |
 | [Least-to-Most Prompting Enables Complex Reasoning in Large Language Models](https://arxiv.org/abs/2205.10625) | ICLR 2023 |
 | [Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models](https://arxiv.org/abs/2305.04091) | ACL 2023 |
-| [Algorithm of Thoughts: Enhancing LLM Reasoning Capabilities via Algorithmic Reasoning](https://arxiv.org/abs/2308.10379) | ICML 2024 |
+| [Algorithm of Thoughts: Enhancing Exploration of Ideas in Large Language Models](https://arxiv.org/abs/2308.10379) | ICML 2024 |
 | [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) | 2023 |
 | [Plan, Eliminate, and Track -- Language Models are Good Teachers for Embodied Agents](https://arxiv.org/abs/2305.02412) | 2023 |
-| [PERIA: A Unified Multimodal Workflow](https://arxiv.org/abs/2511.14210) | 2025 |
+| [PERIA: Perceive, Reason, Imagine, Act via Holistic Language and Vision Planning for Manipulation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f6af963e891e7efa229c24a1607fa7f-Abstract-Conference.html) | 2024 |
 | [Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks](https://arxiv.org/abs/2503.09572) | 2025 |
 | [CodePlan: Repository-level Coding using LLMs and Planning](https://arxiv.org/abs/2309.12499) | FSE 2024 |
 | [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629) | ICLR 2023 |
 | [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) | NeurIPS 2023 |
-| [Wilbur: Adaptive In-Context Learning for Robust and Accurate Web Agents](https://arxiv.org/abs/2404.05902) | 2024 |
+| [WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents](https://arxiv.org/abs/2404.05902) | 2024 |
 | [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030) | ICML 2024 |
 | [Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) | 2023 |
 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | 2023 |
-| [CodeNav: Beyond Tool-Use to Using Real-World Codebases with LLM Agents](https://arxiv.org/abs/2402.13463) | ACL 2024 |
-| [MARCO: A Multi-Agent System for Optimizing HPC Code Generation](https://arxiv.org/abs/2505.03906) | 2025 |
+| [CodeNav: Beyond Tool-Use to Using Real-World Codebases with LLM Agents](https://arxiv.org/abs/2406.12276) | ACL 2024 |
+| [MARCO: Multi-Agent Code Optimization with Real-Time Knowledge Integration for High-Performance Computing](https://arxiv.org/abs/2505.03906) | 2025 |
 | [Enhancing LLM Reasoning with Multi-Path Collaborative Reactive and Reflection Agents](https://arxiv.org/abs/2501.00430) | 2025 |
 | [Pre-Act: Multi-Step Planning and Reasoning Improves Acting in LLM Agents](https://arxiv.org/abs/2505.09970) | 2025 |
 | [REST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent](https://arxiv.org/abs/2312.10003) | 2023 |
@@ -149,7 +149,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923) | 2023 |
 | [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992) | NeurIPS 2023 |
 | [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199) | 2024 |
-| [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/abs/2405.00451) | 2023 |
+| [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/abs/2405.00451) | 2024 |
 | [Prompt-Based Monte-Carlo Tree Search for Goal-Oriented Dialogue Policy Planning](https://arxiv.org/abs/2305.13660) | 2023 |
 | [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126) | ICLR 2024 |
 | [Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation](https://arxiv.org/abs/2311.04254) | 2023 |
@@ -157,7 +157,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training](https://arxiv.org/abs/2309.17179) | 2023 |
 | [Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs with Semantic Space](https://arxiv.org/abs/2503.11586) | 2025 |
 | [Self-Evaluation Guided Beam Search for Reasoning](https://arxiv.org/abs/2305.00633) | NeurIPS 2023 |
-| [Pathfinder: Guided Search over Multi-Step Reasoning Paths](https://arxiv.org/abs/2312.05180) | 2023 |
+| [PathFinder: Multimodal Multi-Agent Medical Diagnosis Framework](https://arxiv.org/abs/2502.08916) | 2025 |
 | [Discriminator-Guided Embodied Planning for LLM Agent](https://openreview.net/forum?id=TjP1d8PP8l) | ICLR 2025 |
 | [Stream of Search (SoS): Learning to Search in Language](https://arxiv.org/abs/2404.03683) | 2024 |
 | [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/abs/2407.14414) | 2024 |
@@ -594,7 +594,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Collab-RAG: Boosting retrieval-augmented generation for complex question answering via white-box and black-box llm collaboration](https://arxiv.org/abs/2504.04915) | 2025 |
 | [MA-RAG: Multi-Agent Retrieval-Augmented Generation via Collaborative Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.20096) | 2025 |
 | [Chain of Agents: Large Language Models Collaborating on Long-Context Tasks](https://openreview.net/forum?id=LuCLf4BJsr) | NeurIPS 2024 |
-| [AutoAgents: a framework for automatic agent generation](https://doi.org/10.24963/ijcai.2024/3) | IJCAI 2024 |
+| [AutoAgents: a framework for automatic agent generation](https://www.ijcai.org/proceedings/2024/3) | IJCAI 2024 |
 | [RAG-KG-IL: A Multi-Agent Hybrid Framework for Reducing Hallucinations and Enhancing LLM Reasoning](https://arxiv.org/abs/2503.13514) | 2025 |
 | [SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents](https://arxiv.org/abs/2411.03284) | 2024 |
 | [MDocAgent: A multi-modal multi-agent framework for document understanding](https://arxiv.org/abs/2503.13964) | 2025 |
@@ -771,7 +771,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030) | ICML 2024 |
 | [Knowledge-Aware Code Generation with Large Language Models](https://arxiv.org/abs/2401.15940) | ICPC 2024 |
 | [CodePlan: Repository-level Coding using LLMs and Planning](https://arxiv.org/abs/2309.12499) | FSE 2024 |
-| [Multi-stage guided code generation for Large Language Models](https://doi.org/10.1016/j.engappai.2024.109491) | Eng. App. AI 2025 |
+| [Multi-stage guided code generation for Large Language Models](https://www.sciencedirect.com/science/article/abs/pii/S095219762401649X) | Eng. App. AI 2025 |
 | [CodeTree: Agent-Guided Tree Search for Code Generation with Large Language Models](https://arxiv.org/abs/2411.04329) | 2024 |
 | [Tree-of-Code: A Self-Growing Tree Framework for End-to-End Code Generation and Execution in Complex Tasks](https://aclanthology.org/2025.findings-acl.509/) | ACL 2025 |
 | [DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal](https://arxiv.org/abs/2503.14269) | 2025 |
@@ -789,7 +789,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/abs/2411.07112) | ICSE 2025 |
 | [CodeTool: Enhancing Programmatic Tool Invocation of LLMs via Process Supervision](https://arxiv.org/abs/2503.20840) | 2025 |
 | [RepoHyper: Better Context Retrieval is All You Need for Repository-Level Code Completion](https://arxiv.org/abs/2403.06095) | 2024 |
-| [CodeNav: Beyond Tool-Use to Using Real-World Codebases with LLM Agents](https://arxiv.org/abs/2402.13463) | ICLR 2024 |
+| [CodeNav: Beyond Tool-Use to Using Real-World Codebases with LLM Agents](https://arxiv.org/abs/2406.12276) | ICLR 2024 |
 | [Optimizing Code Runtime Performance Through Context-Aware Retrieval-Augmented Generation](https://ieeexplore.ieee.org/document/10638538) | ICPC 2025 |
 | [Knowledge Graph Based Repository-Level Code Generation](https://conf.researchr.org/details/icse-2025/llm4code-2025-papers/26/Knowledge-Graph-Based-Repository-Level-Code-Generation-Virtual-Talk-) | LLM4Code 2025 |
 | [cAST: Enhancing Code Retrieval-Augmented Generation with Structural Chunking via Abstract Syntax Tree](https://arxiv.org/abs/2506.15655) | 2025 |
@@ -836,7 +836,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | Paper | Year |
 | --- | --- |
 | [ProtAgents: protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://arxiv.org/abs/2402.04268) | Digital Discovery 2024 |
-| [Agent-based learning of materials datasets from the scientific literature](https://doi.org/10.1039/D4DD00252K) | Digital Discovery 2024 |
+| [Agent-based learning of materials datasets from the scientific literature](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00252k) | Digital Discovery 2024 |
 | [React: Synergizing reasoning and acting in language models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
 | [Biomni: A General-Purpose Biomedical AI Agent](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1.full.pdf) | bioRxiv 2025 |
 | [Sciagent: Tool-augmented language models for scientific reasoning](https://arxiv.org/abs/2402.11451) | 2024 |
@@ -976,69 +976,68 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Year |
 | --- | --- |
-| [Autonomous artificial intelligence agents for clinical decision making in oncology](https://www.nature.com/articles/s43018-025-00991-6) | Nature Medicine 2024 |
+| [Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology](https://www.nature.com/articles/s43018-025-00991-6) | Nature Medicine 2024 |
 | [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | 2024 |
-| [PathFinder: Multimodal Multi-Agent Medical Diagnosis Framework](https://arxiv.org/abs/2501.12933) | 2025 |
-| [MedAgent-Pro: Evidence-Based Multimodal Medical Agent for Complex Reasoning](https://arxiv.org/abs/2502.13843) | 2025 |
-| [MedOrch: Medical Diagnosis through Tool-Augmented Agent Orchestration](https://arxiv.org/abs/2502.14088) | 2025 |
-| [ClinicalAgent: A Multi-Agent Framework for Clinical Trial Prediction](https://arxiv.org/abs/2410.16542) | 2024 |
-| [DoctorAgent-RL: Multi-Agent Collaborative Reinforcement Learning for Medical History Taking](https://arxiv.org/abs/2502.04947) | 2025 |
+| [PathFinder: Multimodal Multi-Agent Medical Diagnosis Framework](https://arxiv.org/abs/2502.08916) | 2025 |
+| [MedAgent-Pro: Evidence-Based Multimodal Medical Agent for Complex Reasoning](https://arxiv.org/abs/2503.18968) | 2025 |
+| [MedOrch: Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility](https://arxiv.org/abs/2506.00235) | 2025 |
+| [ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://arxiv.org/abs/2404.14777) | 2024 |
+| [DoctorAgent-RL: Multi-Agent Collaborative Reinforcement Learning for Medical History Taking](https://arxiv.org/abs/2505.19630) | 2025 |
 | [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616) | 2025 |
-| [MedOrch: Medical Diagnosis through Tool-Augmented Agent Orchestration](https://arxiv.org/abs/2502.14088) | 2025 |
+| [MedOrch: Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility](https://arxiv.org/abs/2506.00235) | 2025 |
 | [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970) | 2025 |
 | [AgentMD: Empowering language agents for risk prediction with large-scale clinical tool learning](https://www.nature.com/articles/s41467-025-64430-x) | Nature Communications 2025 |
-| [Large language model agents can use tools to perform clinical calculations](https://doi.org/10.1038/s41746-025-01475-8) | NPJ Digital Medicine 2025 |
-| [MeNTi: Bridging Medical Calculator and Large Language Models for Clinical Calculation](https://arxiv.org/abs/2501.03719) | 2025 |
-| [MMedAgent: Learning to Use Medical Tools with Multi-modal Agents](https://arxiv.org/abs/2402.12649) | 2024 |
-| [VoxelPrompt: A Vision-Language Agent Grounded in 3D Volumetric Medical Images](https://arxiv.org/abs/2412.18042) | 2024 |
-| [Enhancing Surgical Robots with Embodied Agents for Autonomous 3D Ultrasound Scanning](https://arxiv.org/abs/2407.13280) | 2024 |
+| [Large language model agents can use tools to perform clinical calculations](https://www.nature.com/articles/s41746-025-01475-8) | NPJ Digital Medicine 2025 |
+| [MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling](https://arxiv.org/abs/2410.13610) | 2024 |
+| [MMedAgent: Learning to Use Medical Tools with Multi-modal Agents](https://aclanthology.org/2024.findings-emnlp.510/) | 2024 |
+| [VoxelPrompt: A Vision Agent for End-to-End Medical Image Analysis](https://arxiv.org/abs/2410.08397v2) | 2024 |
+| [Enhancing Surgical Robots with Embodied Intelligence for Autonomous Ultrasound Scanning](https://arxiv.org/abs/2405.00461) | 2024 |
 | [Adaptive Reasoning and Acting in Medical Language Agents](https://arxiv.org/abs/2410.10020) | 2024 |
 | [MedRAX: Medical Reasoning Agent for Chest X-ray](https://arxiv.org/abs/2502.02673) | 2025 |
-| [PathFinder: Multimodal Multi-Agent Medical Diagnosis Framework](https://arxiv.org/abs/2501.12933) | 2025 |
-| [Conversational Health Agents: A Personalized LLM-Powered Agent Framework](https://arxiv.org/abs/2310.02374) | 2024 |
+| [Conversational Health Agents: A Personalized LLM-Powered Agent Framework](https://arxiv.org/abs/2310.02374) | 2023 |
 | [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | 2024 |
-| [MedAgentGym: Training LLM Agents for Medical Coding](https://arxiv.org/abs/2501.15783) | 2025 |
-| [DoctorAgent-RL: Multi-Agent Collaborative Reinforcement Learning for Medical History Taking](https://arxiv.org/abs/2502.04947) | 2025 |
+| [MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](https://arxiv.org/abs/2506.04405) | 2025 |
+| [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/abs/2505.19630) | 2025 |
 | [Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education](https://arxiv.org/abs/2409.18924) | 2024 |
-| [MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2501.08226) | MICCAI 2025 |
-| [MeNTi: Bridging Medical Calculator and Large Language Models for Clinical Calculation](https://arxiv.org/abs/2501.03719) | 2025 |
+| [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678) | MICCAI 2025 |
+| [MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling](https://arxiv.org/abs/2410.13610) | 2024 |
 | [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | 2024 |
-| [Conversational Health Agents: A Personalized LLM-Powered Agent Framework](https://arxiv.org/abs/2310.02374) | 2024 |
-| [RAG-Enhanced Collaborative LLM Agents for Drug Discovery](https://arxiv.org/abs/2501.07842) | 2025 |
-| [MedReason: Eliciting Factual Medical Reasoning in LLMs](https://arxiv.org/abs/2502.13876) | 2025 |
+| [Conversational Health Agents: A Personalized LLM-Powered Agent Framework](https://arxiv.org/abs/2310.02374) | 2023 |
+| [RAG-Enhanced Collaborative LLM Agents for Drug Discovery](https://arxiv.org/abs/2502.17506) | 2025 |
+| [MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs](https://arxiv.org/abs/2504.00993) | 2025 |
 
 #### Self-evolving agentic reasoning
 
 | Paper | Year |
 | --- | --- |
 | [Epidemic Modeling with Generative Agents](https://arxiv.org/abs/2307.04986) | 2023 |
-| [MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2501.08226) | MICCAI 2025 |
+| [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678) | MICCAI 2025 |
 | [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | 2024 |
-| [LLMs Simulate Standardized Patients: Evolution of a Medical Education Tool](https://arxiv.org/abs/2502.01633) | 2025 |
+| [LLMs Can Simulate Standardized Patients via Agent Coevolution](https://arxiv.org/abs/2412.11716) | 2024 |
 | [Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education](https://arxiv.org/abs/2409.18924) | 2024 |
-| [MedOrch: Medical Diagnosis through Tool-Augmented Agent Orchestration](https://arxiv.org/abs/2502.14088) | 2025 |
+| [MedOrch: Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility](https://arxiv.org/abs/2506.00235) | 2025 |
 | [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616) | 2025 |
-| [DoctorAgent-RL: Multi-Agent Collaborative Reinforcement Learning for Medical History Taking](https://arxiv.org/abs/2502.04947) | 2025 |
-| [MedAgentGym: Training LLM Agents for Medical Coding](https://arxiv.org/abs/2501.15783) | 2025 |
+| [DoctorAgent-RL: Multi-Agent Collaborative Reinforcement Learning for Medical History Taking](https://arxiv.org/abs/2505.19630) | 2025 |
+| [MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](https://arxiv.org/abs/2506.04405) | 2025 |
 | [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | 2024 |
-| [MeNTi: Bridging Medical Calculator and Large Language Models for Clinical Calculation](https://arxiv.org/abs/2501.03719) | 2025 |
-| [Large language model agents can use tools to perform clinical calculations](https://doi.org/10.1038/s41746-025-01475-8) | NPJ Digital Medicine 2025 |
+| [MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling](https://aclanthology.org/2025.naacl-long.263/) | 2025 |
+| [Large language model agents can use tools to perform clinical calculations](https://www.nature.com/articles/s41746-025-01475-8) | NPJ Digital Medicine 2025 |
 
 #### Collective multi-agent reasoning
 
 | Paper | Year |
 | --- | --- |
 | [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://arxiv.org/abs/2404.15155) | 2024 |
-| [DoctorAgent-RL: Multi-Agent Collaborative Reinforcement Learning for Medical History Taking](https://arxiv.org/abs/2502.04947) | 2025 |
+| [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/abs/2505.19630v1) | 2025 |
 | [Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis](https://arxiv.org/abs/2401.16107) | 2024 |
-| [ClinicalAgent: A Multi-Agent Framework for Clinical Trial Prediction](https://arxiv.org/abs/2410.16542) | 2024 |
-| [PathFinder: Multimodal Multi-Agent Medical Diagnosis Framework](https://arxiv.org/abs/2501.12933) | 2025 |
-| [MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2501.08226) | MICCAI 2025 |
-| [LLMs Simulate Standardized Patients: Evolution of a Medical Education Tool](https://arxiv.org/abs/2502.01633) | 2025 |
+| [ClinicalAgent: A Multi-Agent Framework for Clinical Trial Prediction](https://arxiv.org/abs/2404.14777) | 2024 |
+| [PathFinder: Multimodal Multi-Agent Medical Diagnosis Framework](https://arxiv.org/abs/2502.08916) | 2025 |
+| [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678) | MICCAI 2025 |
+| [LLMs Can Simulate Standardized Patients via Agent Coevolution](https://arxiv.org/abs/2412.11716) | 2024 |
 | [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616) | 2025 |
-| [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537) | 2024 |
-| [RAG-Enhanced Collaborative LLM Agents for Drug Discovery](https://arxiv.org/abs/2501.07842) | 2025 |
-| [GMAI-VL-R1: Harnessing Reinforcement Learning for Multi-Modal Medical Reasoning](https://arxiv.org/abs/2502.03260) | 2025 |
+| [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://aclanthology.org/2024.findings-acl.33/) | 2024 |
+| [RAG-Enhanced Collaborative LLM Agents for Drug Discovery](https://arxiv.org/abs/2502.17506) | 2025 |
+| [GMAI-VL-R1: Harnessing Reinforcement Learning for Multi-Modal Medical Reasoning](https://arxiv.org/abs/2504.01886) | 2025 |
 
 ### 🌐 Autonomous Web Exploration & Research Agents
 
