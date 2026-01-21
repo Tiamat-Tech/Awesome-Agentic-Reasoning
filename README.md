@@ -77,7 +77,7 @@ This collection is an ongoing effort. We are actively expanding and refining its
 
 - Submit a pull request to add papers or resources
 - Open an issue to suggest additional papers or resources
-- Email us at twei10@illinois.edu
+- Email us at twei10@illinois.edu, twli@illinois.edu, liu326@illinois.edu
 
 We regularly update the repository to include new research.
 
@@ -775,7 +775,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Tree-of-Code: A Self-Growing Tree Framework for End-to-End Code Generation and Execution in Complex Tasks](https://aclanthology.org/2025.findings-acl.509/) | ACL 2025 |
 | [DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal](https://arxiv.org/abs/2503.14269) | 2025 |
 | [Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6f479ea488e0908ac8b1b37b27fd134c-Abstract-Conference.html) | NeurIPS 2024 |
-| [VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning](https://arxiv.org/abs/2412.07822) | AAAI 2025 |
+| [VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning](https://arxiv.org/abs/2408.08927) | AAAI 2025 |
 | [Guided Search Strategies in Non-Serializable Environments with Applications to Software Engineering Agents](https://arxiv.org/abs/2505.13652) | ICML 2025 |
 | [An In-Context Learning Agent for Formal Theorem-Proving](https://arxiv.org/abs/2310.04353) | COLM 2024 |
 | [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/abs/2412.16075) | 2024 |
