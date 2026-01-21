@@ -969,13 +969,11 @@ Here are the extracted citation tables grouped by their respective sections.
 | --- | --- |
 | [Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology](https://www.nature.com/articles/s43018-025-00991-6) | Nature Medicine 2024 |
 | [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | 2024 |
-| [PathFinder: Multimodal Multi-Agent Medical Diagnosis Framework](https://arxiv.org/abs/2502.08916) | 2025 |
-| [MedAgent-Pro: Evidence-Based Multimodal Medical Agent for Complex Reasoning](https://arxiv.org/abs/2503.18968) | 2025 |
+| [PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](https://arxiv.org/abs/2502.08916) | 2025 |
+| [MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow](https://arxiv.org/abs/2503.18968) | 2025 |
 | [MedOrch: Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility](https://arxiv.org/abs/2506.00235) | 2025 |
 | [ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://arxiv.org/abs/2404.14777) | 2024 |
-| [DoctorAgent-RL: Multi-Agent Collaborative Reinforcement Learning for Medical History Taking](https://arxiv.org/abs/2505.19630) | 2025 |
 | [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616) | 2025 |
-| [MedOrch: Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility](https://arxiv.org/abs/2506.00235) | 2025 |
 | [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970) | 2025 |
 | [AgentMD: Empowering language agents for risk prediction with large-scale clinical tool learning](https://www.nature.com/articles/s41467-025-64430-x) | Nature Communications 2025 |
 | [Large language model agents can use tools to perform clinical calculations](https://www.nature.com/articles/s41746-025-01475-8) | NPJ Digital Medicine 2025 |
@@ -986,14 +984,9 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Adaptive Reasoning and Acting in Medical Language Agents](https://arxiv.org/abs/2410.10020) | 2024 |
 | [MedRAX: Medical Reasoning Agent for Chest X-ray](https://arxiv.org/abs/2502.02673) | 2025 |
 | [Conversational Health Agents: A Personalized LLM-Powered Agent Framework](https://arxiv.org/abs/2310.02374) | 2023 |
-| [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | 2024 |
 | [MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](https://arxiv.org/abs/2506.04405) | 2025 |
-| [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/abs/2505.19630) | 2025 |
 | [Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education](https://arxiv.org/abs/2409.18924) | 2024 |
 | [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678) | MICCAI 2025 |
-| [MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling](https://arxiv.org/abs/2410.13610) | 2024 |
-| [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | 2024 |
-| [Conversational Health Agents: A Personalized LLM-Powered Agent Framework](https://arxiv.org/abs/2310.02374) | 2023 |
 | [RAG-Enhanced Collaborative LLM Agents for Drug Discovery](https://arxiv.org/abs/2502.17506) | 2025 |
 | [MedReason: Eliciting Factual Medical Reasoning Steps in LLMs via Knowledge Graphs](https://arxiv.org/abs/2504.00993) | 2025 |
 
@@ -1008,7 +1001,6 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education](https://arxiv.org/abs/2409.18924) | 2024 |
 | [MedOrch: Medical Diagnosis with Tool-Augmented Reasoning Agents for Flexible Extensibility](https://arxiv.org/abs/2506.00235) | 2025 |
 | [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616) | 2025 |
-| [DoctorAgent-RL: Multi-Agent Collaborative Reinforcement Learning for Medical History Taking](https://arxiv.org/abs/2505.19630) | 2025 |
 | [MedAgentGym: A Scalable Agentic Training Environment for Code-Centric Reasoning in Biomedical Data Science](https://arxiv.org/abs/2506.04405) | 2025 |
 | [EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records](https://arxiv.org/abs/2401.07128) | 2024 |
 | [MeNTi: Bridging Medical Calculator and LLM Agent with Nested Tool Calling](https://aclanthology.org/2025.naacl-long.263/) | 2025 |
@@ -1021,8 +1013,8 @@ Here are the extracted citation tables grouped by their respective sections.
 | [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://arxiv.org/abs/2404.15155) | 2024 |
 | [DoctorAgent-RL: A Multi-Agent Collaborative Reinforcement Learning System for Multi-Turn Clinical Dialogue](https://arxiv.org/abs/2505.19630v1) | 2025 |
 | [Beyond Direct Diagnosis: LLM-based Multi-Specialist Agent Consultation for Automatic Diagnosis](https://arxiv.org/abs/2401.16107) | 2024 |
-| [ClinicalAgent: A Multi-Agent Framework for Clinical Trial Prediction](https://arxiv.org/abs/2404.14777) | 2024 |
-| [PathFinder: Multimodal Multi-Agent Medical Diagnosis Framework](https://arxiv.org/abs/2502.08916) | 2025 |
+| [ClinicalAgent: Clinical Trial Multi-Agent System with Large Language Model-based Reasoning](https://arxiv.org/abs/2404.14777) | 2024 |
+| [PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](https://arxiv.org/abs/2502.08916) | 2025 |
 | [Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions](https://arxiv.org/abs/2503.22678) | MICCAI 2025 |
 | [LLMs Can Simulate Standardized Patients via Agent Coevolution](https://arxiv.org/abs/2412.11716) | 2024 |
 | [DynamiCare: A Dynamic Multi-Agent Framework for Interactive and Open-Ended Medical Decision-Making](https://arxiv.org/abs/2507.02616) | 2025 |
@@ -1079,10 +1071,10 @@ Here are the extracted citation tables grouped by their respective sections.
 | [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919) | ACL 2024 |
 | [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666v2) | 2025 |
 | [WALT: Web Agents that Learn Tools](https://arxiv.org/abs/2510.01524) | 2025 |
-| [WebDancer: Towards Automated Web Information Seeking with Large Language Model Agents](https://arxiv.org/abs/2505.22648) | 2025 |
+| [WebDancer: Towards Autonomous Information Seeking Agency](https://arxiv.org/abs/2505.22648) | 2025 |
 | [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/abs/2507.15061) | 2025 |
 | [AutoDroid: LLM-powered Task Automation in Android](https://arxiv.org/abs/2308.15272) | MobiCom 2024 |
-| [MobileExperts: Orchestrating Tool-Capable Specialists for Mobile Automation](https://arxiv.org/abs/2407.03913) | 2024 |
+| [MobileExperts: A Dynamic Tool-Enabled Agent Team in Mobile Devices](https://arxiv.org/abs/2407.03913) | 2024 |
 | [AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant](https://arxiv.org/abs/2410.18603) | 2024 |
 | [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://arxiv.org/abs/2402.07456) | 2024 |
 | [OSCAR: Operating System Control via State-Aware Reasoning and Re-Planning](https://arxiv.org/abs/2410.18963) | 2024 |
@@ -1094,11 +1086,10 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Dolphin: Moving Towards Closed-loop Auto-research through Thinking, Practice, and Feedback](https://arxiv.org/abs/2501.03916v3) | 2025 |
 | [The AI Scientist: Fully Automated Open-Ended Scientific Discovery](https://arxiv.org/abs/2408.06292) | 2024 |
 | [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) | 2025 |
-| [InternAgent: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification](https://arxiv.org/abs/2505.16938v3) | 2025 |
 | [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://arxiv.org/abs/2509.06501) | 2025 |
 | [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/abs/2507.02592) | 2025 |
 | [RaDA: Retrieval-augmented Web Agent Planning with LLMs](https://aclanthology.org/2024.findings-acl.802/) | 2024 |
-| [Synapse: Trajectory-as-Exemplar Prompting for Computer Control](https://openreview.net/forum?id=Pc8AU1aF5e) | ICLR 2024 |
+| [Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control](https://openreview.net/forum?id=Pc8AU1aF5e) | ICLR 2024 |
 | [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805) | 2025 |
 | [Explore, Select, Derive, and Recall: Augmenting LLM with Human-like Memory for Mobile Task Automation](https://arxiv.org/abs/2312.03003v3) | 2023 |
 | [Retrieval-augmented GUI Agents with Generative Guidelines](https://arxiv.org/abs/2509.24183) | 2025 |
@@ -1117,7 +1108,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought](https://arxiv.org/abs/2406.14596v6) | 2024 |
 | [BrowserAgent: Building Web Agents with Human-Inspired Web Browsing Actions](https://arxiv.org/abs/2510.10666v2) | 2025 |
 | [AutoWebGLM: A Large Language Model-based Web Navigating Agent](https://arxiv.org/abs/2404.03648) | 2024 |
-| [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](https://arxiv.org/abs/2406.12658) | 2024 |
+| [AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents](https://arxiv.org/abs/2410.13825) | 2024 |
 | [LiteWebAgent: The Open-Source Suite for VLM-Based Web-Agent Applications](https://arxiv.org/abs/2503.02950) | 2025 |
 | [WebDancer: Towards Automated Web Information Seeking with Large Language Model Agents](https://arxiv.org/abs/2505.22648) | 2025 |
 | [WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization](https://arxiv.org/abs/2507.15061) | 2025 |
@@ -1371,14 +1362,11 @@ Here are the extracted citation tables grouped by their respective sections.
 | [GTA: A Benchmark for General Tool Agents](https://arxiv.org/abs/2407.08713) | NeurIPS 2024 |
 | [NESTFUL: A Benchmark for Evaluating LLMs on Nested Sequences of API Calls](https://arxiv.org/abs/2409.03797) | 2024 |
 | [Executable Code Actions Elicit Better LLM Agents](https://arxiv.org/abs/2402.01030) | ICML 2024 |
-| [RestGPT: Connecting Large Language Models with Real-World RESTful APIs](https://arxiv.org/abs/2306.06624) | EMNLP 2023 |
+| [RestGPT: Connecting Large Language Models with Real-World RESTful APIs](https://arxiv.org/abs/2306.06624) | 2023 |
 | [Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366) | 2025 |
 | [Agentic Reasoning and Tool Integration for LLMs via Reinforcement Learning](https://arxiv.org/abs/2505.01441) | 2025 |
 | [ActionReasoningBench: Reasoning about Actions with and without Ramification Constraints](https://arxiv.org/abs/2406.04046) | 2024 |
 | [R-Judge: Benchmarking Safety-Critical Decision Making for LLM Agents](https://arxiv.org/abs/2401.10019) | 2024 |
-
-
-
 
 
 ## License
