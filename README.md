@@ -77,7 +77,7 @@ This collection is an ongoing effort. We are actively expanding and refining its
 
 - Submit a pull request to add papers or resources
 - Open an issue to suggest additional papers or resources
-- Email us at twei10@illinois.edu
+- Email us at twei10@illinois.edu, twli@illinois.edu, liu326@illinois.edu
 
 We regularly update the repository to include new research.
 
@@ -775,7 +775,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Tree-of-Code: A Self-Growing Tree Framework for End-to-End Code Generation and Execution in Complex Tasks](https://aclanthology.org/2025.findings-acl.509/) | ACL 2025 |
 | [DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal](https://arxiv.org/abs/2503.14269) | 2025 |
 | [Generating Code World Models with Large Language Models Guided by Monte Carlo Tree Search](https://proceedings.neurips.cc/paper_files/paper/2024/hash/6f479ea488e0908ac8b1b37b27fd134c-Abstract-Conference.html) | NeurIPS 2024 |
-| [VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning](https://arxiv.org/abs/2408.08927) | 2024 |
+| [VerilogCoder: Autonomous Verilog Coding Agents with Graph-based Planning](https://arxiv.org/abs/2408.08927) | AAAI 2025 |
 | [Guided Search Strategies in Non-Serializable Environments with Applications to Software Engineering Agents](https://arxiv.org/abs/2505.13652) | ICML 2025 |
 | [An In-Context Learning Agent for Formal Theorem-Proving](https://arxiv.org/abs/2310.04353) | COLM 2024 |
 | [Formal Mathematical Reasoning: A New Frontier in AI](https://arxiv.org/abs/2412.16075) | 2024 |
@@ -898,7 +898,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://arxiv.org/abs/2308.07241) | ECCV 2024 |
 | [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/abs/2302.01560) | NeurIPS 2023 |
 | [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | CoRL 2024 |
-| [Fast ECoT: Fast Embodied Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2501.12745) | 2025 |
+| [Fast ECoT: Fast Embodied Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2506.07639) | 2025 |
 | [Cosmos-Reason1: Physical Commonsense with Multimodal Chain of Thought Reasoning](https://arxiv.org/abs/2501.03062) | 2025 |
 | [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2501.12574) | 2025 |
 | [Emma-X: An Embodied Multimodal Action Model with Chain of Thought Reasoning](https://arxiv.org/abs/2412.18525) | 2024 |
@@ -1223,7 +1223,6 @@ Here are the extracted citation tables grouped by their respective sections.
 | [MultiChallenge: A Realistic Multi-Turn Conversation Evaluation Benchmark Challenging to Frontier LLMs](https://arxiv.org/abs/2501.17399v1) | 2025 |
 | [TurnBench-MS: A Benchmark for Evaluating Multi-Turn, Multi-Step Reasoning in Large Language Models](https://arxiv.org/abs/2506.01341) | 2025 |
 | [StoryBench: A Dynamic Benchmark for Evaluating Long-Term Memory with Multi Turns](https://arxiv.org/abs/2506.13356) | 2025 |
-| [MemBench: Long-Context LLMs are not Enough](https://arxiv.org/abs/2501.12745) | 2025 |
 | [MMRC: A Large-Scale Benchmark for Understanding Multimodal Large Language Model in Real-World Conversation](https://arxiv.org/abs/2502.11903) | 2025 |
 
 ##### Multi-session Recall
@@ -1332,7 +1331,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | --- | --- |
 | [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718) | ICML 2024 |
 | [WorkArena++: Towards Agents that Act Like Employees](https://arxiv.org/abs/2407.05291) | 2024 |
-| [OfficeBench: A Benchmark for Office Tool Agents](https://arxiv.org/abs/2407.02685) | 2024 |
+| [OfficeBench: Benchmarking Language Agents across Multiple Applications for Office Automation](https://arxiv.org/abs/2407.19056) | 2024 |
 | [PlanBench: An Extensible Benchmark for Evaluating Large Language Models on Planning and Reasoning about Change](https://arxiv.org/abs/2206.10498) | NeurIPS 2022 |
 | [FlowBench: Revisiting and Benchmarking Workflow-Guided Planning for LLM-based Agents](https://arxiv.org/abs/2406.14884) | 2024 |
 | [ACPBench: Reasoning about Action, Change, and Planning](https://arxiv.org/abs/2410.05669) | 2024 |
