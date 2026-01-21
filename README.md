@@ -834,48 +834,45 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Year |
 | --- | --- |
-| [ProtAgents: protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://arxiv.org/abs/2402.04268) | Digital Discovery 2024 |
+| [ProtAgents: Protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://arxiv.org/abs/2402.04268) | Digital Discovery 2024 |
 | [Agent-based learning of materials datasets from the scientific literature](https://pubs.rsc.org/en/content/articlelanding/2024/dd/d4dd00252k) | Digital Discovery 2024 |
-| [React: Synergizing reasoning and acting in language models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
+| [ReAct: Synergizing Reasoning and Acting in Language Models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
 | [Biomni: A General-Purpose Biomedical AI Agent](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1.full.pdf) | bioRxiv 2025 |
-| [Sciagent: Tool-augmented language models for scientific reasoning](https://arxiv.org/abs/2402.11451) | 2024 |
+| [SciAgent: Tool-augmented Language Models for Scientific Reasoning](https://arxiv.org/abs/2402.11451) | 2024 |
 | [Chemcrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) | 2023 |
-| [Cactus: Chemistry agent connecting tool usage to science](https://arxiv.org/abs/2405.00972) | ACS Omega 2024 |
-| [Chemtoolagent: The impact of tools on language agents for chemistry problem solving](https://arxiv.org/abs/2411.07228) | 2024 |
+| [CACTUS: Chemistry Agent Connecting Tool-Usage to Science](https://arxiv.org/abs/2405.00972) | ACS Omega 2024 |
+| [ChemToolAgent: The Impact of Tools on Language Agents for Chemistry Problem Solving](https://arxiv.org/abs/2411.07228) | 2024 |
 | [CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning](https://arxiv.org/abs/2506.07551) | 2025 |
-| [TxAgent: An AI agent for therapeutic reasoning across a universe of tools](https://arxiv.org/abs/2503.10970) | 2025 |
-| [Agentmd: Empowering language agents for risk prediction with large-scale clinical tool learning](https://arxiv.org/abs/2402.13225) | Nature Communications 2025 |
-| [Paperqa: Retrieval-augmented generative agent for scientific research](https://arxiv.org/abs/2312.07559) | 2023 |
-| [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740) | 2024 |
-| [LLaMP: Large language model made powerful for high-fidelity materials knowledge retrieval and distillation](https://arxiv.org/abs/2401.17244) | 2024 |
-| [Honeycomb: A flexible llm-based agent system for materials science](https://arxiv.org/abs/2409.00135) | 2024 |
-| [Crispr-gpt: An llm agent for automated design of gene-editing experiments](https://arxiv.org/abs/2404.18021) | 2024 |
-| [Pharmagents: Building a virtual pharma with large language model agents](https://arxiv.org/abs/2503.22164) | 2025 |
+| [TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools](https://arxiv.org/abs/2503.10970) | 2025 |
+| [AgentMD: Empowering language agents for risk prediction with large-scale clinical tool learning](https://www.nature.com/articles/s41467-025-64430-x) | Nature Communications 2025 |
+| [LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation](https://arxiv.org/abs/2401.17244) | 2024 |
+| [HoneyComb: A Flexible LLM-Based Agent System for Materials Science](https://arxiv.org/abs/2409.00135) | 2024 |
+| [CRISPR-GPT for Agentic Automation of Gene-editing Experiments](https://arxiv.org/abs/2404.18021) | 2024 |
+| [PharmAgents: Building a Virtual Pharma with Large Language Model Agents](https://arxiv.org/abs/2503.22164) | 2025 |
 | [ORGANA: A robotic assistant for automated chemistry experimentation and characterization](https://www.sciencedirect.com/science/article/abs/pii/S2590238524005423) | Matter 2025 |
 | [AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence](https://arxiv.org/abs/2407.10022) | 2024 |
-| [Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation](https://arxiv.org/abs/2311.10776) | 2024 |
-| [Llm and simulation as bilevel optimizers: A new paradigm to advance physical scientific discovery](https://arxiv.org/abs/2405.09783) | 2024 |
+| [Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation in Chemical Synthesis](https://arxiv.org/abs/2311.10776) | 2024 |
+| [LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery](https://arxiv.org/abs/2405.09783) | 2024 |
 | [CellAgent: LLM-Driven Multi-Agent Framework for Natural Language-Based Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2024.05.13.593861v4) | BioRxiv 2024 |
-| [Biodiscoveryagent: An ai agent for designing genetic perturbation experiments](https://arxiv.org/abs/2405.17631) | 2024 |
-| [Drugagent: Explainable drug repurposing agent with large language model-based reasoning](https://arxiv.org/abs/2408.13378) | 2024 |
+| [BioDiscoveryAgent: An AI Agent for Designing Genetic Perturbation Experiments](https://arxiv.org/abs/2405.17631) | 2024 |
+| [DrugAgent: Multi-Agent Large Language Model-Based Reasoning for Drug-Target Interaction Prediction](https://arxiv.org/abs/2408.13378) | 2024 |
 | [Accelerating Scientific Research Through a Multi-LLM Framework](https://arxiv.org/abs/2502.07960) | 2025 |
-| [The ai scientist-v2: Workshop-level automated scientific discovery via agentic tree search](https://arxiv.org/abs/2504.08066) | 2025 |
-| [Large language models are zero shot hypothesis proposers](https://arxiv.org/abs/2311.05965) | 2023 |
-| [Paperqa: Retrieval-augmented generative agent for scientific research](https://arxiv.org/abs/2312.07559) | 2023 |
+| [The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://arxiv.org/abs/2504.08066) | 2025 |
+| [Large Language Models are Zero Shot Hypothesis Proposers](https://arxiv.org/abs/2311.05965) | 2023 |
+| [PaperQA: Retrieval-Augmented Generative Agent for Scientific Research](https://arxiv.org/abs/2312.07559) | 2023 |
 | [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740) | 2024 |
-| [LLaMP: Large language model made powerful for high-fidelity materials knowledge retrieval and distillation](https://arxiv.org/abs/2401.17244) | 2024 |
-| [React: Synergizing reasoning and acting in language models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
+| [LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation](https://arxiv.org/abs/2401.17244) | 2024 |
 
 #### Self-evolving Agentic Reasoning
 
 | Paper | Year |
 | --- | --- |
-| [Chemagent: Self-updating library in large language models improves chemical reasoning](https://arxiv.org/abs/2501.06590) | 2025 |
+| [ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning](https://arxiv.org/abs/2501.06590) | 2025 |
 | [Accelerated Inorganic Materials Design with Generative AI Agents](https://arxiv.org/abs/2504.00741) | 2025 |
-| [Llm and simulation as bilevel optimizers: A new paradigm to advance physical scientific discovery](https://arxiv.org/abs/2405.09783) | 2024 |
-| [ChemReasoner: Heuristic search over a large language model's knowledge space using quantum-chemical feedback](https://arxiv.org/abs/2402.10980) | 2024 |
-| [Llmatdesign: Autonomous materials discovery with large language models](https://arxiv.org/abs/2406.13163) | 2024 |
-| [Hypothesis generation for materials discovery and design using goal-driven and constraint-guided llm agents](https://arxiv.org/abs/2501.13299) | 2025 |
+| [LLM and Simulation as Bilevel Optimizers: A New Paradigm to Advance Physical Scientific Discovery](https://arxiv.org/abs/2405.09783) | 2024 |
+| [ChemReasoner: Heuristic Search over a Large Language Model's Knowledge Space using Quantum-Chemical Feedback](https://arxiv.org/abs/2402.10980) | 2024 |
+| [LLMatDesign: Autonomous Materials Discovery with Large Language Models](https://arxiv.org/abs/2406.13163) | 2024 |
+| [Hypothesis Generation for Materials Discovery and Design Using Goal-Driven and Constraint-Guided LLM Agents](https://arxiv.org/abs/2501.13299) | 2025 |
 
 #### Collective multi-agent reasoning
 
