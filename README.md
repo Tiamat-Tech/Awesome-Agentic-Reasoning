@@ -142,34 +142,35 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Year |
 | --- | --- |
 | [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) | NeurIPS 2023 |
-| [Tree Search for Language Model Agents](https://www.google.com/search?q=https://arxiv.org/abs/2400.00000) | 2024 |
+| [Tree Search for Language Model Agents](https://arxiv.org/abs/2407.01476) | 2024 |
 | [Tree-Planner: Efficient Planning with Large Language Models](https://arxiv.org/abs/2310.08582) | ICLR 2024 |
 | [Q*: Improving Multi-step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283) | 2024 |
-| [LLM-A*: Large Language Model Guided A* Search](https://arxiv.org/html/2407.02511v1) | 2024 |
-| [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923) | 2024 |
+| [LLM-A*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning](https://arxiv.org/abs/2407.02511v2) | 2024 |
+| [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923) | 2023 |
 | [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992) | NeurIPS 2023 |
 | [Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents](https://arxiv.org/abs/2408.07199) | 2024 |
-| [Monte Carlo Tree Search with Large Language Models](https://arxiv.org/abs/2405.00451) | 2023 |
-| [Prompt-Based Monte-Carlo Tree Search for Goal-Oriented Dialogue](https://arxiv.org/abs/2305.13660) | 2023 |
+| [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/abs/2405.00451) | 2023 |
+| [Prompt-Based Monte-Carlo Tree Search for Goal-Oriented Dialogue Policy Planning](https://arxiv.org/abs/2305.13660) | 2023 |
 | [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126) | ICLR 2024 |
-| [Everything of Thoughts: Defying the Laws of Pen and Paper](https://arxiv.org/abs/2311.04254) | 2023 |
-| [Tree-of-Thought Prompting](https://www.google.com/search?q=https://arxiv.org/abs/2305.00000) | 2024 |
-| [AlphaZero-Like Tree Search for LLM Reasoning](https://arxiv.org/abs/2309.17179) | 2023 |
-| [Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs](https://arxiv.org/abs/2503.11586) | 2025 |
+| [Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation](https://arxiv.org/abs/2311.04254) | 2023 |
+| [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://openreview.net/forum?id=5Xc1ecxO1h) | NeurIPS 2023 |
+| [Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training](https://arxiv.org/abs/2309.17179) | 2023 |
+| [Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs with Semantic Space](https://arxiv.org/abs/2503.11586) | 2025 |
 | [Self-Evaluation Guided Beam Search for Reasoning](https://arxiv.org/abs/2305.00633) | NeurIPS 2023 |
 | [Pathfinder: Guided Search over Multi-Step Reasoning Paths](https://arxiv.org/abs/2312.05180) | 2023 |
-| [Discriminator-Guided Embodied Planning for LLM Agent](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3D...) | ICLR 2025 |
+| [Discriminator-Guided Embodied Planning for LLM Agent](https://openreview.net/forum?id=TjP1d8PP8l) | ICLR 2025 |
 | [Stream of Search (SoS): Learning to Search in Language](https://arxiv.org/abs/2404.03683) | 2024 |
-| [System-1.x: Learning to Balance Fast and Slow Planning](https://arxiv.org/abs/2407.14414) | 2024 |
-| [Agent-E: From Autonomous Web Navigation to Foundational Design](https://arxiv.org/abs/2407.13032) | 2024 |
+| [System-1.x: Learning to Balance Fast and Slow Planning with Language Models](https://arxiv.org/abs/2407.14414) | 2024 |
+| [Agent-E: From Autonomous Web Navigation to Foundational Design Principles in Agentic Systems](https://arxiv.org/abs/2407.13032) | 2024 |
 | [Intelligent Virtual Assistants with LLM-based Process Automation](https://arxiv.org/abs/2312.06677) | 2023 |
 | [Agent S: An Open Agentic Framework that Uses Computers Like a Human](https://arxiv.org/abs/2410.08164) | 2024 |
 | [HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking](https://arxiv.org/abs/2505.02322) | 2025 |
-| [Tree-of-Code: A Self-Growing Tree Framework for Code Generation](https://arxiv.org/abs/2412.15305) | ACL 2025 |
+| [Tree-of-Code: A Tree-Structured Exploring Framework for End-to-End Code Generation and Execution in Complex Task Handling](https://arxiv.org/abs/2412.15305) | ACL 2025 |
 | [Enhancing LLM-Based Agents via Global Planning and Hierarchical Execution](https://arxiv.org/abs/2504.16563) | 2025 |
-| [Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents](https://arxiv.org/abs/2505.19761) | 2025 |
-| [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search](https://arxiv.org/abs/2410.20285) | ICLR 2025 |
-| [BTGenBot: Behavior Tree Generation for Robot Control](https://arxiv.org/abs/2403.12761) | 2024 |
+| [Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning
+](https://arxiv.org/abs/2505.19761) | 2025 |
+| [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement](https://arxiv.org/abs/2410.20285) | ICLR 2025 |
+| [BTGenBot: Behavior Tree Generation for Robotic Tasks with Lightweight LLMs](https://arxiv.org/abs/2403.12761) | 2024 |
 | [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) | CoRL 2022 |
 | [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608) | CoRL 2022 |
 
@@ -177,12 +178,12 @@ If you find this repository or paper useful, please consider citing the survey p
 
 | Paper | Year |
 | --- | --- |
-| [Leveraging Pre-trained Large Language Models to Construct World Models](https://arxiv.org/abs/2305.14909) | NeurIPS 2023 |
-| [Leveraging Environment Interaction for Automated PDDL Translation](https://arxiv.org/abs/2407.12979) | NeurIPS 2024 |
-| [Thought of Search: Planning with Language Models](https://arxiv.org/abs/2404.11833) | NeurIPS 2024 |
+| [Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning](https://arxiv.org/abs/2305.14909) | NeurIPS 2023 |
+| [Leveraging Environment Interaction for Automated PDDL Translation and Planning with Large Language Models](https://arxiv.org/abs/2407.12979) | NeurIPS 2024 |
+| [Thought of Search: Planning with Language Models Through The Lens of Efficiency](https://arxiv.org/abs/2404.11833) | NeurIPS 2024 |
 | [CodePlan: Repository-level Coding using LLMs and Planning](https://arxiv.org/abs/2309.12499) | FSE 2024 |
-| [Planning Anything with Rigor: General-Purpose Zero-Shot Planning](https://arxiv.org/abs/2410.12112) | 2024 |
-| [From an LLM Swarm to a PDDL-empowered Hive](https://arxiv.org/abs/2412.12839) | 2024 |
+| [Planning Anything with Rigor: General-Purpose Zero-Shot Planning with LLM-based Formalized Programming](https://arxiv.org/abs/2410.12112) | 2024 |
+| [From An LLM Swarm To A PDDL-Empowered HIVE: Planning Self-Executed Instructions In A Multi-Modal Jungle](https://arxiv.org/abs/2412.12839) | 2024 |
 
 ##### Decoupling / Decomposition
 
@@ -192,55 +193,55 @@ If you find this repository or paper useful, please consider citing the survey p
 | [DiffuserLite: Towards Real-time Diffusion Planning](https://arxiv.org/abs/2401.15443) | 2024 |
 | [Goal-Space Planning with Subgoal Models](https://www.jmlr.org/papers/volume25/24-0040/24-0040.pdf) | JMLR 2024 |
 | [Agent-Oriented Planning in Multi-Agent Systems](https://arxiv.org/abs/2410.02189) | 2024 |
-| [GoPlan: Goal-Conditioned Offline Reinforcement Learning](https://arxiv.org/abs/2310.20025) | 2023 |
-| [RetroInText: A Multimodal LLM Framework for Retrosynthetic Planning](https://openreview.net/forum?id=J6e4hurEKd) | ICLR 2025 |
+| [GoPlan: Goal-Conditioned Offline Reinforcement Learning by Planning with Learned Models](https://arxiv.org/abs/2310.20025) | 2023 |
+| [RetroInText: A Multimodal Large Language Model Enhanced Framework for Retrosynthetic Planning via In-Context Representation Learning](https://openreview.net/forum?id=J6e4hurEKd) | ICLR 2025 |
 | [HyperTree Planning: Enhancing LLM Reasoning via Hierarchical Thinking](https://arxiv.org/abs/2505.02322) | 2025 |
-| [VisualPredicator: Learning Abstract World Models](https://arxiv.org/abs/2410.23156) | 2024 |
+| [VisualPredicator: Learning Abstract World Models with Neuro-Symbolic Predicates for Robot Planning](https://arxiv.org/abs/2410.23156) | 2024 |
 | [Beyond Autoregression: Discrete Diffusion for Complex Reasoning](https://arxiv.org/abs/2410.14157) | 2024 |
 | [PlanAgent: A Multi-modal Large Language Agent for Vehicle Motion Planning](https://arxiv.org/abs/2406.01587) | 2024 |
-| [Long-Horizon Planning for Multi-Agent Robots](https://arxiv.org/abs/2407.10031) | 2024 |
+| [LLaMAR: Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments](https://arxiv.org/abs/2407.10031) | 2024 |
 
 ##### External Aid / Tool Use
 
 | Paper | Year |
 | --- | --- |
 | [Plan-on-Graph: Self-Correcting Adaptive Planning on Knowledge Graphs](https://arxiv.org/abs/2410.23875) | NeurIPS 2024 |
-| [Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG](https://arxiv.org/abs/2504.04578) | 2025 |
+| [Hierarchical Planning for Complex Tasks with Knowledge Graph-RAG and Symbolic Verification](https://arxiv.org/abs/2504.04578) | 2025 |
 | [TeLoGraF: Temporal Logic Planning via Graph-encoded Flow Matching](https://arxiv.org/abs/2505.00562) | 2025 |
 | [FlexPlanner: Flexible 3D Floorplanning via Deep Reinforcement Learning in Hybrid Action Space with Multi-Modality Representation](https://proceedings.neurips.cc/paper_files/paper/2024/hash/585e9cf25585612ac27b535457116513-Abstract-Conference.html) | NeurIPS 2024 |
-| [Exploratory Retrieval-Augmented Planning](https://neurips.cc/) | NeurIPS 2024 |
-| [Benchmarking Multimodal RAG with Dynamic VQA](https://arxiv.org/abs/2411.02937) | 2024 |
-| [RAG over Tables: Hierarchical Memory Index](https://arxiv.org/abs/2504.01346) | 2025 |
+| [Exploratory Retrieval-Augmented Planning For Continual Embodied Instruction Following](https://arxiv.org/abs/2509.08222) | NeurIPS 2024 |
+| [Benchmarking Multimodal Retrieval Augmented Generation with Dynamic VQA Dataset and Self-adaptive Planning Agent](https://arxiv.org/abs/2411.02937) | 2024 |
+| [RAG over Tables: Hierarchical Memory Index, Multi-Stage Retrieval, and Benchmarking](https://arxiv.org/abs/2504.01346) | 2025 |
 | [Reasoning with Language Model is Planning with World Model](https://arxiv.org/abs/2305.14992) | NeurIPS 2023 |
-| [Leveraging Pre-trained LLMs to Construct World Models](https://arxiv.org/abs/2305.14909) | NeurIPS 2023 |
+| [Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning](https://arxiv.org/abs/2305.14909) | NeurIPS 2023 |
 | [Agent Planning with World Knowledge Model](https://arxiv.org/abs/2405.14205) | NeurIPS 2024 |
-| [BehaviorGPT: Smart Agent Simulation for Autonomous Driving](https://neurips.cc/) | NeurIPS 2024 |
-| [Dino-WM: World Models on Pre-trained Visual Features](https://arxiv.org/abs/2411.04983) | 2024 |
-| [FLIP: Flow-Centric Generative Planning](https://arxiv.org/abs/2412.08261) | 2024 |
+| [BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction](https://arxiv.org/abs/2405.17372) | NeurIPS 2024 |
+| [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning](https://arxiv.org/abs/2411.04983) | 2024 |
+| [FLIP: Flow-Centric Generative Planning as General-Purpose Manipulation World Model](https://arxiv.org/abs/2412.08261) | 2024 |
 | [Continual Reinforcement Learning by Planning with Online World Models](https://arxiv.org/abs/2507.09177) | 2025 |
-| [AdaWM: Adaptive World Model Based Planning](https://arxiv.org/abs/2501.13072) | 2025 |
-| [HuggingGPT: Solving AI Tasks with ChatGPT](https://arxiv.org/abs/2303.17580) | 2023 |
-| [Tool-Planner: Task Planning with Clusters](https://arxiv.org/abs/2406.03807) | 2024 |
-| [RetroInText: A Multimodal LLM Framework for Retrosynthetic Planning](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3Db2fbf1c9bc) | ICLR 2025 |
+| [AdaWM: Adaptive World Model based Planning for Autonomous Driving](https://arxiv.org/abs/2501.13072) | 2025 |
+| [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/abs/2303.17580) | 2023 |
+| [Tool-Planner: Task Planning with Clusters across Multiple Tools](https://arxiv.org/abs/2406.03807) | 2024 |
+| [RetroInText: A Multimodal Large Language Model Enhanced Framework for Retrosynthetic Planning via In-Context Representation Learning](https://openreview.net/forum?id=J6e4hurEKd) | ICLR 2025 |
 
 #### Post-training Planning
 
 | Paper | Year |
 | --- | --- |
 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 |
-| [Reflect-then-Plan: Offline Model-Based Planning](https://arxiv.org/abs/2506.06261) | 2025 |
+| [Reflect-then-Plan: Offline Model-Based Planning through a Doubly Bayesian Lens](https://arxiv.org/abs/2506.06261) | 2025 |
 | [Rational Decision-Making Agent with Internalized Utility Judgment](https://arxiv.org/abs/2308.12519) | 2023 |
 | [Scaling Autonomous Agents via Automatic Reward Modeling](https://arxiv.org/abs/2502.12130) | 2025 |
-| [Strategic Planning: A Top-Down Approach to Option Generation](https://openreview.net/forum?id=xkgQWEj9F2&noteId=mt0BbGT077) | ICML 2025 |
-| [Non-Myopic Generation of Language Models for Reasoning](https://arxiv.org/abs/2410.17195) | 2024 |
-| [Physics-Informed Temporal Difference Metric Learning](https://arxiv.org/abs/2505.05691) | 2025 |
+| [Strategic Planning: A Top-Down Approach to Option Generation](https://openreview.net/forum?id=xkgQWEj9F2&noteId=mt0BbGT077) | 2025 |
+| [Non-myopic Generation of Language Models for Reasoning and Planning](https://arxiv.org/abs/2410.17195) | 2024 |
+| [Physics-informed Temporal Difference Metric Learning for Robot Motion Planning](https://arxiv.org/abs/2505.05691) | 2025 |
 | [Generalizable Motion Planning via Operator Learning](https://arxiv.org/abs/2410.17547) | 2024 |
-| [ToolOrchestra: Elevating Intelligence via Efficient Model](https://arxiv.org/abs/2511.21689) | 2025 |
+| [ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration](https://arxiv.org/abs/2511.21689) | 2025 |
 | [Latent Diffusion Planning for Imitation Learning](https://arxiv.org/abs/2504.16925) | 2025 |
 | [SafeDiffuser: Safe Planning with Diffusion Probabilistic Models](https://openreview.net/forum?id=ig2wk7kK9J) | ICLR 2023 |
-| [ContraDiff: Planning Towards High Return States](https://openreview.net/forum?id=XMOaOigOQo) | ICLR 2025 |
-| [Amortized Planning with Large-Scale Transformers](https://arxiv.org/abs/2402.04494) | NeurIPS 2024 |
-| [GoPlan: Goal-Conditioned Offline Reinforcement Learning](https://arxiv.org/abs/2310.20025) | 2023 |
+| [ContraDiff: Planning Towards High Return States via Contrastive Learning](https://openreview.net/forum?id=XMOaOigOQo) | ICLR 2025 |
+| [Amortized Planning with Large-Scale Transformers: A Case Study on Chess](https://arxiv.org/abs/2402.04494) | NeurIPS 2024 |
+| [GOPlan: Goal-conditioned Offline Reinforcement Learning by Planning with Learned Models](https://arxiv.org/abs/2310.20025) | 2023 |
 
 
 ### 🛠️ Tool-Use Optimization
@@ -284,15 +285,15 @@ If you find this repository or paper useful, please consider citing the survey p
 | [ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases](https://arxiv.org/abs/2306.05301) | 2023 |
 | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842) | NeurIPS 2023 |
 | [RestGPT: Connecting Large Language Models with Real-World RESTful APIs](https://arxiv.org/abs/2306.06624) | 2023 |
-| [ADAPT: As-Needed Decomposition and Planning with Language Models](https://arxiv.org/abs/2311.05772) | 2023 |
+| [ADaPT: As-Needed Decomposition and Planning with Language Models](https://arxiv.org/abs/2311.05772) | 2023 |
 | [Agent Lumos: Unified and Modular Training for Open-Source Language Agents](https://arxiv.org/abs/2311.05657) | 2023 |
 | [Learning to Use Tools via Cooperative and Interactive Agents](https://arxiv.org/abs/2403.03031) | 2024 |
 | [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) | NeurIPS 2023 |
 | [Understanding the Effects of RLHF on LLM Generalisation and Diversity](https://arxiv.org/abs/2310.06452) | 2023 |
 | [Preserving Diversity in Supervised Fine-Tuning of Large Language Models](https://arxiv.org/abs/2408.16673) | 2024 |
-| [Attributing Mode Collapse in the Fine-Tuning of Large Language Models](https://arxiv.org/abs/2410.05559) | ICLR Workshop 2024 |
+| [Attribute Controlled Fine-tuning for Large Language Models: A Case Study on Detoxification](https://arxiv.org/abs/2410.05559) | EMNLP 2024 |
 | [Transformer Copilot: Learning from The Mistake Log in LLM Fine-tuning](https://arxiv.org/abs/2505.16270) | 2025 |
-| [Boosting Tool Use of Large Language Models via Iterative Reinforced Fine-Tuning](https://arxiv.org/html/2501.09766v1) | 2025 |
+| [iTool: Reinforced Fine-Tuning with Dynamic Deficiency Calibration for Advanced Tool Use](https://arxiv.org/abs/2501.09766v5) | 2025 |
 | [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/abs/2504.13958) | 2025 |
 | [Demystifying Reinforcement Learning in Agentic Reasoning](https://arxiv.org/abs/2510.11701) | 2025 |
 
@@ -301,7 +302,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Year |
 | --- | --- |
 | [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](https://arxiv.org/abs/2502.18449) | 2025 |
-| [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search](https://arxiv.org/abs/2410.20285) | 2024 |
+| [SWE-Search: Enhancing Software Agents with Monte Carlo Tree Search and Iterative Refinement](https://arxiv.org/abs/2410.20285) | 2024 |
 | [RLVMR: Reinforcement Learning with Verifiable Meta-Reasoning Rewards for Robust Long-Horizon Agents](https://arxiv.org/abs/2507.22844) | 2025 |
 | [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516) | 2025 |
 | [AutoTool: Dynamic Tool Selection and Integration for Agentic Reasoning](https://arxiv.org/abs/2512.13278) | 2025 |
@@ -373,7 +374,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | Paper | Year |
 | --- | --- |
 | [Toolformer: Language Models Can Teach Themselves to Use Tools](https://proceedings.neurips.cc/paper_files/paper/2023/file/d842425e4bf79ba039352da0f658a906-Paper-Conference.pdf) | NeurIPS 2023 |
-| [INTERS: Unlocking the power of large language models in search with instruction tuning](https://arxiv.org/abs/2401.06532) | 2024 |
+| [INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning](https://arxiv.org/abs/2401.06532) | 2024 |
 | [RAG-Studio: Towards In-Domain Adaptation of Retrieval Augmented Generation through Self-Alignment](https://aclanthology.org/2024.findings-emnlp.41/) | EMNLP (Findings) 2024 |
 | [RAFT: Adapting Language Model to Domain Specific RAG](https://arxiv.org/abs/2403.10131) | 2024 |
 | [Search-o1: Agentic search-enhanced large reasoning models](https://arxiv.org/abs/2501.05366) | 2025 |
