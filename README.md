@@ -1,7 +1,7 @@
 # Awesome Agentic Reasoning Papers
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![arXiv](https://img.shields.io/badge/arXiv-2601.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2501.xxxxx)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.12538-b31b1b.svg)](https://arxiv.org/abs/2501.xxxxx)
 [![GitHub stars](https://img.shields.io/github/stars/weitianxin/Awesome-Agentic-Reasoning?style=social)](https://github.com/weitianxin/Awesome-Agentic-Reasoning/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/weitianxin/Awesome-Agentic-Reasoning?style=social)](https://github.com/weitianxin/Awesome-Agentic-Reasoning/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
