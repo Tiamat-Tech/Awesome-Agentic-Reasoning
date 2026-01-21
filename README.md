@@ -783,7 +783,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [AI Achieves Silver-Medal Standard Solving International Mathematical Olympiad Problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level) | Google DeepMind 2024 |
 | [Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761) | NeurIPS 2023 |
 | [ToolCoder: Teach Code Generation Models to use API search tools](https://arxiv.org/abs/2305.04032) | 2023 |
-| [ToolGen: Unified Tool Retrieval and Calling via Generation](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3D...) | ICLR 2025 |
+| [ToolGen: Unified Tool Retrieval and Calling via Generation](https://arxiv.org/abs/2410.03439) | ICLR 2025 |
 | [CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges](https://aclanthology.org/2024.acl-long.739/) | ACL 2024 |
 | [ROCODE: Integrating Backtracking Mechanism and Program Analysis in Large Language Models for Code Generation](https://arxiv.org/abs/2411.07112) | ICSE 2025 |
 | [CodeTool: Enhancing Programmatic Tool Invocation of LLMs via Process Supervision](https://arxiv.org/abs/2503.20840) | 2025 |
@@ -834,15 +834,15 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Year |
 | --- | --- |
-| [ProtAgents: protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://www.google.com/search?q=https://doi.org/10.1039/d4dd00039k) | Digital Discovery 2024 |
+| [ProtAgents: protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://arxiv.org/abs/2402.04268) | Digital Discovery 2024 |
 | [Agent-based learning of materials datasets from the scientific literature](https://doi.org/10.1039/D4DD00252K) | Digital Discovery 2024 |
 | [React: Synergizing reasoning and acting in language models](https://openreview.net/forum?id=WE_vluYUL-X) | ICLR 2023 |
-| [Biomni: A General-Purpose Biomedical AI Agent](https://www.biorxiv.org/content/10.1101/2025.05.01.636412v1) | bioRxiv 2025 |
+| [Biomni: A General-Purpose Biomedical AI Agent](https://www.biorxiv.org/content/10.1101/2025.05.30.656746v1.full.pdf) | bioRxiv 2025 |
 | [Sciagent: Tool-augmented language models for scientific reasoning](https://arxiv.org/abs/2402.11451) | 2024 |
 | [Chemcrow: Augmenting large-language models with chemistry tools](https://arxiv.org/abs/2304.05376) | 2023 |
-| [Cactus: Chemistry agent connecting tool usage to science](https://pubs.acs.org/doi/10.1021/acsomega.4c06277) | ACS Omega 2024 |
+| [Cactus: Chemistry agent connecting tool usage to science](https://arxiv.org/abs/2405.00972) | ACS Omega 2024 |
 | [Chemtoolagent: The impact of tools on language agents for chemistry problem solving](https://arxiv.org/abs/2411.07228) | 2024 |
-| [ChemAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning](https://arxiv.org/abs/2506.07551) | 2025 |
+| [CheMatAgent: Enhancing LLMs for Chemistry and Materials Science through Tree-Search Based Tool Learning](https://arxiv.org/abs/2506.07551) | 2025 |
 | [TxAgent: An AI agent for therapeutic reasoning across a universe of tools](https://arxiv.org/abs/2503.10970) | 2025 |
 | [Agentmd: Empowering language agents for risk prediction with large-scale clinical tool learning](https://arxiv.org/abs/2402.13225) | Nature Communications 2025 |
 | [Paperqa: Retrieval-augmented generative agent for scientific research](https://arxiv.org/abs/2312.07559) | 2023 |
@@ -851,7 +851,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Honeycomb: A flexible llm-based agent system for materials science](https://arxiv.org/abs/2409.00135) | 2024 |
 | [Crispr-gpt: An llm agent for automated design of gene-editing experiments](https://arxiv.org/abs/2404.18021) | 2024 |
 | [Pharmagents: Building a virtual pharma with large language model agents](https://arxiv.org/abs/2503.22164) | 2025 |
-| [ORGANA: A robotic assistant for automated chemistry experimentation and characterization](https://doi.org/10.1016/j.matt.2024.12.001) | Matter 2025 |
+| [ORGANA: A robotic assistant for automated chemistry experimentation and characterization](https://www.sciencedirect.com/science/article/abs/pii/S2590238524005423) | Matter 2025 |
 | [AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence](https://arxiv.org/abs/2407.10022) | 2024 |
 | [Chemist-X: Large Language Model-empowered Agent for Reaction Condition Recommendation](https://arxiv.org/abs/2311.10776) | 2024 |
 | [Llm and simulation as bilevel optimizers: A new paradigm to advance physical scientific discovery](https://arxiv.org/abs/2405.09783) | 2024 |
@@ -881,7 +881,7 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Year |
 | --- | --- |
-| [ProtAgents: protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://www.google.com/search?q=https://doi.org/10.1039/d4dd00039k) | Digital Discovery 2024 |
+| [ProtAgents: protein discovery via large language model multi-agent collaborations combining physics and machine learning](https://arxiv.org/abs/2402.04268) | Digital Discovery 2024 |
 | [PiFlow: Principle-aware Scientific Discovery with Multi-Agent Collaboration](https://arxiv.org/abs/2505.15047) | 2025 |
 | [AtomAgents: Alloy design and discovery through physics-aware multi-modal multi-agent artificial intelligence](https://arxiv.org/abs/2407.10022) | 2024 |
 | [CellAgent: LLM-Driven Multi-Agent Framework for Natural Language-Based Single-Cell Analysis](https://www.biorxiv.org/content/10.1101/2024.05.13.593861v4) | BioRxiv 2024 |
@@ -898,7 +898,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691) | CoRL 2022 |
 | [SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Robot Task Planning](https://proceedings.mlr.press/v229/rana23a.html) | CoRL 2023 |
 | [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021) | NeurIPS 2023 |
-| [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://www.google.com/search?q=https://arxiv.org/abs/2408.06877) | ECCV 2024 |
+| [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://arxiv.org/abs/2308.07241) | ECCV 2024 |
 | [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/abs/2302.01560) | NeurIPS 2023 |
 | [Robotic Control via Embodied Chain-of-Thought Reasoning](https://arxiv.org/abs/2407.08693) | CoRL 2024 |
 | [Fast ECoT: Fast Embodied Chain-of-Thought for Vision-Language-Action Models](https://arxiv.org/abs/2501.12745) | 2025 |
@@ -937,7 +937,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | Paper | Year |
 | --- | --- |
 | [LLM-Empowered Embodied Agent with Memory-Augmented Planning](https://arxiv.org/abs/2412.18260) | 2024 |
-| [Optimus-1: Hybrid Multimodal Memory Empowered Agents for Long-Horizon Tasks in Minecraft](https://www.google.com/search?q=https://arxiv.org/abs/2408.06371) | 2024 |
+| [Optimus-1: Hybrid Multimodal Memory Empowered Agents for Long-Horizon Tasks in Minecraft](https://arxiv.org/abs/2408.03615) | 2024 |
 | [Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models](https://arxiv.org/abs/2310.15127) | EMNLP 2023 |
 | [Endowing Embodied Agents with Spatial Intelligence by Brain-Inspired Memory](https://arxiv.org/abs/2501.08253) | 2025 |
 | [Context-Aware Planning and Environment-Aware Memory for Instruction Following Embodied Agents](https://arxiv.org/abs/2408.06877) | 2024 |
@@ -948,7 +948,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Octopus: Embodied Vision-Language Programmer from Environmental Feedback](https://arxiv.org/abs/2310.08588) | ECCV 2024 |
 | [MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Collaborative Learning](https://arxiv.org/abs/2411.12977) | 2024 |
 | [Efficient LLM Grounding for Embodied Multi-Agent Collaboration](https://arxiv.org/abs/2410.16548) | 2024 |
-| [Optimus-1: Hybrid Multimodal Memory Empowered Agents for Long-Horizon Tasks in Minecraft](https://www.google.com/search?q=https://arxiv.org/abs/2408.06371) | 2024 |
+| [Optimus-1: Hybrid Multimodal Memory Empowered Agents for Long-Horizon Tasks in Minecraft](https://arxiv.org/abs/2408.03615) | 2024 |
 | [Self-Correction for Humanoid Robots via LLM-Based Agentic Workflows](https://arxiv.org/abs/2502.04351) | 2025 |
 | [EMAC+: Enhanced Multimodal Agent for Continuous and Cooperative Tasks](https://arxiv.org/abs/2501.10705) | 2025 |
 | [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) | 2023 |
@@ -1120,7 +1120,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents](https://arxiv.org/abs/2509.06501) | 2025 |
 | [WebSailor: Uncertainty-Driven Post-Training for Web Agents](https://arxiv.org/abs/2501.03606) | 2025 |
 | [RaDA: Retrieval-augmented Task Decomposition and Action Generation](https://arxiv.org/abs/2411.00820) | 2024 |
-| [Synapse: Trajectory-as-Exemplar Prompting for Computer Control](https://www.google.com/search?q=https://openreview.net/forum%3Fid%3DZ3s4FqZ6j3) | ICLR 2024 |
+| [Synapse: Trajectory-as-Exemplar Prompting for Computer Control](https://openreview.net/forum?id=Pc8AU1aF5e) | ICLR 2024 |
 | [LearnAct: Few-Shot Mobile GUI Agent with a Unified Demonstration Benchmark](https://arxiv.org/abs/2504.13805) | 2025 |
 | [MobileGPT: A Mobile Assistant with Human-like App Memory](https://arxiv.org/abs/2311.16528) | 2023 |
 | [Retrieval-augmented GUI Agents with Generative Guidelines (RAG-GUI)](https://arxiv.org/abs/2509.24183) | 2025 |
