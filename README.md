@@ -3,6 +3,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.12538-b31b1b.svg)](https://arxiv.org/abs/2601.12538)
 [![Coverage](https://img.shields.io/badge/Coverage-View%20Post-1DA1F2?logo=x&logoColor=white)](https://x.com/wei_tianxin/status/2014133714976985538)
+[![Hugging Face #1 Paper of the Day](https://img.shields.io/badge/HuggingFace-%231%20Paper%20of%20the%20Day-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/papers/2601.12538)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg)](https://github.com/weitianxin/Awesome-Agentic-Reasoning/blob/main/CONTRIBUTING.md)
 ![Last Commit](https://img.shields.io/github/last-commit/weitianxin/Awesome-Agentic-Reasoning)
@@ -15,7 +17,7 @@ This repository organizes research by thematic areas that integrate reasoning wi
 ![Framework overview](figs/overview.png)
 
 ## 🔔 News
-**[01/21/26]** 🚀 We have released a comprehensive survey on Agentic Reasoning for Large Language Models! The paper is now available on [arxiv](https://arxiv.org/abs/2601.12538). We welcome contributions from the community to help expand and improve our survey 🤗!
+**[01/21/26]** 🚀 We have released a comprehensive survey on ***Agentic Reasoning for Large Language Models***! The paper is now available on [arxiv](https://arxiv.org/abs/2601.12538) and [HuggingFace](https://huggingface.co/papers/2601.12538). We welcome contributions from the community to help expand and improve our survey 🤗!
 
 ## 📋 Table of Contents
 - [🔔 News](#-news)
