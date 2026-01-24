@@ -95,7 +95,7 @@ If you find this repository or paper useful, please consider citing the survey p
 ```bibtex
 @article{wei2026agentic,
   title={Agentic Reasoning for Large Language Models},
-  author={Wei, Tianxin and Li, Ting-Wei and Liu, Zhining and Ning, Xuying and Yang, Ze and Zou, Jiaru and Zeng, Zhichen and Qiu, Ruizhong and Lin, Xiao and Fu, Dongqi and Li, Zihao and Ai, Mengting and Zhou, Duo and Bao, Wenxuan and Li, Yunzhe and Li, Gaotang and Qian, Cheng and Wang, Yu and Tang, Xiangru and Xiao, Yin and Fang, Liri and Liu, Hui and Tang, Xianfeng and Zhang, Yuji and Wang, Chi and You, Jiaxuan and Ji, Heng and Tong, Hanghang and He, Jingrui},
+  author={Wei, Tianxin and Li, Ting-Wei and Liu, Zhining and Ning, Xuying and Yang, Ze and Zou, Jiaru and Zeng, Zhichen and Qiu, Ruizhong and Lin, Xiao and Fu, Dongqi and others},
   journal={arXiv preprint arXiv:2601.12538},
   year={2026}
 }
