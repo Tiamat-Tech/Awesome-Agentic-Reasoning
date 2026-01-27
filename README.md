@@ -329,6 +329,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Learning How to Use Tools, Not Just When: Pattern-Aware Tool-Integrated Reasoning](https://arxiv.org/pdf/2509.23292) | 2025 |
 | [SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models](https://arxiv.org/pdf/2601.03555) | 2026 |
 | [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular Reasoning](https://arxiv.org/abs/2510.06217) | 2025 |
+| [Tool-integrated Reinforcement Learning for Repo Deep Search](https://arxiv.org/abs/2508.03012) | ICSE 2026 |
 
 #### Orchestration-based Tool-Integration
 
