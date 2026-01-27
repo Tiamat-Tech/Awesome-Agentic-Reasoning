@@ -326,6 +326,8 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Gemini 2.5: Pushing the Frontier with Advanced Reasoning and Next Generation Agentic Capabilities](https://arxiv.org/abs/2507.06261) | 2025 |
 | [Kimi k2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534) | 2025 |
 | [GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models](https://arxiv.org/abs/2508.06471) | 2025 |
+| [Learning How to Use Tools, Not Just When: Pattern-Aware Tool-Integrated Reasoning](https://arxiv.org/pdf/2509.23292) | 2025 |
+| [SCRIBE: Structured Mid-Level Supervision for Tool-Using Language Models](https://arxiv.org/pdf/2601.03555) | 2026 |
 | [TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular Reasoning](https://arxiv.org/abs/2510.06217) | 2025 |
 
 #### Orchestration-based Tool-Integration
@@ -1048,6 +1050,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227) | 2025 |
 | [GPT Researcher](https://github.com/assafelovic/gpt-researcher) | 2023 |
 | [Accelerating Scientific Research Through a Multi-LLM Framework](https://arxiv.org/abs/2502.07960) | 2025 |
+| [Video-Browser: Towards Agentic Open-web Video Browsing](https://arxiv.org/pdf/2512.23044) | 2025 |
 | [InternAgent: When Agent Becomes the Scientist -- Building Closed-Loop System from Hypothesis to Verification](https://arxiv.org/abs/2505.16938) | 2025 |
 | [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) | 2021 |
 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | NeurIPS 2020 |
@@ -1361,15 +1364,26 @@ Here are the extracted citation tables grouped by their respective sections.
 
 | Paper | Year |
 | --- | --- |
+| [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206) | NeurIPS 2022 |
 | [WebArena: A Realistic Web Environment for Building Autonomous Agents](https://arxiv.org/abs/2307.13854) | ICLR 2024 |
+| [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://arxiv.org/abs/2404.07972) | NeurIPS 2024 |
+| [AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901) | ACL 2024 |
+| [WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?](https://arxiv.org/abs/2403.07718) | 2024 |
 | [VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks](https://arxiv.org/abs/2401.13649) | NeurIPS 2024 |
 | [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://arxiv.org/abs/2401.13919) | ACL 2024 |
 | [Mind2Web: Towards a Generalist Agent for the Web](https://arxiv.org/abs/2306.06070) | NeurIPS 2023 |
+| [Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506) | 2025 |
 | [WebCanvas: Benchmarking Web Agents in Online Canvas](https://arxiv.org/abs/2406.12373) | NeurIPS 2024 |
+| [Web-Bench: A LLM Code Benchmark Based on Web Standards and Frameworks](https://arxiv.org/abs/2505.07473) | 2025 |
+| [VisualWebBench: How Far Have Multimodal LLMs Evolved in Web Page Understanding and Grounding?](https://www.arxiv.org/abs/2404.05955) | 2024 |
 | [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://arxiv.org/abs/2402.05930) | CVPR 2024 |
 | [LASER: LLM Agent with State-Space Exploration for Web Navigation](https://arxiv.org/abs/2309.08172) | NeurIPS 2023 |
 | [AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Agent for Automated Web Navigation](https://arxiv.org/abs/2404.03648) | 2024 |
-
+| [OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web](https://arxiv.org/abs/2402.17553) | 2024 |
+| [BEARCUBS: A benchmark for computer-using web agents](https://arxiv.org/abs/2503.07919) | 2025 |
+| [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516) | 2025 |
+| [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://www.arxiv.org/abs/2504.19314) | 2025 |
+| [Video-Browser: Towards Agentic Open-web Video Browsing](https://arxiv.org/pdf/2512.23044) | 2025 |
 
 
 #### General Tool-Use Agents
