@@ -159,7 +159,6 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Prompt-Based Monte-Carlo Tree Search for Goal-Oriented Dialogue Policy Planning](https://arxiv.org/abs/2305.13660) | 2023 |
 | [Large Language Models as Tool Makers](https://arxiv.org/abs/2305.17126) | ICLR 2024 |
 | [Everything of Thoughts: Defying the Law of Penrose Triangle for Thought Generation](https://arxiv.org/abs/2311.04254) | 2023 |
-| [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://openreview.net/forum?id=5Xc1ecxO1h) | NeurIPS 2023 |
 | [Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training](https://arxiv.org/abs/2309.17179) | 2023 |
 | [Broaden your SCOPE! Efficient Multi-turn Conversation Planning for LLMs with Semantic Space](https://arxiv.org/abs/2503.11586) | 2025 |
 | [Self-Evaluation Guided Beam Search for Reasoning](https://arxiv.org/abs/2305.00633) | NeurIPS 2023 |
