@@ -85,7 +85,7 @@ This collection is an ongoing effort. We are actively expanding and refining its
 - Open an issue to suggest additional papers or resources
 - Email us at twei10@illinois.edu, twli@illinois.edu, liu326@illinois.edu
 
-We regularly update the repository to include new research.
+We regularly update the repository to include new research works on agentic reasoning.
 
 
 ## 📝 Citation
