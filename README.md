@@ -30,6 +30,7 @@ This repository organizes research by thematic areas that integrate reasoning wi
 - [🏗️ Foundational Agentic Reasoning](#%EF%B8%8F-foundational-agentic-reasoning)
   - [🗺️ Planning Reasoning](#%EF%B8%8F-planning-reasoning)
   - [🛠️ Tool-Use Optimization](#%EF%B8%8F-tool-use-optimization)
+    - [Practical Tools and Infrastructure](#practical-tools-and-infrastructure)
   - [🔍 Agentic Search](#-agentic-search)
 - [🧬 Self-evolving Agentic Reasoning](#-self-evolving-agentic-reasoning)
   - [🔄 Agentic Feedback Mechanisms](#-agentic-feedback-mechanisms)
@@ -308,6 +309,8 @@ If you find this repository or paper useful, please consider citing the survey p
 
 | Paper | Year |
 | --- | --- |
+| [Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report](https://arxiv.org/abs/2608.15763) | 2026 |
+| [On Effectiveness and Efficiency of Agentic Tool-calling and RL Training](https://arxiv.org/abs/2606.00135) | ICML 2026 |
 | [Tool-integrated Reinforcement Learning for Repo Deep Search](https://arxiv.org/abs/2508.03012) | ICSE 2026 |
 | [SoRFT: Issue Resolving with Subtask-oriented Reinforced Fine-Tuning](https://aclanthology.org/2025.acl-long.559/) | ACL 2025 |
 | [SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution](https://arxiv.org/abs/2502.18449) | 2025 |
@@ -356,6 +359,13 @@ If you find this repository or paper useful, please consider citing the survey p
 | [T^2Agent: A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search](https://arxiv.org/abs/2505.19768) | 2025 |
 | [ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search](https://arxiv.org/abs/2310.13227) | 2023 |
 | [ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval](https://aclanthology.org/2024.lrec-main.1413/) | COLING 2024 |
+
+#### Practical Tools and Infrastructure
+
+| Resource | Year |
+| --- | --- |
+| [Agentic Reasoning Protocol (reasoning.json)](https://arp-protocol.org/) [[code]](https://github.com/SaschaDeforth/arp-protocol) | 2026 |
+| [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) | 2025 |
 
 ### 🔍 Agentic Search
 
@@ -503,6 +513,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models](https://arxiv.org/abs/2510.04618) | 2025 |
 | [ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140) | 2025 |
 | [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857) | 2025 |
+| [ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction](https://arxiv.org/abs/2608.20920) | Findings of EMNLP 2026 |
 
 #### Structured Use of Memory
 
@@ -630,6 +641,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [Agent-oriented planning in multi-agent systems](https://arxiv.org/abs/2410.02189) | 2024 |
 | [AgentRouter: A Knowledge-Graph-Guided LLM Router for Collaborative Multi-Agent Question Answering](https://arxiv.org/abs/2510.05445) | 2025 |
 | [Talk to Right Specialists: Routing and planning in multi-agent system for question answering](https://arxiv.org/abs/2501.07813) | 2025 |
+| [AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607) [[code]](https://github.com/Daviddjddu/Autonumerics) | 2026 |
 
 ##### Theory-of-Mind-Augmented Collaboration
 
@@ -653,6 +665,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [DSPy Assertions: Computational Constraints for Self-Refining Language Model Pipelines](https://arxiv.org/abs/2312.13382) | 2023 |
 | [Multi-agent Design: Optimizing Agents with Better Prompts and Topologies](https://arxiv.org/abs/2502.02533) | 2025 |
 | [Automatic Prompt Optimization with "Gradient Descent" and Beam Search](https://arxiv.org/abs/2305.03495) | 2023 |
+| [Implicit Behavioral Alignment of Language Agents in High-Stakes Crowd Simulations](https://arxiv.org/abs/2509.16457) | EMNLP 2025 |
 
 ##### Graph-based Topology Generation
 
@@ -737,6 +750,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [AFlow: Automating Agentic Workflow Generation](https://openreview.net/forum?id=z5uVAKwmjf) | ICLR 2025 |
 | [Testing Advanced Driver Assistance Systems Using Multi-Objective Search and Neural Networks](https://dl.acm.org/doi/10.1145/2970276.2970311) | ASE 2016 |
 | [Latent Collaboration in Multi-Agent Systems](https://arxiv.org/abs/2511.20639) | 2025 |
+| [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) | 2026 |
 
 #### Multi-agent Memory Management for Evolution
 
@@ -753,6 +767,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [MAPLE: Multi-Agent Adaptive Planning with Long-Term Memory for Table Reasoning](https://aclanthology.org/2025.alta-main.10/) | ALTA 2025 |
 | [Lyfe Agents: Generative agents for low-cost real-time social interactions](https://arxiv.org/abs/2310.02172) | 2023 |
 | [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) | 2025 |
+| [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) | 2026 |
 
 #### Training Multi-agent to Evolve
 
@@ -819,6 +834,7 @@ If you find this repository or paper useful, please consider citing the survey p
 
 | Paper | Year |
 | --- | --- |
+| [Steer, Don't Solve: Training Small Critic Models for Large Code Agents](https://arxiv.org/abs/2606.21811) | 2026 |
 | [Evaluating Language Models for Mathematics through Interactions](https://www.pnas.org/doi/10.1073/pnas.2318124121) | PNAS 2024 |
 | [CLCL: Non-compositional Expression Detection with Contrastive Learning and Curriculum Learning](https://aclanthology.org/2023.acl-long.43/) | ACL 2023 |
 | [Is Self-Repair a Silver Bullet for Code Generation?](https://arxiv.org/abs/2306.09896) | 2024 |
@@ -847,6 +863,7 @@ If you find this repository or paper useful, please consider citing the survey p
 | [CodeCoR: An LLM-based Self-Reflective Multi-Agent Framework for Code Generation](https://arxiv.org/abs/2501.07811) | 2025 |
 | [SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering](https://arxiv.org/abs/2502.06994) | ICML 2025 |
 | [Hallucination to Consensus: Multi-Agent LLMs for End-to-End Test Generation](https://arxiv.org/abs/2506.02943) | 2025 |
+| [CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery](https://arxiv.org/abs/2604.01658) | 2026 |
 
 ### 🔬 Scientific Discovery Agents
 
@@ -884,6 +901,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [PaperQA: Retrieval-Augmented Generative Agent for Scientific Research](https://arxiv.org/abs/2312.07559) | 2023 |
 | [Language agents achieve superhuman synthesis of scientific knowledge](https://arxiv.org/abs/2409.13740) | 2024 |
 | [LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation](https://arxiv.org/abs/2401.17244) | 2024 |
+| [CAJAL: Local Scientific Paper Generation LLM](https://github.com/Agnuxo1/CAJAL) | 2026 |
 
 #### Self-evolving Agentic Reasoning
 
@@ -907,6 +925,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [Accelerating Scientific Research Through a Multi-LLM Framework](https://arxiv.org/abs/2502.07960) | 2025 |
 | [Toward a team of ai-made scientists for scientific discovery from gene expression data](https://arxiv.org/abs/2402.12391) | 2024 |
 | [The virtual lab: Ai agents design new sars-cov-2 nanobodies with experimental validation](https://www.biorxiv.org/content/10.1101/2024.11.11.623004v1) | bioRxiv 2024 |
+| [P2PCLAW: A Decentralized Framework for Agent-Native Scientific Research](https://arxiv.org/abs/2604.19792) [[code]](https://github.com/Agnuxo1/OpenCLAW-P2P) | 2026 |
 
 ### 🤖 Embodied Agents
 
@@ -1349,6 +1368,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [CLIN: A Continually Learning Language Agent for Rapid Task Adaptation and Generalization](https://arxiv.org/abs/2310.10134) | NeurIPS 2023 |
 | [Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934) | 2024 |
 | [InfoDeepSeek: Benchmarking Agentic Information Seeking for Retrieval-Augmented Generation](https://arxiv.org/abs/2505.15872) | 2025 |
+| [A Benchmark for Deep Information Synthesis](https://arxiv.org/abs/2602.21143) | ICLR 2026 |
 
 
 
@@ -1388,6 +1408,7 @@ Here are the extracted citation tables grouped by their respective sections.
 | [BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents](https://arxiv.org/abs/2504.12516) | 2025 |
 | [BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese](https://www.arxiv.org/abs/2504.19314) | 2025 |
 | [Video-Browser: Towards Agentic Open-web Video Browsing](https://arxiv.org/pdf/2512.23044) | 2025 |
+| [ClawBench: Can AI Agents Complete Everyday Online Tasks?](https://arxiv.org/abs/2604.08523) | 2026 |
 
 
 #### General Tool-Use Agents
