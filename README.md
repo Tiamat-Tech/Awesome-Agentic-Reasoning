@@ -10,18 +10,18 @@
 ![Last Commit](https://img.shields.io/github/last-commit/weitianxin/Awesome-Agentic-Reasoning)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=weitianxin.Awesome-Agentic-Reasoning)
 
-This repository organizes research by thematic areas that integrate reasoning with action, including planning, tool use, search, self-evolution through memory and feedback, multi-agent systems, and real-world applications and benchmarks.
+This repository organizes research by thematic areas that integrate reasoning with action, including planning, tool use, search, self-evolution and recursive self-improvement (RSI) through memory and feedback, collective intelligence in multi-agent systems, and real-world applications and benchmarks.
 
 > 📄 **Based on the survey**: *[Agentic Reasoning for Large Language Models: A Survey](https://arxiv.org/abs/2601.12538)*
 
 ![Framework overview](figs/overview.png)
 
 ## 🔔 News
-**[09/19/26]** 🎉 Our survey, ***Agentic Reasoning for Large Language Models***, has been accepted to Transactions on Machine Learning Research (TMLR)!
+**[09/19/26]** 🎉 Our survey, ***A Survey of Agentic Reasoning for Large Language Models: Towards Recursively Self-Improving and Collective Agents***, has been accepted to Transactions on Machine Learning Research (TMLR)!
 
 **[03/09/26]** 📊 [Slides](materials/Agentic%20Reasoning%20Survey%20Talk.pdf) are now available to provide a clearer overview of the survey and highlight key insights. We will continue updating the paper with further improvements.
 
-**[01/21/26]** 🚀 We have released a comprehensive survey on ***Agentic Reasoning for Large Language Models***! The paper is now available on [arxiv](https://arxiv.org/abs/2601.12538) and [HuggingFace](https://huggingface.co/papers/2601.12538). We welcome contributions from the community to help expand and improve our survey 🤗!
+**[01/21/26]** 🚀 We have released a comprehensive survey, ***A Survey of Agentic Reasoning for Large Language Models: Towards Recursively Self-Improving and Collective Agents***! The paper is now available on [arxiv](https://arxiv.org/abs/2601.12538) and [HuggingFace](https://huggingface.co/papers/2601.12538). We welcome contributions from the community to help expand and improve our survey 🤗!
 
 ## 📋 Table of Contents
 - [🔔 News](#-news)
