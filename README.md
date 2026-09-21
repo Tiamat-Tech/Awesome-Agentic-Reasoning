@@ -17,6 +17,8 @@ This repository organizes research by thematic areas that integrate reasoning wi
 ![Framework overview](figs/overview.png)
 
 ## 🔔 News
+**[09/19/26]** 🎉 Our survey, ***Agentic Reasoning for Large Language Models***, has been accepted to Transactions on Machine Learning Research (TMLR)!
+
 **[03/09/26]** 📊 [Slides](materials/Agentic%20Reasoning%20Survey%20Talk.pdf) are now available to provide a clearer overview of the survey and highlight key insights. We will continue updating the paper with further improvements.
 
 **[01/21/26]** 🚀 We have released a comprehensive survey on ***Agentic Reasoning for Large Language Models***! The paper is now available on [arxiv](https://arxiv.org/abs/2601.12538) and [HuggingFace](https://huggingface.co/papers/2601.12538). We welcome contributions from the community to help expand and improve our survey 🤗!
